@@ -1,0 +1,3676 @@
+<?xml version="1.1" encoding="utf-8"?>
+<!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
+<!--Last edited by KbdEdit version 24.12.0 2330-3523 on 2024-12-25 at 08:18 (GMT+0)-->
+<keyboard group="126" id="-20043" maxout="1" name="German E1 2023-08">
+	<layouts>
+		<layout first="0" last="0" mapSet="16c" modifiers="f4"/>
+	</layouts>
+	<modifierMap id="f4" defaultIndex="0">
+		<keyMapSelect mapIndex="0">
+			<modifier keys=""/>
+		</keyMapSelect>
+		<keyMapSelect mapIndex="1">
+			<modifier keys="caps"/>
+		</keyMapSelect>
+		<keyMapSelect mapIndex="2">
+			<modifier keys="anyShift"/>
+		</keyMapSelect>
+		<keyMapSelect mapIndex="3">
+			<modifier keys="caps anyShift"/>
+		</keyMapSelect>
+		<keyMapSelect mapIndex="4">
+			<modifier keys="anyControl"/>
+		</keyMapSelect>
+		<keyMapSelect mapIndex="5">
+			<modifier keys="anyControl anyShift"/>
+		</keyMapSelect>
+		<keyMapSelect mapIndex="6">
+			<modifier keys="anyOption"/>
+		</keyMapSelect>
+		<keyMapSelect mapIndex="7">
+			<modifier keys="anyOption caps"/>
+		</keyMapSelect>
+		<keyMapSelect mapIndex="8">
+			<modifier keys="anyOption anyShift"/>
+		</keyMapSelect>
+		<keyMapSelect mapIndex="9">
+			<modifier keys="anyOption caps anyShift"/>
+		</keyMapSelect>
+		<keyMapSelect mapIndex="10">
+			<modifier keys="anyControl anyOption"/>
+		</keyMapSelect>
+		<keyMapSelect mapIndex="11">
+			<modifier keys="anyControl anyOption caps"/>
+		</keyMapSelect>
+		<keyMapSelect mapIndex="12">
+			<modifier keys="anyControl anyOption anyShift"/>
+		</keyMapSelect>
+		<keyMapSelect mapIndex="13">
+			<modifier keys="anyControl anyOption caps anyShift"/>
+		</keyMapSelect>
+	</modifierMap>
+	<keyMapSet id="16c">
+		<keyMap index="0">
+			<key code="0" action="a"/>
+			<key code="1" action="s"/>
+			<key code="2" action="d"/>
+			<key code="3" action="f"/>
+			<key code="4" action="h"/>
+			<key code="5" action="g"/>
+			<key code="6" action="y"/>
+			<key code="7" action="x"/>
+			<key code="8" action="c"/>
+			<key code="9" action="v"/>
+			<key code="10" action="^"/>
+			<key code="11" action="b"/>
+			<key code="12" action="q"/>
+			<key code="13" action="w"/>
+			<key code="14" action="e"/>
+			<key code="15" action="r"/>
+			<key code="16" action="z"/>
+			<key code="17" action="t"/>
+			<key code="18" action="1"/>
+			<key code="19" action="2"/>
+			<key code="20" action="3"/>
+			<key code="21" action="4"/>
+			<key code="22" action="6"/>
+			<key code="23" action="5"/>
+			<key code="24" action="´"/>
+			<key code="25" action="9"/>
+			<key code="26" action="7"/>
+			<key code="27" action="ß"/>
+			<key code="28" action="8"/>
+			<key code="29" action="0"/>
+			<key code="30" action="+"/>
+			<key code="31" action="o"/>
+			<key code="32" action="u"/>
+			<key code="33" action="ü"/>
+			<key code="34" action="i"/>
+			<key code="35" action="p"/>
+			<key code="36" output="&#x000D;"/>
+			<key code="37" action="l"/>
+			<key code="38" action="j"/>
+			<key code="39" action="ä"/>
+			<key code="40" action="k"/>
+			<key code="41" action="ö"/>
+			<key code="42" action="#"/>
+			<key code="43" action=","/>
+			<key code="44" action="-"/>
+			<key code="45" action="n"/>
+			<key code="46" action="m"/>
+			<key code="47" action="."/>
+			<key code="48" output="&#x0009;"/>
+			<key code="49" action=" "/>
+			<key code="50" action="&#x003C;"/>
+			<key code="51" output="&#x0008;"/>
+			<key code="53" output="&#x001B;"/>
+			<key code="65" action=","/>
+			<key code="67" action="*"/>
+			<key code="69" action="+"/>
+			<key code="71" output="&#x001B;"/>
+			<key code="75" action="/"/>
+			<key code="76" output="&#x000D;"/>
+			<key code="78" action="-"/>
+			<key code="81" output="="/>
+			<key code="82" action="0"/>
+			<key code="83" action="1"/>
+			<key code="84" action="2"/>
+			<key code="85" action="3"/>
+			<key code="86" action="4"/>
+			<key code="87" action="5"/>
+			<key code="88" action="6"/>
+			<key code="89" action="7"/>
+			<key code="91" action="8"/>
+			<key code="92" action="9"/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+		<keyMap index="1">
+			<key code="0" action="A"/>
+			<key code="1" action="S"/>
+			<key code="2" action="D"/>
+			<key code="3" action="F"/>
+			<key code="4" action="H"/>
+			<key code="5" action="G"/>
+			<key code="6" action="Y"/>
+			<key code="7" action="X"/>
+			<key code="8" action="C"/>
+			<key code="9" action="V"/>
+			<key code="10" action="^"/>
+			<key code="11" action="B"/>
+			<key code="12" action="Q"/>
+			<key code="13" action="W"/>
+			<key code="14" action="E"/>
+			<key code="15" action="R"/>
+			<key code="16" action="Z"/>
+			<key code="17" action="T"/>
+			<key code="18" action="1"/>
+			<key code="19" action="2"/>
+			<key code="20" action="3"/>
+			<key code="21" action="4"/>
+			<key code="22" action="6"/>
+			<key code="23" action="5"/>
+			<key code="24" action="´"/>
+			<key code="25" action="9"/>
+			<key code="26" action="7"/>
+			<key code="27" action="ẞ"/>
+			<key code="28" action="8"/>
+			<key code="29" action="0"/>
+			<key code="30" action="+"/>
+			<key code="31" action="O"/>
+			<key code="32" action="U"/>
+			<key code="33" action="Ü"/>
+			<key code="34" action="I"/>
+			<key code="35" action="P"/>
+			<key code="36" output="&#x000D;"/>
+			<key code="37" action="L"/>
+			<key code="38" action="J"/>
+			<key code="39" action="Ä"/>
+			<key code="40" action="K"/>
+			<key code="41" action="Ö"/>
+			<key code="42" action="#"/>
+			<key code="43" action=","/>
+			<key code="44" action="-"/>
+			<key code="45" action="N"/>
+			<key code="46" action="M"/>
+			<key code="47" action="."/>
+			<key code="48" output="&#x0009;"/>
+			<key code="49" action=" "/>
+			<key code="50" action="&#x003C;"/>
+			<key code="51" output="&#x0008;"/>
+			<key code="53" output="&#x001B;"/>
+			<key code="65" action=","/>
+			<key code="67" action="*"/>
+			<key code="69" action="+"/>
+			<key code="71" output="&#x001B;"/>
+			<key code="75" action="/"/>
+			<key code="76" output="&#x000D;"/>
+			<key code="78" action="-"/>
+			<key code="81" output="="/>
+			<key code="82" action="0"/>
+			<key code="83" action="1"/>
+			<key code="84" action="2"/>
+			<key code="85" action="3"/>
+			<key code="86" action="4"/>
+			<key code="87" action="5"/>
+			<key code="88" action="6"/>
+			<key code="89" action="7"/>
+			<key code="91" action="8"/>
+			<key code="92" action="9"/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+		<keyMap index="2">
+			<key code="0" action="A"/>
+			<key code="1" action="S"/>
+			<key code="2" action="D"/>
+			<key code="3" action="F"/>
+			<key code="4" action="H"/>
+			<key code="5" action="G"/>
+			<key code="6" action="Y"/>
+			<key code="7" action="X"/>
+			<key code="8" action="C"/>
+			<key code="9" action="V"/>
+			<key code="10" action="°"/>
+			<key code="11" action="B"/>
+			<key code="12" action="Q"/>
+			<key code="13" action="W"/>
+			<key code="14" action="E"/>
+			<key code="15" action="R"/>
+			<key code="16" action="Z"/>
+			<key code="17" action="T"/>
+			<key code="18" action="!"/>
+			<key code="19" action='"'/>
+			<key code="20" action="§"/>
+			<key code="21" action="$"/>
+			<key code="22" action="&#x0026;"/>
+			<key code="23" action="%"/>
+			<key code="24" action="`"/>
+			<key code="25" action=")"/>
+			<key code="26" action="/"/>
+			<key code="27" action="?"/>
+			<key code="28" action="("/>
+			<key code="29" action="="/>
+			<key code="30" action="*"/>
+			<key code="31" action="O"/>
+			<key code="32" action="U"/>
+			<key code="33" action="Ü"/>
+			<key code="34" action="I"/>
+			<key code="35" action="P"/>
+			<key code="36" output="&#x000D;"/>
+			<key code="37" action="L"/>
+			<key code="38" action="J"/>
+			<key code="39" action="Ä"/>
+			<key code="40" action="K"/>
+			<key code="41" action="Ö"/>
+			<key code="42" action="'"/>
+			<key code="43" action=";"/>
+			<key code="44" action="_"/>
+			<key code="45" action="N"/>
+			<key code="46" action="M"/>
+			<key code="47" action=":"/>
+			<key code="48" output="&#x0009;"/>
+			<key code="49" action=" "/>
+			<key code="50" action="&#x003E;"/>
+			<key code="51" output="&#x0008;"/>
+			<key code="53" output="&#x001B;"/>
+			<key code="65" action=","/>
+			<key code="67" action="*"/>
+			<key code="69" action="+"/>
+			<key code="71" output="&#x001B;"/>
+			<key code="75" action="/"/>
+			<key code="76" output="&#x000D;"/>
+			<key code="78" action="-"/>
+			<key code="81" output="="/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+		<keyMap index="3">
+			<key code="0" action="a"/>
+			<key code="1" action="s"/>
+			<key code="2" action="d"/>
+			<key code="3" action="f"/>
+			<key code="4" action="h"/>
+			<key code="5" action="g"/>
+			<key code="6" action="y"/>
+			<key code="7" action="x"/>
+			<key code="8" action="c"/>
+			<key code="9" action="v"/>
+			<key code="10" action="°"/>
+			<key code="11" action="b"/>
+			<key code="12" action="q"/>
+			<key code="13" action="w"/>
+			<key code="14" action="e"/>
+			<key code="15" action="r"/>
+			<key code="16" action="z"/>
+			<key code="17" action="t"/>
+			<key code="18" action="!"/>
+			<key code="19" action='"'/>
+			<key code="20" action="§"/>
+			<key code="21" action="$"/>
+			<key code="22" action="&#x0026;"/>
+			<key code="23" action="%"/>
+			<key code="24" action="`"/>
+			<key code="25" action=")"/>
+			<key code="26" action="/"/>
+			<key code="27" action="?"/>
+			<key code="28" action="("/>
+			<key code="29" action="="/>
+			<key code="30" action="*"/>
+			<key code="31" action="o"/>
+			<key code="32" action="u"/>
+			<key code="33" action="ü"/>
+			<key code="34" action="i"/>
+			<key code="35" action="p"/>
+			<key code="36" output="&#x000D;"/>
+			<key code="37" action="l"/>
+			<key code="38" action="j"/>
+			<key code="39" action="ä"/>
+			<key code="40" action="k"/>
+			<key code="41" action="ö"/>
+			<key code="42" action="'"/>
+			<key code="43" action=";"/>
+			<key code="44" action="_"/>
+			<key code="45" action="n"/>
+			<key code="46" action="m"/>
+			<key code="47" action=":"/>
+			<key code="48" output="&#x0009;"/>
+			<key code="49" action=" "/>
+			<key code="50" action="&#x003E;"/>
+			<key code="51" output="&#x0008;"/>
+			<key code="53" output="&#x001B;"/>
+			<key code="65" action=","/>
+			<key code="67" action="*"/>
+			<key code="69" action="+"/>
+			<key code="71" output="&#x001B;"/>
+			<key code="75" action="/"/>
+			<key code="76" output="&#x000D;"/>
+			<key code="78" action="-"/>
+			<key code="81" output="="/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+		<keyMap index="4">
+			<key code="0" action="&#x0001;"/>
+			<key code="1" output="&#x0013;"/>
+			<key code="2" output="&#x0004;"/>
+			<key code="3" output="&#x0006;"/>
+			<key code="4" output="&#x0008;"/>
+			<key code="5" output="&#x0007;"/>
+			<key code="6" output="&#x0019;"/>
+			<key code="7" output="&#x0018;"/>
+			<key code="8" output="&#x0003;"/>
+			<key code="9" output="&#x0016;"/>
+			<key code="10" output="&#x001E;"/>
+			<key code="11" output="&#x0002;"/>
+			<key code="12" output="&#x0011;"/>
+			<key code="13" output="&#x0017;"/>
+			<key code="14" output="&#x0005;"/>
+			<key code="15" output="&#x0012;"/>
+			<key code="16" output="&#x001A;"/>
+			<key code="17" output="&#x0014;"/>
+			<key code="18" action="1"/>
+			<key code="19" action="2"/>
+			<key code="20" action="3"/>
+			<key code="21" action="4"/>
+			<key code="22" action="6"/>
+			<key code="23" action="5"/>
+			<key code="24" action="´"/>
+			<key code="25" action="9"/>
+			<key code="26" action="7"/>
+			<key code="27" action="ß"/>
+			<key code="28" action="8"/>
+			<key code="29" action="0"/>
+			<key code="30" action="+"/>
+			<key code="31" output="&#x000F;"/>
+			<key code="32" output="&#x0015;"/>
+			<key code="33" output="&#x001D;"/>
+			<key code="34" output="&#x0009;"/>
+			<key code="35" output="&#x0010;"/>
+			<key code="36" output="&#x000A;"/>
+			<key code="37" output="&#x000C;"/>
+			<key code="38" output="&#x000A;"/>
+			<key code="39" output="&#x001B;"/>
+			<key code="40" output="&#x000B;"/>
+			<key code="41" output="&#x001C;"/>
+			<key code="42" action="#"/>
+			<key code="43" action=","/>
+			<key code="44" action="-"/>
+			<key code="45" output="&#x000E;"/>
+			<key code="46" output="&#x000D;"/>
+			<key code="47" action="."/>
+			<key code="48" output="&#x0009;"/>
+			<key code="49" action=" "/>
+			<key code="50" action="&#x003C;"/>
+			<key code="51" output="&#x007F;"/>
+			<key code="53" output="&#x001B;"/>
+			<key code="71" output="&#x001B;"/>
+			<key code="76" output="&#x000A;"/>
+			<key code="81" output="="/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+		<keyMap index="5">
+			<key code="0" action="&#x0001;"/>
+			<key code="1" output="&#x0013;"/>
+			<key code="2" output="&#x0004;"/>
+			<key code="3" output="&#x0006;"/>
+			<key code="4" output="&#x0008;"/>
+			<key code="5" output="&#x0007;"/>
+			<key code="6" output="&#x0019;"/>
+			<key code="7" output="&#x0018;"/>
+			<key code="8" output="&#x0003;"/>
+			<key code="9" output="&#x0016;"/>
+			<key code="10" action="°"/>
+			<key code="11" output="&#x0002;"/>
+			<key code="12" output="&#x0011;"/>
+			<key code="13" output="&#x0017;"/>
+			<key code="14" output="&#x0005;"/>
+			<key code="15" output="&#x0012;"/>
+			<key code="16" output="&#x001A;"/>
+			<key code="17" output="&#x0014;"/>
+			<key code="18" action="!"/>
+			<key code="19" action='"'/>
+			<key code="20" action="§"/>
+			<key code="21" action="$"/>
+			<key code="22" action="&#x0026;"/>
+			<key code="23" action="%"/>
+			<key code="24" action="`"/>
+			<key code="25" action=")"/>
+			<key code="26" action="/"/>
+			<key code="27" action="?"/>
+			<key code="28" action="("/>
+			<key code="29" action="="/>
+			<key code="30" action="*"/>
+			<key code="31" output="&#x000F;"/>
+			<key code="32" output="&#x0015;"/>
+			<key code="33" output="&#x001D;"/>
+			<key code="34" output="&#x0009;"/>
+			<key code="35" output="&#x0010;"/>
+			<key code="36" output="&#x000D;"/>
+			<key code="37" output="&#x000C;"/>
+			<key code="38" output="&#x000A;"/>
+			<key code="39" output="&#x001B;"/>
+			<key code="40" output="&#x000B;"/>
+			<key code="41" output="&#x001C;"/>
+			<key code="42" output="&#x001E;"/>
+			<key code="43" action=";"/>
+			<key code="44" output="&#x001F;"/>
+			<key code="45" output="&#x000E;"/>
+			<key code="46" output="&#x000D;"/>
+			<key code="47" action=":"/>
+			<key code="48" output="&#x0009;"/>
+			<key code="49" action=" "/>
+			<key code="50" action="&#x003E;"/>
+			<key code="51" output="&#x0008;"/>
+			<key code="53" output="&#x001B;"/>
+			<key code="71" output="&#x001B;"/>
+			<key code="76" output="&#x000D;"/>
+			<key code="81" output="="/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+		<keyMap index="6">
+			<key code="0" action="☺"/>
+			<key code="1" action="″"/>
+			<key code="2" action="′"/>
+			<key code="3" action=""/>
+			<key code="4" action="̱"/>
+			<key code="5" action="ẞ"/>
+			<key code="6" action="›"/>
+			<key code="7" action="»"/>
+			<key code="8" action=" "/>
+			<key code="9" action="«"/>
+			<key code="10" action="×"/>
+			<key code="11" action="‹"/>
+			<key code="12" action="@"/>
+			<key code="13" action="¯"/>
+			<key code="14" action="€"/>
+			<key code="15" action=""/>
+			<key code="16" action="¨"/>
+			<key code="17" action="̌"/>
+			<key code="18" action="’"/>
+			<key code="19" action="²"/>
+			<key code="20" action="³"/>
+			<key code="21" action="—"/>
+			<key code="22" action="¿"/>
+			<key code="23" action="¡"/>
+			<key code="24" action="˙"/>
+			<key code="25" action="]"/>
+			<key code="26" action="{"/>
+			<key code="27" action="\"/>
+			<key code="28" action="["/>
+			<key code="29" action="}"/>
+			<key code="30" action="~"/>
+			<key code="31" action="˚"/>
+			<key code="32" action="˘"/>
+			<key code="33" action="̛"/>
+			<key code="34" action="˜"/>
+			<key code="35" action="ʿ"/>
+			<key code="37" action="˛"/>
+			<key code="38" action="¸"/>
+			<key code="39" action=""/>
+			<key code="40" action="ʹ"/>
+			<key code="41" action="⸳"/>
+			<key code="42" output="−"/>
+			<key code="43" action="‑"/>
+			<key code="44" action="­"/>
+			<key code="45" action="–"/>
+			<key code="46" action="µ"/>
+			<key code="47" action="·"/>
+			<key code="49" action=" "/>
+			<key code="50" action="|"/>
+			<key code="51" action=""/>
+			<key code="71" output="&#x001B;"/>
+			<key code="81" output="="/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+		<keyMap index="7">
+			<key code="0" output="Ⓐ"/>
+			<key code="1" output="Ⓢ"/>
+			<key code="2" output="Ⓓ"/>
+			<key code="3" output="Ⓕ"/>
+			<key code="4" output="Ⓗ"/>
+			<key code="5" output="Ⓖ"/>
+			<key code="6" output="Ⓨ"/>
+			<key code="7" output="Ⓧ"/>
+			<key code="8" output="Ⓒ"/>
+			<key code="9" output="Ⓥ"/>
+			<key code="10" action=""/>
+			<key code="11" output="Ⓑ"/>
+			<key code="12" output="Ⓠ"/>
+			<key code="13" output="Ⓦ"/>
+			<key code="14" output="Ⓔ"/>
+			<key code="15" output="Ⓡ"/>
+			<key code="16" output="Ⓩ"/>
+			<key code="17" output="Ⓣ"/>
+			<key code="18" output="🖯"/>
+			<key code="19" output="🖷"/>
+			<key code="20" output="🕾"/>
+			<key code="21" output="📱"/>
+			<key code="22" output="🌐"/>
+			<key code="23" output="✆"/>
+			<key code="24" action=""/>
+			<key code="25" output="🙁"/>
+			<key code="26" output="🙂"/>
+			<key code="27" action="ẞ"/>
+			<key code="28" output="😐"/>
+			<key code="29" output="☹"/>
+			<key code="31" output="Ⓞ"/>
+			<key code="32" output="Ⓤ"/>
+			<key code="34" output="Ⓘ"/>
+			<key code="35" output="Ⓟ"/>
+			<key code="37" output="Ⓛ"/>
+			<key code="38" output="Ⓙ"/>
+			<key code="40" output="Ⓚ"/>
+			<key code="44" action=""/>
+			<key code="45" output="Ⓝ"/>
+			<key code="46" output="Ⓜ"/>
+			<key code="50" action=""/>
+			<key code="71" output="&#x001B;"/>
+			<key code="81" output="="/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+		<keyMap index="8">
+			<key code="0" output="Ⓐ"/>
+			<key code="1" output="Ⓢ"/>
+			<key code="2" output="Ⓓ"/>
+			<key code="3" output="Ⓕ"/>
+			<key code="4" output="Ⓗ"/>
+			<key code="5" output="Ⓖ"/>
+			<key code="6" output="Ⓨ"/>
+			<key code="7" output="Ⓧ"/>
+			<key code="8" output="Ⓒ"/>
+			<key code="9" output="Ⓥ"/>
+			<key code="10" action=""/>
+			<key code="11" output="Ⓑ"/>
+			<key code="12" output="Ⓠ"/>
+			<key code="13" output="Ⓦ"/>
+			<key code="14" output="Ⓔ"/>
+			<key code="15" output="Ⓡ"/>
+			<key code="16" output="Ⓩ"/>
+			<key code="17" output="Ⓣ"/>
+			<key code="18" output="🖯"/>
+			<key code="19" output="🖷"/>
+			<key code="20" output="🕾"/>
+			<key code="21" output="📱"/>
+			<key code="22" output="🌐"/>
+			<key code="23" output="✆"/>
+			<key code="24" action=""/>
+			<key code="25" output="🙁"/>
+			<key code="26" output="🙂"/>
+			<key code="27" action="ẞ"/>
+			<key code="28" output="😐"/>
+			<key code="29" output="☹"/>
+			<key code="31" output="Ⓞ"/>
+			<key code="32" output="Ⓤ"/>
+			<key code="34" output="Ⓘ"/>
+			<key code="35" output="Ⓟ"/>
+			<key code="37" output="Ⓛ"/>
+			<key code="38" output="Ⓙ"/>
+			<key code="40" output="Ⓚ"/>
+			<key code="44" action=""/>
+			<key code="45" output="Ⓝ"/>
+			<key code="46" output="Ⓜ"/>
+			<key code="50" action=""/>
+			<key code="71" output="&#x001B;"/>
+			<key code="81" output="="/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+		<keyMap index="9">
+			<key code="0" action="☺"/>
+			<key code="1" action="″"/>
+			<key code="2" action="′"/>
+			<key code="3" action=""/>
+			<key code="4" action="̱"/>
+			<key code="5" action="ẞ"/>
+			<key code="6" action="›"/>
+			<key code="7" action="»"/>
+			<key code="8" action=" "/>
+			<key code="9" action="«"/>
+			<key code="10" action="×"/>
+			<key code="11" action="‹"/>
+			<key code="12" action="@"/>
+			<key code="13" action="¯"/>
+			<key code="14" action="€"/>
+			<key code="15" action=""/>
+			<key code="16" action="¨"/>
+			<key code="17" action="̌"/>
+			<key code="18" action="’"/>
+			<key code="19" action="²"/>
+			<key code="20" action="³"/>
+			<key code="21" action="—"/>
+			<key code="22" action="¿"/>
+			<key code="23" action="¡"/>
+			<key code="24" action="˙"/>
+			<key code="25" action="]"/>
+			<key code="26" action="{"/>
+			<key code="27" action="\"/>
+			<key code="28" action="["/>
+			<key code="29" action="}"/>
+			<key code="30" action="~"/>
+			<key code="31" action="˚"/>
+			<key code="32" action="˘"/>
+			<key code="33" action="̛"/>
+			<key code="34" action="˜"/>
+			<key code="35" action="ʿ"/>
+			<key code="37" action="˛"/>
+			<key code="38" action="¸"/>
+			<key code="39" action=""/>
+			<key code="40" action="ʹ"/>
+			<key code="41" action="⸳"/>
+			<key code="42" output="−"/>
+			<key code="43" action="‑"/>
+			<key code="44" action="­"/>
+			<key code="45" action="–"/>
+			<key code="46" action="µ"/>
+			<key code="47" action="·"/>
+			<key code="49" action=" "/>
+			<key code="50" action="|"/>
+			<key code="51" action=""/>
+			<key code="71" output="&#x001B;"/>
+			<key code="81" output="="/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+		<keyMap index="10">
+			<key code="0" output="å"/>
+			<key code="1" output="‚"/>
+			<key code="2" output="∂"/>
+			<key code="3" output="ƒ"/>
+			<key code="4" output="ª"/>
+			<key code="5" action="©"/>
+			<key code="6" output="¥"/>
+			<key code="7" output="≈"/>
+			<key code="8" output="ç"/>
+			<key code="9" output="√"/>
+			<key code="10" output="„"/>
+			<key code="11" output="∫"/>
+			<key code="12" action="«"/>
+			<key code="13" output="∑"/>
+			<key code="14" action="€"/>
+			<key code="15" action="®"/>
+			<key code="16" output="Ω"/>
+			<key code="17" output="†"/>
+			<key code="18" action="¡"/>
+			<key code="19" output="“"/>
+			<key code="20" output="¶"/>
+			<key code="21" output="¢"/>
+			<key code="22" action="]"/>
+			<key code="23" action="["/>
+			<key code="24" action="´"/>
+			<key code="25" action="}"/>
+			<key code="26" action="|"/>
+			<key code="27" action="¿"/>
+			<key code="28" action="{"/>
+			<key code="29" output="≠"/>
+			<key code="30" output="±"/>
+			<key code="31" output="ø"/>
+			<key code="32" action="¨"/>
+			<key code="33" output="•"/>
+			<key code="34" output="⁄"/>
+			<key code="35" output="π"/>
+			<key code="36" output="&#x000D;"/>
+			<key code="37" action="@"/>
+			<key code="38" output="º"/>
+			<key code="39" action="æ"/>
+			<key code="40" output="∆"/>
+			<key code="41" output="œ"/>
+			<key code="42" output="‘"/>
+			<key code="43" output="∞"/>
+			<key code="44" action="–"/>
+			<key code="45" action="~"/>
+			<key code="46" action="µ"/>
+			<key code="47" output="…"/>
+			<key code="48" output="&#x0009;"/>
+			<key code="49" action=" "/>
+			<key code="50" action="≤"/>
+			<key code="51" output="&#x0008;"/>
+			<key code="53" output="&#x001B;"/>
+			<key code="65" action="."/>
+			<key code="67" action="*"/>
+			<key code="69" action="+"/>
+			<key code="71" output="&#x001B;"/>
+			<key code="75" action="/"/>
+			<key code="76" output="&#x000D;"/>
+			<key code="78" action="-"/>
+			<key code="81" output="="/>
+			<key code="82" action="0"/>
+			<key code="83" action="1"/>
+			<key code="84" action="2"/>
+			<key code="85" action="3"/>
+			<key code="86" action="4"/>
+			<key code="87" action="5"/>
+			<key code="88" action="6"/>
+			<key code="89" action="7"/>
+			<key code="91" action="8"/>
+			<key code="92" action="9"/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+		<keyMap index="11">
+			<key code="0" output="å"/>
+			<key code="1" output="‚"/>
+			<key code="2" output="∂"/>
+			<key code="3" output="ƒ"/>
+			<key code="4" output="ª"/>
+			<key code="5" action="©"/>
+			<key code="6" output="¥"/>
+			<key code="7" output="≈"/>
+			<key code="8" output="ç"/>
+			<key code="9" output="√"/>
+			<key code="10" output="„"/>
+			<key code="11" output="∫"/>
+			<key code="12" action="«"/>
+			<key code="13" output="∑"/>
+			<key code="14" action="€"/>
+			<key code="15" action="®"/>
+			<key code="16" output="Ω"/>
+			<key code="17" output="†"/>
+			<key code="18" action="¡"/>
+			<key code="19" output="“"/>
+			<key code="20" output="¶"/>
+			<key code="21" output="¢"/>
+			<key code="22" action="]"/>
+			<key code="23" action="["/>
+			<key code="24" action="´"/>
+			<key code="25" action="}"/>
+			<key code="26" action="|"/>
+			<key code="27" action="¿"/>
+			<key code="28" action="{"/>
+			<key code="29" output="≠"/>
+			<key code="30" output="±"/>
+			<key code="31" output="ø"/>
+			<key code="32" action="¨"/>
+			<key code="33" output="•"/>
+			<key code="34" output="⁄"/>
+			<key code="35" output="π"/>
+			<key code="36" output="&#x000D;"/>
+			<key code="37" action="@"/>
+			<key code="38" output="º"/>
+			<key code="39" action="æ"/>
+			<key code="40" output="∆"/>
+			<key code="41" output="œ"/>
+			<key code="42" output="‘"/>
+			<key code="43" output="∞"/>
+			<key code="44" action="–"/>
+			<key code="45" action="~"/>
+			<key code="46" action="µ"/>
+			<key code="47" output="…"/>
+			<key code="48" output="&#x0009;"/>
+			<key code="49" action=" "/>
+			<key code="50" action="≤"/>
+			<key code="51" output="&#x0008;"/>
+			<key code="53" output="&#x001B;"/>
+			<key code="65" action="."/>
+			<key code="67" action="*"/>
+			<key code="69" action="+"/>
+			<key code="71" output="&#x001B;"/>
+			<key code="75" action="/"/>
+			<key code="76" output="&#x000D;"/>
+			<key code="78" action="-"/>
+			<key code="81" output="="/>
+			<key code="82" action="0"/>
+			<key code="83" action="1"/>
+			<key code="84" action="2"/>
+			<key code="85" action="3"/>
+			<key code="86" action="4"/>
+			<key code="87" action="5"/>
+			<key code="88" action="6"/>
+			<key code="89" action="7"/>
+			<key code="91" action="8"/>
+			<key code="92" action="9"/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+		<keyMap index="12">
+			<key code="0" output="Å"/>
+			<key code="1" output="Í"/>
+			<key code="2" output="™"/>
+			<key code="3" output="Ï"/>
+			<key code="4" output="Ó"/>
+			<key code="5" output="Ì"/>
+			<key code="6" output="‡"/>
+			<key code="7" output="Ù"/>
+			<key code="8" output="Ç"/>
+			<key code="9" output="◊"/>
+			<key code="10" action="’"/>
+			<key code="11" action="‹"/>
+			<key code="12" action="»"/>
+			<key code="13" output="„"/>
+			<key code="14" output="‰"/>
+			<key code="15" action="¸"/>
+			<key code="16" output="ˇ"/>
+			<key code="17" output="˝"/>
+			<key code="18" output="¬"/>
+			<key code="19" output="”"/>
+			<key code="20" action="#"/>
+			<key code="21" output="£"/>
+			<key code="22" action="^"/>
+			<key code="23" output="ﬁ"/>
+			<key code="24" action="˚"/>
+			<key code="25" action="·"/>
+			<key code="26" action="\"/>
+			<key code="27" action="˙"/>
+			<key code="28" action="˜"/>
+			<key code="29" action="¯"/>
+			<key code="30" output=""/>
+			<key code="31" output="Ø"/>
+			<key code="32" output="Á"/>
+			<key code="33" action="°"/>
+			<key code="34" output="Û"/>
+			<key code="35" output="∏"/>
+			<key code="36" output="&#x000D;"/>
+			<key code="37" output="ﬂ"/>
+			<key code="38" output="ı"/>
+			<key code="39" action="Æ"/>
+			<key code="40" output="ˆ"/>
+			<key code="41" output="Œ"/>
+			<key code="42" action="’"/>
+			<key code="43" action="˛"/>
+			<key code="44" action="—"/>
+			<key code="45" action="›"/>
+			<key code="46" action="˘"/>
+			<key code="47" output="÷"/>
+			<key code="48" output="&#x0009;"/>
+			<key code="49" action=" "/>
+			<key code="50" action="≥"/>
+			<key code="51" output="&#x0008;"/>
+			<key code="53" output="&#x001B;"/>
+			<key code="67" action="*"/>
+			<key code="69" action="+"/>
+			<key code="71" output="&#x001B;"/>
+			<key code="75" action="/"/>
+			<key code="76" output="&#x000D;"/>
+			<key code="78" action="-"/>
+			<key code="81" output="="/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+		<keyMap index="13">
+			<key code="0" output="Å"/>
+			<key code="1" output="Í"/>
+			<key code="2" output="™"/>
+			<key code="3" output="Ï"/>
+			<key code="4" output="Ó"/>
+			<key code="5" output="Ì"/>
+			<key code="6" output="‡"/>
+			<key code="7" output="Ù"/>
+			<key code="8" output="Ç"/>
+			<key code="9" output="◊"/>
+			<key code="10" action="’"/>
+			<key code="11" action="‹"/>
+			<key code="12" action="»"/>
+			<key code="13" output="„"/>
+			<key code="14" output="‰"/>
+			<key code="15" action="¸"/>
+			<key code="16" output="ˇ"/>
+			<key code="17" output="˝"/>
+			<key code="18" output="¬"/>
+			<key code="19" output="”"/>
+			<key code="20" action="#"/>
+			<key code="21" output="£"/>
+			<key code="22" action="^"/>
+			<key code="23" output="ﬁ"/>
+			<key code="24" action="˚"/>
+			<key code="25" action="·"/>
+			<key code="26" action="\"/>
+			<key code="27" action="˙"/>
+			<key code="28" action="˜"/>
+			<key code="29" action="¯"/>
+			<key code="30" output=""/>
+			<key code="31" output="Ø"/>
+			<key code="32" output="Á"/>
+			<key code="33" action="°"/>
+			<key code="34" output="Û"/>
+			<key code="35" output="∏"/>
+			<key code="36" output="&#x000D;"/>
+			<key code="37" output="ﬂ"/>
+			<key code="38" output="ı"/>
+			<key code="39" action="Æ"/>
+			<key code="40" output="ˆ"/>
+			<key code="41" output="Œ"/>
+			<key code="42" action="’"/>
+			<key code="43" action="˛"/>
+			<key code="44" action="—"/>
+			<key code="45" action="›"/>
+			<key code="46" action="˘"/>
+			<key code="47" output="÷"/>
+			<key code="48" output="&#x0009;"/>
+			<key code="49" action=" "/>
+			<key code="50" action="≥"/>
+			<key code="51" output="&#x0008;"/>
+			<key code="53" output="&#x001B;"/>
+			<key code="67" action="*"/>
+			<key code="69" action="+"/>
+			<key code="71" output="&#x001B;"/>
+			<key code="75" action="/"/>
+			<key code="76" output="&#x000D;"/>
+			<key code="78" action="-"/>
+			<key code="81" output="="/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+	</keyMapSet>
+	<actions>
+		<action id="&#x0001;">
+			<when state="none" output="&#x0001;"/>
+			<when state="_Ring Above  ̊ [030A]" output="̊"/>
+		</action>
+		<action id=" ">
+			<when state="none" output=" "/>
+			<when state="Acute second group" output="ǽ"/>
+			<when state="Caron second group" output="ǯ"/>
+			<when state="Circumflex below + Circled Numbers 11 - 20" output="ꞈ"/>
+			<when state="Combining Short Stroke Overlay" output="‒"/>
+			<when state="Combining Vertical Line Above" next="Combining Vertical Line Above"/>
+			<when state="DIALYTIKA TONOS" output="΅"/>
+			<when state="Double Acute  ̋ [030B]" output="˝"/>
+			<when state="Gruppe 2 ISO 9995-3" output=" "/>
+			<when state="Gruppe 2 aus E1" output=" "/>
+			<when state="Horn and Acute" output="ớ"/>
+			<when state="Horn and Dot below" output="ợ"/>
+			<when state="Horn and Grave" output="ờ"/>
+			<when state="Horn and Hook Above" output="ở"/>
+			<when state="Horn and Tilde" output="ỡ"/>
+			<when state="Macron second group" output="ǣ"/>
+			<when state="_Acute  ́ [0301]" output="´"/>
+			<when state="_Breve  ̆ [0306]" output="˘"/>
+			<when state="_Caron  ̌ [030C]" output="ˇ"/>
+			<when state="_Cedilla  ̧ [0327]" output="¸"/>
+			<when state="_Circumflex  ̂ [0302]" output="^"/>
+			<when state="_Comma Below  ̦ [0326]" output="⸴"/>
+			<when state="_Diaeresis  ̈ [0308]" output="¨"/>
+			<when state="_Dot Above  ̇ [0307]" output="˙"/>
+			<when state="_Dot Below  ̣ [0323]" output="⸳"/>
+			<when state="_Grave  ̀ [0300]" output="`"/>
+			<when state="_Hook Above  ̉ [0309]" output="ˁ"/>
+			<when state="_Horn  ̛ [031B]" output="̛"/>
+			<when state="_Line Below  ̱ [0331]" output="ˍ"/>
+			<when state="_Macron  ̄ [0304]" output="¯"/>
+			<when state="_Ogonek  ̨ [0328]" output="˛"/>
+			<when state="_Ring Above  ̊ [030A]" output="˚"/>
+			<when state="_Tilde  ̃ [0303]" output="˜"/>
+		</action>
+		<action id="!">
+			<when state="none" output="!"/>
+			<when state="Combining Short Stroke Overlay" output="↓"/>
+			<when state="Gruppe 2 ISO 9995-3" output="¡"/>
+			<when state="Gruppe 2 aus E1" output="◊"/>
+			<when state="_Comma Below  ̦ [0326]" output="ǃ"/>
+		</action>
+		<action id='"'>
+			<when state="none" output='"'/>
+			<when state="Combining Short Stroke Overlay" output="‶"/>
+			<when state="Gruppe 2 ISO 9995-3" output="¤"/>
+			<when state="Gruppe 2 aus E1" output="¦"/>
+			<when state="_Comma Below  ̦ [0326]" output="ǁ"/>
+		</action>
+		<action id="#">
+			<when state="none" output="#"/>
+			<when state="Combining Short Stroke Overlay" output="№"/>
+			<when state="Double Acute  ̋ [030B]" output="‖"/>
+			<when state="Gruppe 2 ISO 9995-3" output="ə"/>
+			<when state="Gruppe 2 aus E1" output="†"/>
+			<when state="_Comma Below  ̦ [0326]" output="ǂ"/>
+		</action>
+		<action id="$">
+			<when state="none" output="$"/>
+			<when state="Combining Short Stroke Overlay" output="¢"/>
+			<when state="Gruppe 2 ISO 9995-3" output="€"/>
+			<when state="Gruppe 2 aus E1" output="ℳ"/>
+		</action>
+		<action id="%">
+			<when state="none" output="%"/>
+			<when state="Combining Short Stroke Overlay" output="‰"/>
+			<when state="Gruppe 2 ISO 9995-3" output="↑"/>
+			<when state="Gruppe 2 aus E1" output="₰"/>
+		</action>
+		<action id="&#x0026;">
+			<when state="none" output="&#x0026;"/>
+			<when state="Combining Short Stroke Overlay" output="⁊"/>
+			<when state="Gruppe 2 ISO 9995-3" output="↓"/>
+			<when state="Gruppe 2 aus E1" output="⁊"/>
+		</action>
+		<action id="'">
+			<when state="none" output="'"/>
+			<when state="Combining Short Stroke Overlay" output="‵"/>
+			<when state="Gruppe 2 ISO 9995-3" output="Ə"/>
+			<when state="Gruppe 2 aus E1" output="‡"/>
+			<when state="_Comma Below  ̦ [0326]" output="ǀ"/>
+		</action>
+		<action id="(">
+			<when state="none" output="("/>
+			<when state="Combining Short Stroke Overlay" output="﴾"/>
+			<when state="Gruppe 2 ISO 9995-3" output="→"/>
+			<when state="Gruppe 2 aus E1" output="⟪"/>
+			<when state="_Comma Below  ̦ [0326]" output="⸤"/>
+			<when state="_Hook Above  ̉ [0309]" output="⁽"/>
+		</action>
+		<action id=")">
+			<when state="none" output=")"/>
+			<when state="Combining Short Stroke Overlay" output="﴿"/>
+			<when state="Gruppe 2 ISO 9995-3" output="±"/>
+			<when state="Gruppe 2 aus E1" output="⟫"/>
+			<when state="_Comma Below  ̦ [0326]" output="⸥"/>
+			<when state="_Hook Above  ̉ [0309]" output="⁾"/>
+		</action>
+		<action id="*">
+			<when state="none" output="*"/>
+			<when state="Combining Short Stroke Overlay" output="✽"/>
+			<when state="Gruppe 2 ISO 9995-3" next="_Macron  ̄ [0304]"/>
+			<when state="Gruppe 2 aus E1" output="⁒"/>
+			<when state="_Comma Below  ̦ [0326]" output="※"/>
+			<when state="_Ring Above  ̊ [030A]" output="∗"/>
+		</action>
+		<action id="+">
+			<when state="none" output="+"/>
+			<when state="Combining Short Stroke Overlay" output="±"/>
+			<when state="Double Acute  ̋ [030B]" output="ˈ"/>
+			<when state="Gruppe 2 ISO 9995-3" next="_Tilde  ̃ [0303]"/>
+			<when state="Gruppe 2 aus E1" output="±"/>
+			<when state="_Comma Below  ̦ [0326]" output="₊"/>
+			<when state="_Hook Above  ̉ [0309]" output="⁺"/>
+			<when state="_Line Below  ̱ [0331]" output="±"/>
+			<when state="_Ring Above  ̊ [030A]" output="⊕"/>
+		</action>
+		<action id=",">
+			<when state="none" output=","/>
+			<when state="Combining Short Stroke Overlay" output="▣"/>
+			<when state="Double Acute  ̋ [030B]" output="ˑ"/>
+			<when state="Gruppe 2 ISO 9995-3" output="…"/>
+			<when state="Gruppe 2 aus E1" output="ʻ"/>
+			<when state="_Comma Below  ̦ [0326]" output="ˌ"/>
+		</action>
+		<action id="-">
+			<when state="none" output="-"/>
+			<when state="Combining Short Stroke Overlay" output="⸺"/>
+			<when state="Double Acute  ̋ [030B]" output="ˌ"/>
+			<when state="Gruppe 2 ISO 9995-3" output="ŀ"/>
+			<when state="Gruppe 2 aus E1" output="•"/>
+			<when state="_Comma Below  ̦ [0326]" output="₋"/>
+			<when state="_Diaeresis  ̈ [0308]" output="⸚"/>
+			<when state="_Hook Above  ̉ [0309]" output="⁻"/>
+			<when state="_Line Below  ̱ [0331]" output="⹀"/>
+			<when state="_Macron  ̄ [0304]" output="⹀"/>
+			<when state="_Ring Above  ̊ [030A]" output="⊖"/>
+			<when state="_Tilde  ̃ [0303]" output="≃"/>
+		</action>
+		<action id=".">
+			<when state="none" output="."/>
+			<when state="Combining Short Stroke Overlay" output="◉"/>
+			<when state="Double Acute  ̋ [030B]" output="ː"/>
+			<when state="Gruppe 2 ISO 9995-3" output="·"/>
+			<when state="Gruppe 2 aus E1" output="…"/>
+			<when state="_Comma Below  ̦ [0326]" output="‧"/>
+			<when state="_Ring Above  ̊ [030A]" output="⋅"/>
+		</action>
+		<action id="/">
+			<when state="none" output="/"/>
+			<when state="Combining Short Stroke Overlay" output="⁄"/>
+			<when state="Gruppe 2 ISO 9995-3" output="←"/>
+			<when state="Gruppe 2 aus E1" output="№"/>
+			<when state="_Ring Above  ̊ [030A]" output="∕"/>
+		</action>
+		<action id="0">
+			<when state="none" output="0"/>
+			<when state="Circumflex below + Circled Numbers 11 - 20" output="⑩"/>
+			<when state="Combining Short Stroke Overlay" output="✔"/>
+			<when state="Gruppe 2 ISO 9995-3" output="⅞"/>
+			<when state="Gruppe 2 aus E1" output="÷"/>
+			<when state="IPA A" output="a"/>
+			<when state="IPA B" output="b"/>
+			<when state="IPA C" output="c"/>
+			<when state="IPA D" output="d"/>
+			<when state="IPA E" output="e"/>
+			<when state="IPA F" output="f"/>
+			<when state="IPA G" output="g"/>
+			<when state="IPA H" output="h"/>
+			<when state="IPA I" output="i"/>
+			<when state="IPA J" output="j"/>
+			<when state="IPA K" output="k"/>
+			<when state="IPA L" output="l"/>
+			<when state="IPA M" output="m"/>
+			<when state="IPA N" output="n"/>
+			<when state="IPA O" output="o"/>
+			<when state="IPA P" output="p"/>
+			<when state="IPA Q" output="q"/>
+			<when state="IPA R" output="r"/>
+			<when state="IPA S" output="s"/>
+			<when state="IPA T" output="t"/>
+			<when state="IPA U" output="u"/>
+			<when state="IPA V" output="{"/>
+			<when state="IPA W" output="w"/>
+			<when state="IPA X" output="x"/>
+			<when state="IPA Y" output="y"/>
+			<when state="IPA Z" output="z"/>
+			<when state="_Caron  ̌ [030C]" output="₀"/>
+			<when state="_Circumflex  ̂ [0302]" output="⁰"/>
+			<when state="_Comma Below  ̦ [0326]" output="₀"/>
+			<when state="_Hook Above  ̉ [0309]" output="⁰"/>
+			<when state="_Ring Above  ̊ [030A]" output="⓪"/>
+		</action>
+		<action id="1">
+			<when state="none" output="1"/>
+			<when state="Circumflex below + Circled Numbers 11 - 20" output="⑪"/>
+			<when state="Combining Short Stroke Overlay" output="◾"/>
+			<when state="Double Acute  ̋ [030B]" next="Superselect Gruppe DI"/>
+			<when state="Gruppe 2 ISO 9995-3" output="¹"/>
+			<when state="Gruppe 2 aus E1" output="¼"/>
+			<when state="IPA E" output="ᵊ"/>
+			<when state="IPA F" output="ǀ"/>
+			<when state="IPA H" output="ʰ"/>
+			<when state="IPA J" output="ɒ"/>
+			<when state="IPA L" output="ˡ"/>
+			<when state="IPA N" output="ⁿ"/>
+			<when state="IPA Q" output="ˤ"/>
+			<when state="IPA R" output="ɿ"/>
+			<when state="IPA S" output="ˢ"/>
+			<when state="IPA W" output="ʷ"/>
+			<when state="IPA X" output="ˣ"/>
+			<when state="IPA Y" output="ʸ"/>
+			<when state="_Caron  ̌ [030C]" output="₁"/>
+			<when state="_Circumflex  ̂ [0302]" output="¹"/>
+			<when state="_Comma Below  ̦ [0326]" output="ǀ"/>
+			<when state="_Hook Above  ̉ [0309]" output="¹"/>
+			<when state="_Ring Above  ̊ [030A]" output="①"/>
+		</action>
+		<action id="2">
+			<when state="none" output="2"/>
+			<when state="Circumflex below + Circled Numbers 11 - 20" output="⑫"/>
+			<when state="Combining Short Stroke Overlay" output="◽"/>
+			<when state="Double Acute  ̋ [030B]" next="DIN 2137 Zugriff Gruppe DI Ebene 2"/>
+			<when state="Gruppe 2 ISO 9995-3" output="²"/>
+			<when state="Gruppe 2 aus E1" output="½"/>
+			<when state="IPA B" output="ʙ"/>
+			<when state="IPA D" output="ᶑ"/>
+			<when state="IPA E" output="ɝ"/>
+			<when state="IPA F" output="ǁ"/>
+			<when state="IPA G" output="ɢ"/>
+			<when state="IPA H" output="ʜ"/>
+			<when state="IPA I" output="ɪ"/>
+			<when state="IPA L" output="ʟ"/>
+			<when state="IPA N" output="ɴ"/>
+			<when state="IPA O" output="ɶ"/>
+			<when state="IPA R" output="ʀ"/>
+			<when state="IPA Y" output="ʏ"/>
+			<when state="_Caron  ̌ [030C]" output="₂"/>
+			<when state="_Circumflex  ̂ [0302]" output="²"/>
+			<when state="_Comma Below  ̦ [0326]" output="ǁ"/>
+			<when state="_Hook Above  ̉ [0309]" output="²"/>
+			<when state="_Ring Above  ̊ [030A]" output="②"/>
+		</action>
+		<action id="3">
+			<when state="none" output="3"/>
+			<when state="Circumflex below + Circled Numbers 11 - 20" output="⑬"/>
+			<when state="Combining Short Stroke Overlay" output="❑"/>
+			<when state="Double Acute  ̋ [030B]" next="Superselect Gruppe DJ"/>
+			<when state="Gruppe 2 ISO 9995-3" output="³"/>
+			<when state="Gruppe 2 aus E1" output="¾"/>
+			<when state="IPA A" output="ɐ"/>
+			<when state="IPA E" output="ə"/>
+			<when state="IPA F" output="ǂ"/>
+			<when state="IPA H" output="ɥ"/>
+			<when state="IPA K" output="ʞ"/>
+			<when state="IPA L" output="Ƙ"/>
+			<when state="IPA M" output="ɯ"/>
+			<when state="IPA R" output="ɹ"/>
+			<when state="IPA S" output="ʅ"/>
+			<when state="IPA T" output="ʇ"/>
+			<when state="IPA V" output="ʌ"/>
+			<when state="IPA W" output="ʍ"/>
+			<when state="IPA Y" output="ʎ"/>
+			<when state="_Caron  ̌ [030C]" output="₃"/>
+			<when state="_Circumflex  ̂ [0302]" output="³"/>
+			<when state="_Comma Below  ̦ [0326]" output="ǂ"/>
+			<when state="_Hook Above  ̉ [0309]" output="³"/>
+			<when state="_Ring Above  ̊ [030A]" output="③"/>
+		</action>
+		<action id="4">
+			<when state="none" output="4"/>
+			<when state="Circumflex below + Circled Numbers 11 - 20" output="⑭"/>
+			<when state="Combining Short Stroke Overlay" output="❖"/>
+			<when state="Double Acute  ̋ [030B]" next="DIN 2137 Zugriff Gruppe DJ Ebene 2"/>
+			<when state="Gruppe 2 ISO 9995-3" output="¼"/>
+			<when state="Gruppe 2 aus E1" output="¤"/>
+			<when state="IPA B" output="ɓ"/>
+			<when state="IPA C" output="ƈ"/>
+			<when state="IPA D" output="ɗ"/>
+			<when state="IPA E" output="ɚ"/>
+			<when state="IPA F" output="ǃ"/>
+			<when state="IPA G" output="ɠ"/>
+			<when state="IPA H" output="ɦ"/>
+			<when state="IPA K" output="ƙ"/>
+			<when state="IPA L" output="ɬ"/>
+			<when state="IPA P" output="ƥ"/>
+			<when state="IPA Q" output="ʠ"/>
+			<when state="IPA R" output="ɾ"/>
+			<when state="IPA T" output="ƭ"/>
+			<when state="IPA V" output="ⱱ"/>
+			<when state="_Caron  ̌ [030C]" output="₄"/>
+			<when state="_Circumflex  ̂ [0302]" output="⁴"/>
+			<when state="_Comma Below  ̦ [0326]" output="ǃ"/>
+			<when state="_Hook Above  ̉ [0309]" output="⁴"/>
+			<when state="_Ring Above  ̊ [030A]" output="④"/>
+		</action>
+		<action id="5">
+			<when state="none" output="5"/>
+			<when state="Circumflex below + Circled Numbers 11 - 20" output="⑮"/>
+			<when state="Combining Short Stroke Overlay" output="‣"/>
+			<when state="Gruppe 2 ISO 9995-3" output="½"/>
+			<when state="Gruppe 2 aus E1" output="‰"/>
+			<when state="IPA A" output="ɑ"/>
+			<when state="IPA B" output="͢"/>
+			<when state="IPA C" output="ç"/>
+			<when state="IPA D" output="ð"/>
+			<when state="IPA E" output="ɛ"/>
+			<when state="IPA F" output="ʘ"/>
+			<when state="IPA G" output="ɣ"/>
+			<when state="IPA H" output="ꟸ"/>
+			<when state="IPA I" output="ɩ"/>
+			<when state="IPA L" output="λ"/>
+			<when state="IPA N" output="ɳ"/>
+			<when state="IPA O" output="ɷ"/>
+			<when state="IPA Q" output="ʔ"/>
+			<when state="IPA R" output="ʁ"/>
+			<when state="IPA T" output="θ"/>
+			<when state="IPA V" output="ʋ"/>
+			<when state="IPA X" output="χ"/>
+			<when state="IPA Y" output="ʊ"/>
+			<when state="IPA Z" output="ʒ"/>
+			<when state="_Caron  ̌ [030C]" output="₅"/>
+			<when state="_Circumflex  ̂ [0302]" output="⁵"/>
+			<when state="_Comma Below  ̦ [0326]" output="₅"/>
+			<when state="_Hook Above  ̉ [0309]" output="⁵"/>
+			<when state="_Ring Above  ̊ [030A]" output="⑤"/>
+		</action>
+		<action id="6">
+			<when state="none" output="6"/>
+			<when state="Circumflex below + Circled Numbers 11 - 20" output="⑯"/>
+			<when state="Combining Short Stroke Overlay" output="➤"/>
+			<when state="Gruppe 2 ISO 9995-3" output="¾"/>
+			<when state="Gruppe 2 aus E1" output="⁄"/>
+			<when state="IPA A" output="ɒ"/>
+			<when state="IPA C" output="ʗ"/>
+			<when state="IPA D" output="ɖ"/>
+			<when state="IPA E" output="ɜ"/>
+			<when state="IPA G" output="ɡ"/>
+			<when state="IPA H" output="ɧ"/>
+			<when state="IPA J" output="ʝ"/>
+			<when state="IPA L" output="ɭ"/>
+			<when state="IPA M" output="ɱ"/>
+			<when state="IPA N" output="ŋ"/>
+			<when state="IPA O" output="ɔ"/>
+			<when state="IPA Q" output="ʕ"/>
+			<when state="IPA R" output="ɽ"/>
+			<when state="IPA S" output="ʃ"/>
+			<when state="IPA T" output="ʈ"/>
+			<when state="IPA Z" output="ʐ"/>
+			<when state="_Caron  ̌ [030C]" output="₆"/>
+			<when state="_Circumflex  ̂ [0302]" output="⁶"/>
+			<when state="_Comma Below  ̦ [0326]" output="₆"/>
+			<when state="_Hook Above  ̉ [0309]" output="⁶"/>
+			<when state="_Ring Above  ̊ [030A]" output="⑥"/>
+		</action>
+		<action id="7">
+			<when state="none" output="7"/>
+			<when state="Circumflex below + Circled Numbers 11 - 20" output="⑰"/>
+			<when state="Combining Short Stroke Overlay" output="⮚"/>
+			<when state="Gruppe 2 ISO 9995-3" output="⅛"/>
+			<when state="Gruppe 2 aus E1" output="⌀"/>
+			<when state="IPA D" output="ʣ"/>
+			<when state="IPA E" output="ɞ"/>
+			<when state="IPA F" output="ɸ"/>
+			<when state="IPA G" output="ʛ"/>
+			<when state="IPA H" output="ħ"/>
+			<when state="IPA I" output="ɨ"/>
+			<when state="IPA J" output="ɟ"/>
+			<when state="IPA L" output="ɫ"/>
+			<when state="IPA N" output="ƞ"/>
+			<when state="IPA O" output="ɵ"/>
+			<when state="IPA Q" output="ʡ"/>
+			<when state="IPA R" output="ɻ"/>
+			<when state="IPA S" output="ʂ"/>
+			<when state="IPA T" output="ƫ"/>
+			<when state="IPA U" output="ʉ"/>
+			<when state="IPA X" output="ʦ"/>
+			<when state="IPA Z" output="ƻ"/>
+			<when state="_Caron  ̌ [030C]" output="₇"/>
+			<when state="_Circumflex  ̂ [0302]" output="⁷"/>
+			<when state="_Comma Below  ̦ [0326]" output="₇"/>
+			<when state="_Hook Above  ̉ [0309]" output="⁷"/>
+			<when state="_Ring Above  ̊ [030A]" output="⑦"/>
+		</action>
+		<action id="8">
+			<when state="none" output="8"/>
+			<when state="Circumflex below + Circled Numbers 11 - 20" output="⑱"/>
+			<when state="Combining Short Stroke Overlay" output="✗"/>
+			<when state="Gruppe 2 ISO 9995-3" output="⅜"/>
+			<when state="Gruppe 2 aus E1" output="⟨"/>
+			<when state="IPA B" output="["/>
+			<when state="IPA C" output="ɕ"/>
+			<when state="IPA D" output="ʤ"/>
+			<when state="IPA E" output="ʚ"/>
+			<when state="IPA G" output="ɤ"/>
+			<when state="IPA H" output="ʮ"/>
+			<when state="IPA I" output="ˑ"/>
+			<when state="IPA J" output="ʄ"/>
+			<when state="IPA L" output="ȴ"/>
+			<when state="IPA M" output="ɰ"/>
+			<when state="IPA N" output="ȵ"/>
+			<when state="IPA O" output="ø"/>
+			<when state="IPA Q" output="ʢ"/>
+			<when state="IPA R" output="ɺ"/>
+			<when state="IPA S" output="ʆ"/>
+			<when state="IPA T" output="ȶ"/>
+			<when state="IPA U" output="ˌ"/>
+			<when state="IPA V" output="|"/>
+			<when state="IPA X" output="ʧ"/>
+			<when state="IPA Z" output="ʑ"/>
+			<when state="_Caron  ̌ [030C]" output="₈"/>
+			<when state="_Circumflex  ̂ [0302]" output="⁸"/>
+			<when state="_Comma Below  ̦ [0326]" output="₈"/>
+			<when state="_Hook Above  ̉ [0309]" output="⁸"/>
+			<when state="_Ring Above  ̊ [030A]" output="⑧"/>
+		</action>
+		<action id="9">
+			<when state="none" output="9"/>
+			<when state="Circumflex below + Circled Numbers 11 - 20" output="⑲"/>
+			<when state="Combining Short Stroke Overlay" output="✘"/>
+			<when state="Gruppe 2 ISO 9995-3" output="⅝"/>
+			<when state="Gruppe 2 aus E1" output="⟩"/>
+			<when state="IPA A" output="æ"/>
+			<when state="IPA B" output="]"/>
+			<when state="IPA D" output="ʥ"/>
+			<when state="IPA E" output="ʛ"/>
+			<when state="IPA G" output="ˠ"/>
+			<when state="IPA H" output="ʯ"/>
+			<when state="IPA I" output="ː"/>
+			<when state="IPA J" output="‿"/>
+			<when state="IPA L" output="ɮ"/>
+			<when state="IPA N" output="ɲ"/>
+			<when state="IPA O" output="œ"/>
+			<when state="IPA Q" output="ʖ"/>
+			<when state="IPA R" output="ɼ"/>
+			<when state="IPA T" output="ᶿ"/>
+			<when state="IPA U" output="ˈ"/>
+			<when state="IPA V" output="‖"/>
+			<when state="IPA X" output="ʨ"/>
+			<when state="IPA Z" output="ʓ"/>
+			<when state="_Caron  ̌ [030C]" output="₉"/>
+			<when state="_Circumflex  ̂ [0302]" output="⁹"/>
+			<when state="_Comma Below  ̦ [0326]" output="₉"/>
+			<when state="_Hook Above  ̉ [0309]" output="⁹"/>
+			<when state="_Ring Above  ̊ [030A]" output="⑨"/>
+		</action>
+		<action id=":">
+			<when state="none" output=":"/>
+			<when state="Combining Short Stroke Overlay" output="÷"/>
+			<when state="Double Acute  ̋ [030B]" output="ː"/>
+			<when state="Gruppe 2 ISO 9995-3" output="÷"/>
+			<when state="Gruppe 2 aus E1" output="✓"/>
+			<when state="_Ring Above  ̊ [030A]" output="∶"/>
+		</action>
+		<action id=";">
+			<when state="none" output=";"/>
+			<when state="Combining Short Stroke Overlay" output="✓"/>
+			<when state="Gruppe 2 ISO 9995-3" output="×"/>
+			<when state="Gruppe 2 aus E1" output="♡"/>
+		</action>
+		<action id="&#x003C;">
+			<when state="none" output="&#x003C;"/>
+			<when state="Combining Short Stroke Overlay" output="←"/>
+			<when state="Gruppe 2 ISO 9995-3" output="ŉ"/>
+			<when state="Gruppe 2 aus E1" output="≤"/>
+			<when state="_Line Below  ̱ [0331]" output="≤"/>
+		</action>
+		<action id="=">
+			<when state="none" output="="/>
+			<when state="Combining Short Stroke Overlay" output="≠"/>
+			<when state="Gruppe 2 ISO 9995-3" output="™"/>
+			<when state="Gruppe 2 aus E1" output="∅"/>
+			<when state="_Circumflex  ̂ [0302]" output="≙"/>
+			<when state="_Comma Below  ̦ [0326]" output="₌"/>
+			<when state="_Hook Above  ̉ [0309]" output="⁼"/>
+			<when state="_Line Below  ̱ [0331]" output="≡"/>
+			<when state="_Macron  ̄ [0304]" output="≡"/>
+			<when state="_Ring Above  ̊ [030A]" output="≝"/>
+			<when state="_Stroke  / [002F]" output="≠"/>
+			<when state="_Tilde  ̃ [0303]" output="≅"/>
+		</action>
+		<action id="&#x003E;">
+			<when state="none" output="&#x003E;"/>
+			<when state="Combining Short Stroke Overlay" output="→"/>
+			<when state="Gruppe 2 ISO 9995-3" output="¦"/>
+			<when state="Gruppe 2 aus E1" output="≥"/>
+			<when state="_Line Below  ̱ [0331]" output="≥"/>
+		</action>
+		<action id="?">
+			<when state="none" output="?"/>
+			<when state="Combining Short Stroke Overlay" output="‽"/>
+			<when state="Gruppe 2 ISO 9995-3" output="¿"/>
+			<when state="Gruppe 2 aus E1" output="¬"/>
+			<when state="_Comma Below  ̦ [0326]" output="ɼ"/>
+			<when state="_Ring Above  ̊ [030A]" output="&#x0001;"/>
+		</action>
+		<action id="@">
+			<when state="none" output="@"/>
+			<when state="Combining Short Stroke Overlay" output="⅍"/>
+			<when state="Gruppe 2 ISO 9995-3" output="̍"/>
+			<when state="_Ring Above  ̊ [030A]" output="ⓠ"/>
+		</action>
+		<action id="A">
+			<when state="none" output="A"/>
+			<when state="Breve And Acute  ̆́ [0306 0301]" output="Ắ"/>
+			<when state="Breve And Dot Below  ̣̆ [0323 0306]" output="Ặ"/>
+			<when state="Breve And Grave  ̆̀ [0306 0300]" output="Ằ"/>
+			<when state="Breve And Hook Above  ̆̉ [0306 0309]" output="Ẳ"/>
+			<when state="Breve And Tilde  ̆̃ [0306 0303]" output="Ẵ"/>
+			<when state="Circumflex And Acute  ̂́ [0302 0301]" output="Ấ"/>
+			<when state="Circumflex And Dot Below  ̣̂ [0323 0302]" output="Ậ"/>
+			<when state="Circumflex And Grave  ̂̀ [0302 0300]" output="Ầ"/>
+			<when state="Circumflex And Hook Above  ̂̉ [0302 0309]" output="Ẩ"/>
+			<when state="Circumflex And Tilde  ̂̃ [0302 0303]" output="Ẫ"/>
+			<when state="Diaeresis And Macron  ̈̄ [0308 0304]" output="Ǟ"/>
+			<when state="Dot Above And Macron  ̇̄ [0307 0304]" output="Ǡ"/>
+			<when state="Double Grave  ̏ [030F]" output="Ȁ"/>
+			<when state="Gruppe 2 ISO 9995-3" output="Æ"/>
+			<when state="Ring Above And Acute  ̊́ [030A 0301]" output="Ǻ"/>
+			<when state="Superselect Gruppe DI" output="̪"/>
+			<when state="Superselect Gruppe DJ" output=","/>
+			<when state="Superselect Gruppe LE" output="Æ"/>
+			<when state="_Acute  ́ [0301]" output="Á"/>
+			<when state="_Breve  ̆ [0306]" output="Ă"/>
+			<when state="_Caron  ̌ [030C]" output="Ǎ"/>
+			<when state="_Circumflex  ̂ [0302]" output="Â"/>
+			<when state="_Diaeresis  ̈ [0308]" output="Ä"/>
+			<when state="_Dot Above  ̇ [0307]" output="Ȧ"/>
+			<when state="_Dot Below  ̣ [0323]" output="Ạ"/>
+			<when state="_Grave  ̀ [0300]" output="À"/>
+			<when state="_Hook Above  ̉ [0309]" output="Ả"/>
+			<when state="_Horn  ̛ [031B]" output="Α"/>
+			<when state="_Inverted Breve  ̑ [0311]" output="Ȃ"/>
+			<when state="_Macron  ̄ [0304]" output="Ā"/>
+			<when state="_Ogonek  ̨ [0328]" output="Ą"/>
+			<when state="_Ring Above  ̊ [030A]" output="Å"/>
+			<when state="_Ring Below  ̥ [0325]" output="Ḁ"/>
+			<when state="_Stroke  / [002F]" output="Ⱥ"/>
+			<when state="_Tilde  ̃ [0303]" output="Ã"/>
+		</action>
+		<action id="B">
+			<when state="none" output="B"/>
+			<when state="Combining Short Stroke Overlay" output="Ƀ"/>
+			<when state="Gruppe 2 ISO 9995-3" output="’"/>
+			<when state="Gruppe 2 aus E1" output="’"/>
+			<when state="Superselect Gruppe DI" output="̴"/>
+			<when state="Superselect Gruppe LE" output="Ʋ"/>
+			<when state="_Comma Below  ̦ [0326]" output="Ꜣ"/>
+			<when state="_Dot Above  ̇ [0307]" output="Ḃ"/>
+			<when state="_Dot Below  ̣ [0323]" output="Ḅ"/>
+			<when state="_Horn  ̛ [031B]" output="Β"/>
+			<when state="_Line Below  ̱ [0331]" output="Ḇ"/>
+			<when state="_Ring Above  ̊ [030A]" output="⇎"/>
+			<when state="_Stroke  / [002F]" output="Ƀ"/>
+		</action>
+		<action id="C">
+			<when state="none" output="C"/>
+			<when state="Cedilla And Acute  ̧́ [0327 0301]" output="Ḉ"/>
+			<when state="Combining Short Stroke Overlay" output="Ꞓ"/>
+			<when state="Gruppe 2 ISO 9995-3" output="©"/>
+			<when state="Gruppe 2 aus E1" output="©"/>
+			<when state="Superselect Gruppe DI" output="̢"/>
+			<when state="Superselect Gruppe DJ" output="⸩"/>
+			<when state="Superselect Gruppe LE" output="Ʒ"/>
+			<when state="_Acute  ́ [0301]" output="Ć"/>
+			<when state="_Breve  ̆ [0306]" output="ć"/>
+			<when state="_Caron  ̌ [030C]" output="Č"/>
+			<when state="_Cedilla  ̧ [0327]" output="Ç"/>
+			<when state="_Circumflex  ̂ [0302]" output="Ĉ"/>
+			<when state="_Comma Below  ̦ [0326]" output="Ꜥ"/>
+			<when state="_Dot Above  ̇ [0307]" output="Ċ"/>
+			<when state="_Horn  ̛ [031B]" output="Ψ"/>
+			<when state="_Ring Above  ̊ [030A]" output="ℂ"/>
+			<when state="_Stroke  / [002F]" output="Ȼ"/>
+		</action>
+		<action id="D">
+			<when state="none" output="D"/>
+			<when state="Circumflex below + Circled Numbers 11 - 20" output="Ḓ"/>
+			<when state="Combining Short Stroke Overlay" output="Đ"/>
+			<when state="Gruppe 2 ISO 9995-3" output="Ð"/>
+			<when state="Gruppe 2 aus E1" output="Ð"/>
+			<when state="Superselect Gruppe DI" output="̬"/>
+			<when state="Superselect Gruppe LE" output="Ð"/>
+			<when state="_Caron  ̌ [030C]" output="Ď"/>
+			<when state="_Cedilla  ̧ [0327]" output="Ḑ"/>
+			<when state="_Circumflex Below  ̭ [032D]" output="Ḓ"/>
+			<when state="_Dot Above  ̇ [0307]" output="Ḋ"/>
+			<when state="_Dot Below  ̣ [0323]" output="Ḍ"/>
+			<when state="_Horn  ̛ [031B]" output="Δ"/>
+			<when state="_Line Below  ̱ [0331]" output="Ḏ"/>
+			<when state="_Macron  ̄ [0304]" output="Ḏ"/>
+			<when state="_Ring Above  ̊ [030A]" output="∆"/>
+			<when state="_Stroke  / [002F]" output="Đ"/>
+		</action>
+		<action id="E">
+			<when state="none" output="E"/>
+			<when state="Cedilla And Breve  ̧̆ [0327 0306]" output="Ḝ"/>
+			<when state="Circumflex And Acute  ̂́ [0302 0301]" output="Ế"/>
+			<when state="Circumflex And Dot Below  ̣̂ [0323 0302]" output="Ệ"/>
+			<when state="Circumflex And Grave  ̂̀ [0302 0300]" output="Ề"/>
+			<when state="Circumflex And Hook Above  ̂̉ [0302 0309]" output="Ể"/>
+			<when state="Circumflex And Tilde  ̂̃ [0302 0303]" output="Ễ"/>
+			<when state="Circumflex below" output="Ḙ"/>
+			<when state="Circumflex below + Circled Numbers 11 - 20" output="Ḙ"/>
+			<when state="Double Grave  ̏ [030F]" output="Ȅ"/>
+			<when state="Gruppe 2 ISO 9995-3" output="Œ"/>
+			<when state="Gruppe 2 aus E1" output="Ə"/>
+			<when state="Macron And Acute  ̄́ [0304 0301]" output="Ḗ"/>
+			<when state="Macron And Grave  ̄̀ [0304 0300]" output="Ḕ"/>
+			<when state="Superselect Gruppe DI" output="̤"/>
+			<when state="Superselect Gruppe LE" output="Ə"/>
+			<when state="_Acute  ́ [0301]" output="É"/>
+			<when state="_Breve  ̆ [0306]" output="Ĕ"/>
+			<when state="_Caron  ̌ [030C]" output="Ě"/>
+			<when state="_Cedilla  ̧ [0327]" output="Ȩ"/>
+			<when state="_Circumflex  ̂ [0302]" output="Ê"/>
+			<when state="_Circumflex Below  ̭ [032D]" output="Ḙ"/>
+			<when state="_Diaeresis  ̈ [0308]" output="Ë"/>
+			<when state="_Dot Above  ̇ [0307]" output="Ė"/>
+			<when state="_Dot Below  ̣ [0323]" output="Ẹ"/>
+			<when state="_Grave  ̀ [0300]" output="È"/>
+			<when state="_Hook Above  ̉ [0309]" output="Ẻ"/>
+			<when state="_Horn  ̛ [031B]" output="Ε"/>
+			<when state="_Inverted Breve  ̑ [0311]" output="Ȇ"/>
+			<when state="_Macron  ̄ [0304]" output="Ē"/>
+			<when state="_Ogonek  ̨ [0328]" output="Ę"/>
+			<when state="_Ring Above  ̊ [030A]" output="∄"/>
+			<when state="_Stroke  / [002F]" output="Ɇ"/>
+			<when state="_Tilde  ̃ [0303]" output="Ẽ"/>
+		</action>
+		<action id="F">
+			<when state="none" output="F"/>
+			<when state="Combining Short Stroke Overlay" output="₣"/>
+			<when state="Gruppe 2 ISO 9995-3" output="ª"/>
+			<when state="Superselect Gruppe DI" output="̜"/>
+			<when state="Superselect Gruppe LE" output="ƌ"/>
+			<when state="_Comma Below  ̦ [0326]" output="Ƒ"/>
+			<when state="_Dot Above  ̇ [0307]" output="Ḟ"/>
+			<when state="_Horn  ̛ [031B]" output="Φ"/>
+			<when state="_Ring Above  ̊ [030A]" output="∴"/>
+		</action>
+		<action id="G">
+			<when state="none" output="G"/>
+			<when state="Combining Short Stroke Overlay" output="Ǥ"/>
+			<when state="Gruppe 2 ISO 9995-3" output="Ŋ"/>
+			<when state="Gruppe 2 aus E1" output="☛"/>
+			<when state="Superselect Gruppe DI" output="̹"/>
+			<when state="Superselect Gruppe LE" output="Ʌ"/>
+			<when state="_Acute  ́ [0301]" output="Ǵ"/>
+			<when state="_Breve  ̆ [0306]" output="Ğ"/>
+			<when state="_Caron  ̌ [030C]" output="Ǧ"/>
+			<when state="_Cedilla  ̧ [0327]" output="Ģ"/>
+			<when state="_Circumflex  ̂ [0302]" output="Ĝ"/>
+			<when state="_Comma Below  ̦ [0326]" output="Ģ"/>
+			<when state="_Dot Above  ̇ [0307]" output="Ġ"/>
+			<when state="_Horn  ̛ [031B]" output="Γ"/>
+			<when state="_Macron  ̄ [0304]" output="Ḡ"/>
+			<when state="_Ring Above  ̊ [030A]" output="⊄"/>
+			<when state="_Stroke  / [002F]" output="Ǥ"/>
+		</action>
+		<action id="H">
+			<when state="none" output="H"/>
+			<when state="Combining Short Stroke Overlay" output="Ħ"/>
+			<when state="Gruppe 2 ISO 9995-3" output="Ɲ"/>
+			<when state="Gruppe 2 aus E1" output="☚"/>
+			<when state="Superselect Gruppe DI" output="̙"/>
+			<when state="Superselect Gruppe DJ" output="{"/>
+			<when state="Superselect Gruppe LE" output="Ɑ"/>
+			<when state="_Breve  ̆ [0306]" output="Ḫ"/>
+			<when state="_Breve Below  ̮ [032E]" output="Ḫ"/>
+			<when state="_Caron  ̌ [030C]" output="Ȟ"/>
+			<when state="_Cedilla  ̧ [0327]" output="Ḩ"/>
+			<when state="_Circumflex  ̂ [0302]" output="Ĥ"/>
+			<when state="_Comma Below  ̦ [0326]" output="Ƕ"/>
+			<when state="_Diaeresis  ̈ [0308]" output="Ḧ"/>
+			<when state="_Dot Above  ̇ [0307]" output="Ḣ"/>
+			<when state="_Dot Below  ̣ [0323]" output="Ḥ"/>
+			<when state="_Horn  ̛ [031B]" output="Η"/>
+			<when state="_Ring Above  ̊ [030A]" output="ℏ"/>
+			<when state="_Stroke  / [002F]" output="Ħ"/>
+		</action>
+		<action id="I">
+			<when state="none" output="I"/>
+			<when state="Combining Short Stroke Overlay" output="Ɨ"/>
+			<when state="Diaeresis And Acute  ̈́ [0308 0301]" output="Ḯ"/>
+			<when state="Double Grave  ̏ [030F]" output="Ȉ"/>
+			<when state="Gruppe 2 ISO 9995-3" output="⅍"/>
+			<when state="Gruppe 2 aus E1" output="⚥"/>
+			<when state="Superselect Gruppe DI" output="̞"/>
+			<when state="Superselect Gruppe DJ" output="˕"/>
+			<when state="Superselect Gruppe LE" output="İ"/>
+			<when state="_Acute  ́ [0301]" output="Í"/>
+			<when state="_Breve  ̆ [0306]" output="Ĭ"/>
+			<when state="_Caron  ̌ [030C]" output="Ǐ"/>
+			<when state="_Circumflex  ̂ [0302]" output="Î"/>
+			<when state="_Comma Below  ̦ [0326]" output="Ꞽ"/>
+			<when state="_Diaeresis  ̈ [0308]" output="Ï"/>
+			<when state="_Dot Above  ̇ [0307]" output="İ"/>
+			<when state="_Dot Below  ̣ [0323]" output="Ị"/>
+			<when state="_Grave  ̀ [0300]" output="Ì"/>
+			<when state="_Hook Above  ̉ [0309]" output="Ỉ"/>
+			<when state="_Horn  ̛ [031B]" output="Ι"/>
+			<when state="_Inverted Breve  ̑ [0311]" output="Ȋ"/>
+			<when state="_Macron  ̄ [0304]" output="Ī"/>
+			<when state="_Ogonek  ̨ [0328]" output="Į"/>
+			<when state="_Ring Above  ̊ [030A]" output="∫"/>
+			<when state="_Stroke  / [002F]" output="Ɨ"/>
+			<when state="_Tilde  ̃ [0303]" output="Ĩ"/>
+		</action>
+		<action id="J">
+			<when state="none" output="J"/>
+			<when state="Combining Short Stroke Overlay" output="Ɉ"/>
+			<when state="Gruppe 2 ISO 9995-3" output="Ĳ"/>
+			<when state="Gruppe 2 aus E1" output="ʺ"/>
+			<when state="Superselect Gruppe DI" output="̘"/>
+			<when state="Superselect Gruppe DJ" output="}"/>
+			<when state="Superselect Gruppe LE" output="Ɛ"/>
+			<when state="_Breve  ̆ [0306]" output="Ĳ"/>
+			<when state="_Circumflex  ̂ [0302]" output="Ĵ"/>
+			<when state="_Horn  ̛ [031B]" output="Ξ"/>
+			<when state="_Ring Above  ̊ [030A]" output="⊅"/>
+			<when state="_Stroke  / [002F]" output="Ɉ"/>
+		</action>
+		<action id="K">
+			<when state="none" output="K"/>
+			<when state="Combining Short Stroke Overlay" output="Ꝁ"/>
+			<when state="Gruppe 2 ISO 9995-3" next="_Comma Below  ̦ [0326]"/>
+			<when state="Superselect Gruppe DI" output="̯"/>
+			<when state="Superselect Gruppe DJ" output="↗"/>
+			<when state="Superselect Gruppe LE" output="Ɔ"/>
+			<when state="_Acute  ́ [0301]" output="Ḱ"/>
+			<when state="_Caron  ̌ [030C]" output="Ǩ"/>
+			<when state="_Cedilla  ̧ [0327]" output="Ķ"/>
+			<when state="_Comma Below  ̦ [0326]" output="Ķ"/>
+			<when state="_Dot Below  ̣ [0323]" output="Ḳ"/>
+			<when state="_Horn  ̛ [031B]" output="Κ"/>
+			<when state="_Line Below  ̱ [0331]" output="Ḵ"/>
+			<when state="_Ring Above  ̊ [030A]" output="⊇"/>
+			<when state="_Stroke  / [002F]" output="Ꝁ"/>
+		</action>
+		<action id="L">
+			<when state="none" output="L"/>
+			<when state="Circumflex below" output="Ḽ"/>
+			<when state="Circumflex below + Circled Numbers 11 - 20" output="Ḽ"/>
+			<when state="Combining Short Stroke Overlay" output="Ƚ"/>
+			<when state="Dot Below And Macron  ̣̄ [0323 0304]" output="Ḹ"/>
+			<when state="Gruppe 2 ISO 9995-3" output="Ł"/>
+			<when state="Gruppe 2 aus E1" output="Ł"/>
+			<when state="Superselect Gruppe DI" output="̺"/>
+			<when state="Superselect Gruppe DJ" output="↘"/>
+			<when state="Superselect Gruppe LE" output="Ʊ"/>
+			<when state="_Acute  ́ [0301]" output="Ĺ"/>
+			<when state="_Caron  ̌ [030C]" output="Ľ"/>
+			<when state="_Cedilla  ̧ [0327]" output="Ļ"/>
+			<when state="_Circumflex Below  ̭ [032D]" output="Ḽ"/>
+			<when state="_Comma Below  ̦ [0326]" output="Ļ"/>
+			<when state="_Dot Above  ̇ [0307]" output="Ŀ"/>
+			<when state="_Dot Below  ̣ [0323]" output="Ḷ"/>
+			<when state="_Horn  ̛ [031B]" output="Λ"/>
+			<when state="_Line Below  ̱ [0331]" output="Ḻ"/>
+			<when state="_Ring Above  ̊ [030A]" output="℔"/>
+			<when state="_Stroke  / [002F]" output="Ł"/>
+		</action>
+		<action id="M">
+			<when state="none" output="M"/>
+			<when state="Gruppe 2 ISO 9995-3" output="º"/>
+			<when state="Gruppe 2 aus E1" output="∗"/>
+			<when state="Superselect Gruppe DI" output="̫"/>
+			<when state="Superselect Gruppe LE" output="Ʃ"/>
+			<when state="_Acute  ́ [0301]" output="Ḿ"/>
+			<when state="_Dot Above  ̇ [0307]" output="Ṁ"/>
+			<when state="_Dot Below  ̣ [0323]" output="Ṃ"/>
+			<when state="_Horn  ̛ [031B]" output="Μ"/>
+			<when state="_Ring Above  ̊ [030A]" output="⇏"/>
+		</action>
+		<action id="N">
+			<when state="none" output="N"/>
+			<when state="Circumflex below" output="Ṋ"/>
+			<when state="Circumflex below + Circled Numbers 11 - 20" output="Ṋ"/>
+			<when state="Gruppe 2 ISO 9995-3" output="Ƞ"/>
+			<when state="Gruppe 2 aus E1" output="Ŋ"/>
+			<when state="Superselect Gruppe LE" output="Ŋ"/>
+			<when state="_Acute  ́ [0301]" output="Ń"/>
+			<when state="_Caron  ̌ [030C]" output="Ň"/>
+			<when state="_Cedilla  ̧ [0327]" output="Ņ"/>
+			<when state="_Circumflex Below  ̭ [032D]" output="Ṋ"/>
+			<when state="_Comma Below  ̦ [0326]" output="Ņ"/>
+			<when state="_Dot Above  ̇ [0307]" output="Ṅ"/>
+			<when state="_Dot Below  ̣ [0323]" output="Ṇ"/>
+			<when state="_Grave  ̀ [0300]" output="Ǹ"/>
+			<when state="_Horn  ̛ [031B]" output="Ν"/>
+			<when state="_Line Below  ̱ [0331]" output="Ṉ"/>
+			<when state="_Ring Above  ̊ [030A]" output="ℕ"/>
+			<when state="_Tilde  ̃ [0303]" output="Ñ"/>
+		</action>
+		<action id="O">
+			<when state="none" output="O"/>
+			<when state="Circumflex And Acute  ̂́ [0302 0301]" output="Ố"/>
+			<when state="Circumflex And Dot Below  ̣̂ [0323 0302]" output="Ộ"/>
+			<when state="Circumflex And Grave  ̂̀ [0302 0300]" output="Ồ"/>
+			<when state="Circumflex And Hook Above  ̂̉ [0302 0309]" output="Ổ"/>
+			<when state="Circumflex And Tilde  ̂̃ [0302 0303]" output="Ỗ"/>
+			<when state="Combining Short Stroke Overlay" output="Ɵ"/>
+			<when state="Diaeresis And Macron  ̈̄ [0308 0304]" output="Ȫ"/>
+			<when state="Dot Above And Macron  ̇̄ [0307 0304]" output="Ȱ"/>
+			<when state="Double Acute  ̋ [030B]" output="Ő"/>
+			<when state="Double Grave  ̏ [030F]" output="Ȍ"/>
+			<when state="Gruppe 2 ISO 9995-3" output="Ø"/>
+			<when state="Gruppe 2 aus E1" output="Ø"/>
+			<when state="Horn and Acute" output="Ớ"/>
+			<when state="Horn and Dot below" output="Ợ"/>
+			<when state="Horn and Grave" output="Ờ"/>
+			<when state="Horn and Hook Above" output="Ở"/>
+			<when state="Horn and Tilde" output="Ỡ"/>
+			<when state="Macron And Acute  ̄́ [0304 0301]" output="Ṓ"/>
+			<when state="Macron And Grave  ̄̀ [0304 0300]" output="Ṑ"/>
+			<when state="Ogonek And Macron  ̨̄ [0328 0304]" output="Ǭ"/>
+			<when state="Superselect Gruppe DI" output="̝"/>
+			<when state="Superselect Gruppe DJ" output="˔"/>
+			<when state="Superselect Gruppe LE" output="Œ"/>
+			<when state="Tilde And Acute  ̃́ [0303 0301]" output="Ṍ"/>
+			<when state="Tilde And Diaeresis  ̃̈ [0303 0308]" output="Ṏ"/>
+			<when state="Tilde And Macron  ̃̄ [0303 0304]" output="Ȭ"/>
+			<when state="_Acute  ́ [0301]" output="Ó"/>
+			<when state="_Breve  ̆ [0306]" output="Ŏ"/>
+			<when state="_Caron  ̌ [030C]" output="Ǒ"/>
+			<when state="_Circumflex  ̂ [0302]" output="Ô"/>
+			<when state="_Diaeresis  ̈ [0308]" output="Ö"/>
+			<when state="_Dot Above  ̇ [0307]" output="Ȯ"/>
+			<when state="_Dot Below  ̣ [0323]" output="Ọ"/>
+			<when state="_Grave  ̀ [0300]" output="Ò"/>
+			<when state="_Hook Above  ̉ [0309]" output="Ỏ"/>
+			<when state="_Horn  ̛ [031B]" output="Ơ"/>
+			<when state="_Inverted Breve  ̑ [0311]" output="Ȏ"/>
+			<when state="_Macron  ̄ [0304]" output="Ō"/>
+			<when state="_Ogonek  ̨ [0328]" output="Ǫ"/>
+			<when state="_Right Half Ring  ʾ [02BE]" output="Ơ"/>
+			<when state="_Ring Above  ̊ [030A]" output="∠"/>
+			<when state="_Stroke  / [002F]" output="Ø"/>
+			<when state="_Tilde  ̃ [0303]" output="Õ"/>
+		</action>
+		<action id="P">
+			<when state="none" output="P"/>
+			<when state="Combining Short Stroke Overlay" output="Ᵽ"/>
+			<when state="Gruppe 2 ISO 9995-3" output="Þ"/>
+			<when state="Gruppe 2 aus E1" output="←"/>
+			<when state="Superselect Gruppe DI" output="̥"/>
+			<when state="Superselect Gruppe LE" output="Ɂ"/>
+			<when state="_Acute  ́ [0301]" output="Ṕ"/>
+			<when state="_Dot Above  ̇ [0307]" output="Ṗ"/>
+			<when state="_Horn  ̛ [031B]" output="Π"/>
+			<when state="_Ring Above  ̊ [030A]" output="℗"/>
+			<when state="_Stroke  / [002F]" output="Ᵽ"/>
+		</action>
+		<action id="Q">
+			<when state="none" output="Q"/>
+			<when state="Gruppe 2 ISO 9995-3" output="Ɂ"/>
+			<when state="Gruppe 2 aus E1" output="♂"/>
+			<when state="Superselect Gruppe DI" output="̗"/>
+			<when state="Superselect Gruppe DJ" output="ˏ"/>
+			<when state="Superselect Gruppe LE" output="Ɥ"/>
+			<when state="_Comma Below  ̦ [0326]" output="Ɂ"/>
+			<when state="_Horn  ̛ [031B]" output="͂"/>
+			<when state="_Ring Above  ̊ [030A]" output="ℚ"/>
+		</action>
+		<action id="R">
+			<when state="none" output="R"/>
+			<when state="Combining Short Stroke Overlay" output="Ɍ"/>
+			<when state="Dot Below And Macron  ̣̄ [0323 0304]" output="Ṝ"/>
+			<when state="Double Grave  ̏ [030F]" output="Ȑ"/>
+			<when state="Gruppe 2 ISO 9995-3" output="®"/>
+			<when state="Gruppe 2 aus E1" output="®"/>
+			<when state="Superselect Gruppe DI" output="̰"/>
+			<when state="Superselect Gruppe LE" output="ʕ"/>
+			<when state="_Acute  ́ [0301]" output="Ŕ"/>
+			<when state="_Caron  ̌ [030C]" output="Ř"/>
+			<when state="_Cedilla  ̧ [0327]" output="Ŗ"/>
+			<when state="_Comma Below  ̦ [0326]" output="℞"/>
+			<when state="_Dot Above  ̇ [0307]" output="Ṙ"/>
+			<when state="_Dot Below  ̣ [0323]" output="Ṛ"/>
+			<when state="_Horn  ̛ [031B]" output="Ρ"/>
+			<when state="_Inverted Breve  ̑ [0311]" output="Ȓ"/>
+			<when state="_Line Below  ̱ [0331]" output="Ṟ"/>
+			<when state="_Macron  ̄ [0304]" output="Ṝ"/>
+			<when state="_Ring Above  ̊ [030A]" output="ℝ"/>
+			<when state="_Stroke  / [002F]" output="Ɍ"/>
+		</action>
+		<action id="S">
+			<when state="none" output="S"/>
+			<when state="Acute And Dot Above  ́̇ [0301 0307]" output="Ṥ"/>
+			<when state="Caron And Dot Above  ̌̇ [030C 0307]" output="Ṧ"/>
+			<when state="Dot Below And Dot Above  ̣̇ [0323 0307]" output="Ṩ"/>
+			<when state="Gruppe 2 ISO 9995-3" output="§"/>
+			<when state="Gruppe 2 aus E1" output="∑"/>
+			<when state="Superselect Gruppe DI" output="̣"/>
+			<when state="Superselect Gruppe DJ" output="."/>
+			<when state="Superselect Gruppe LE" output="ʔ"/>
+			<when state="_Acute  ́ [0301]" output="Ś"/>
+			<when state="_Caron  ̌ [030C]" output="Š"/>
+			<when state="_Cedilla  ̧ [0327]" output="Ş"/>
+			<when state="_Circumflex  ̂ [0302]" output="Ŝ"/>
+			<when state="_Comma Below  ̦ [0326]" output="Ș"/>
+			<when state="_Dot Above  ̇ [0307]" output="Ṡ"/>
+			<when state="_Dot Below  ̣ [0323]" output="Ṣ"/>
+			<when state="_Horn  ̛ [031B]" output="Σ"/>
+			<when state="_Ring Above  ̊ [030A]" output="∇"/>
+		</action>
+		<action id="T">
+			<when state="none" output="T"/>
+			<when state="Circumflex below" output="Ṱ"/>
+			<when state="Circumflex below + Circled Numbers 11 - 20" output="Ṱ"/>
+			<when state="Combining Short Stroke Overlay" output="Ŧ"/>
+			<when state="Gruppe 2 ISO 9995-3" output="Ꞌ"/>
+			<when state="Gruppe 2 aus E1" output="Þ"/>
+			<when state="Superselect Gruppe DI" output="̩"/>
+			<when state="Superselect Gruppe DJ" output="ˌ"/>
+			<when state="Superselect Gruppe LE" output="Þ"/>
+			<when state="_Caron  ̌ [030C]" output="Ť"/>
+			<when state="_Cedilla  ̧ [0327]" output="Ţ"/>
+			<when state="_Circumflex Below  ̭ [032D]" output="Ṱ"/>
+			<when state="_Comma Below  ̦ [0326]" output="Ț"/>
+			<when state="_Dot Above  ̇ [0307]" output="Ṫ"/>
+			<when state="_Dot Below  ̣ [0323]" output="Ṭ"/>
+			<when state="_Horn  ̛ [031B]" output="Τ"/>
+			<when state="_Line Below  ̱ [0331]" output="Ṯ"/>
+			<when state="_Macron  ̄ [0304]" output="Ṯ"/>
+			<when state="_Ring Above  ̊ [030A]" output="∟"/>
+			<when state="_Stroke  / [002F]" output="Ŧ"/>
+		</action>
+		<action id="U">
+			<when state="none" output="U"/>
+			<when state="Circumflex below" output="Ṷ"/>
+			<when state="Circumflex below + Circled Numbers 11 - 20" output="Ṷ"/>
+			<when state="Combining Short Stroke Overlay" output="Ʉ"/>
+			<when state="Diaeresis And Acute  ̈́ [0308 0301]" output="Ǘ"/>
+			<when state="Diaeresis And Caron  ̈̌ [0308 030C]" output="Ǚ"/>
+			<when state="Diaeresis And Grave  ̈̀ [0308 0300]" output="Ǜ"/>
+			<when state="Diaeresis And Macron  ̈̄ [0308 0304]" output="Ǖ"/>
+			<when state="Double Acute  ̋ [030B]" output="Ű"/>
+			<when state="Double Grave  ̏ [030F]" output="Ȕ"/>
+			<when state="Gruppe 2 ISO 9995-3" output="Ȣ"/>
+			<when state="Gruppe 2 aus E1" output="↑"/>
+			<when state="Horn and Acute" output="Ứ"/>
+			<when state="Horn and Dot below" output="Ự"/>
+			<when state="Horn and Grave" output="Ừ"/>
+			<when state="Horn and Hook Above" output="Ử"/>
+			<when state="Horn and Tilde" output="Ữ"/>
+			<when state="Macron And Diaeresis  ̄̈ [0304 0308]" output="Ṻ"/>
+			<when state="Superselect Gruppe DI" output="̟"/>
+			<when state="Superselect Gruppe DJ" output="˖"/>
+			<when state="Superselect Gruppe LE" output="Ȣ"/>
+			<when state="Tilde And Acute  ̃́ [0303 0301]" output="Ṹ"/>
+			<when state="_Acute  ́ [0301]" output="Ú"/>
+			<when state="_Breve  ̆ [0306]" output="Ŭ"/>
+			<when state="_Caron  ̌ [030C]" output="Ǔ"/>
+			<when state="_Circumflex  ̂ [0302]" output="Û"/>
+			<when state="_Circumflex Below  ̭ [032D]" output="Ṷ"/>
+			<when state="_Diaeresis  ̈ [0308]" output="Ü"/>
+			<when state="_Dot Below  ̣ [0323]" output="Ụ"/>
+			<when state="_Grave  ̀ [0300]" output="Ù"/>
+			<when state="_Hook Above  ̉ [0309]" output="Ủ"/>
+			<when state="_Horn  ̛ [031B]" output="Ư"/>
+			<when state="_Inverted Breve  ̑ [0311]" output="Ȗ"/>
+			<when state="_Macron  ̄ [0304]" output="Ū"/>
+			<when state="_Ogonek  ̨ [0328]" output="Ų"/>
+			<when state="_Right Half Ring  ʾ [02BE]" output="Ư"/>
+			<when state="_Ring Above  ̊ [030A]" output="Ů"/>
+			<when state="_Tilde  ̃ [0303]" output="Ũ"/>
+		</action>
+		<action id="V">
+			<when state="none" output="V"/>
+			<when state="Gruppe 2 ISO 9995-3" output="‘"/>
+			<when state="Gruppe 2 aus E1" output="‘"/>
+			<when state="Superselect Gruppe DI" output="̼"/>
+			<when state="Superselect Gruppe LE" output="Ƹ"/>
+			<when state="_Dot Below  ̣ [0323]" output="Ṿ"/>
+			<when state="_Horn  ̛ [031B]" output="Ω"/>
+			<when state="_Ring Above  ̊ [030A]" output="∧"/>
+			<when state="_Tilde  ̃ [0303]" output="Ṽ"/>
+		</action>
+		<action id="W">
+			<when state="none" output="W"/>
+			<when state="Gruppe 2 ISO 9995-3" output="Ω"/>
+			<when state="Gruppe 2 aus E1" output="♀"/>
+			<when state="Superselect Gruppe DI" output="̖"/>
+			<when state="Superselect Gruppe DJ" output="ˎ"/>
+			<when state="Superselect Gruppe LE" output="Ǝ"/>
+			<when state="_Acute  ́ [0301]" output="Ẃ"/>
+			<when state="_Circumflex  ̂ [0302]" output="Ŵ"/>
+			<when state="_Comma Below  ̦ [0326]" output="Ƿ"/>
+			<when state="_Diaeresis  ̈ [0308]" output="Ẅ"/>
+			<when state="_Dot Above  ̇ [0307]" output="Ẇ"/>
+			<when state="_Dot Below  ̣ [0323]" output="Ẉ"/>
+			<when state="_Grave  ̀ [0300]" output="Ẁ"/>
+			<when state="_Horn  ̛ [031B]" output="̔"/>
+		</action>
+		<action id="X">
+			<when state="none" output="X"/>
+			<when state="Gruppe 2 ISO 9995-3" output="‚"/>
+			<when state="Gruppe 2 aus E1" output="‚"/>
+			<when state="Superselect Gruppe DI" output="̡"/>
+			<when state="Superselect Gruppe DJ" output="⸨"/>
+			<when state="Superselect Gruppe LE" output="Ꞌ"/>
+			<when state="_Diaeresis  ̈ [0308]" output="Ẍ"/>
+			<when state="_Dot Above  ̇ [0307]" output="Ẋ"/>
+			<when state="_Horn  ̛ [031B]" output="Χ"/>
+			<when state="_Ring Above  ̊ [030A]" output="ℵ"/>
+		</action>
+		<action id="Y">
+			<when state="none" output="Y"/>
+			<when state="Combining Short Stroke Overlay" output="Ɏ"/>
+			<when state="Gruppe 2 ISO 9995-3" output="Ʒ"/>
+			<when state="Gruppe 2 aus E1" output="⌁"/>
+			<when state="Superselect Gruppe DI" output="̠"/>
+			<when state="Superselect Gruppe DJ" output="˗"/>
+			<when state="Superselect Gruppe LE" output="ẞ"/>
+			<when state="_Acute  ́ [0301]" output="Ý"/>
+			<when state="_Circumflex  ̂ [0302]" output="Ŷ"/>
+			<when state="_Comma Below  ̦ [0326]" output="Ȝ"/>
+			<when state="_Diaeresis  ̈ [0308]" output="Ÿ"/>
+			<when state="_Dot Above  ̇ [0307]" output="Ẏ"/>
+			<when state="_Dot Below  ̣ [0323]" output="Ỵ"/>
+			<when state="_Grave  ̀ [0300]" output="Ỳ"/>
+			<when state="_Hook Above  ̉ [0309]" output="Ỷ"/>
+			<when state="_Horn  ̛ [031B]" output="Υ"/>
+			<when state="_Macron  ̄ [0304]" output="Ȳ"/>
+			<when state="_Stroke  / [002F]" output="Ɏ"/>
+			<when state="_Tilde  ̃ [0303]" output="Ỹ"/>
+		</action>
+		<action id="Z">
+			<when state="none" output="Z"/>
+			<when state="Caron second group" output="Ǯ"/>
+			<when state="Combining Short Stroke Overlay" output="Ƶ"/>
+			<when state="Gruppe 2 ISO 9995-3" output="¥"/>
+			<when state="Gruppe 2 aus E1" output="Ʒ"/>
+			<when state="Superselect Gruppe DI" output="̻"/>
+			<when state="Superselect Gruppe DJ" output="‿"/>
+			<when state="Superselect Gruppe LE" output="Ƞ"/>
+			<when state="_Acute  ́ [0301]" output="Ź"/>
+			<when state="_Caron  ̌ [030C]" output="Ž"/>
+			<when state="_Circumflex  ̂ [0302]" output="Ẑ"/>
+			<when state="_Comma Below  ̦ [0326]" output="Ȥ"/>
+			<when state="_Dot Above  ̇ [0307]" output="Ż"/>
+			<when state="_Dot Below  ̣ [0323]" output="Ẓ"/>
+			<when state="_Horn  ̛ [031B]" output="Ζ"/>
+			<when state="_Line Below  ̱ [0331]" output="Ẕ"/>
+			<when state="_Ring Above  ̊ [030A]" output="ℤ"/>
+			<when state="_Stroke  / [002F]" output="Ƶ"/>
+		</action>
+		<action id="[">
+			<when state="none" output="["/>
+			<when state="Combining Short Stroke Overlay" output="⁅"/>
+			<when state="Gruppe 2 ISO 9995-3" output="}"/>
+			<when state="_Comma Below  ̦ [0326]" output="⸢"/>
+		</action>
+		<action id="\">
+			<when state="none" output="\"/>
+			<when state="Combining Short Stroke Overlay" output="•"/>
+			<when state="Gruppe 2 ISO 9995-3" output="ʻ"/>
+		</action>
+		<action id="]">
+			<when state="none" output="]"/>
+			<when state="Combining Short Stroke Overlay" output="⁆"/>
+			<when state="Gruppe 2 ISO 9995-3" output="["/>
+			<when state="_Comma Below  ̦ [0326]" output="⸣"/>
+		</action>
+		<action id="^">
+			<when state="none" next="_Circumflex  ̂ [0302]"/>
+			<when state="Combining Short Stroke Overlay" next="_Circumflex Below  ̭ [032D]"/>
+			<when state="Gruppe 2 ISO 9995-3" output="⁊"/>
+			<when state="_Acute  ́ [0301]" next="Circumflex And Acute  ̂́ [0302 0301]"/>
+			<when state="_Caron  ̌ [030C]" next="_Circumflex Below  ̭ [032D]"/>
+			<when state="_Circumflex  ̂ [0302]" output="̂"/>
+			<when state="_Dot Below  ̣ [0323]" next="Circumflex And Dot Below  ̣̂ [0323 0302]"/>
+			<when state="_Grave  ̀ [0300]" next="Circumflex And Grave  ̂̀ [0302 0300]"/>
+			<when state="_Hook Above  ̉ [0309]" next="Circumflex And Hook Above  ̂̉ [0302 0309]"/>
+			<when state="_Tilde  ̃ [0303]" next="Circumflex And Tilde  ̂̃ [0302 0303]"/>
+		</action>
+		<action id="_">
+			<when state="none" output="_"/>
+			<when state="Combining Short Stroke Overlay" output="͟"/>
+			<when state="Gruppe 2 ISO 9995-3" output="Ŀ"/>
+			<when state="Gruppe 2 aus E1" output="◦"/>
+			<when state="_Line Below  ̱ [0331]" output="‗"/>
+		</action>
+		<action id="`">
+			<when state="none" next="_Grave  ̀ [0300]"/>
+			<when state="Gruppe 2 ISO 9995-3" next="_Ogonek  ̨ [0328]"/>
+			<when state="Gruppe 2 aus E1" output="¥"/>
+			<when state="_Breve  ̆ [0306]" next="Breve And Grave  ̆̀ [0306 0300]"/>
+			<when state="_Circumflex  ̂ [0302]" next="Circumflex And Grave  ̂̀ [0302 0300]"/>
+			<when state="_Diaeresis  ̈ [0308]" next="Diaeresis And Grave  ̈̀ [0308 0300]"/>
+			<when state="_Grave  ̀ [0300]" output="̀"/>
+			<when state="_Horn  ̛ [031B]" next="Horn and Grave"/>
+			<when state="_Macron  ̄ [0304]" next="Macron And Grave  ̄̀ [0304 0300]"/>
+		</action>
+		<action id="a">
+			<when state="none" output="a"/>
+			<when state="Breve And Acute  ̆́ [0306 0301]" output="ắ"/>
+			<when state="Breve And Dot Below  ̣̆ [0323 0306]" output="ặ"/>
+			<when state="Breve And Grave  ̆̀ [0306 0300]" output="ằ"/>
+			<when state="Breve And Hook Above  ̆̉ [0306 0309]" output="ẳ"/>
+			<when state="Breve And Tilde  ̆̃ [0306 0303]" output="ẵ"/>
+			<when state="Circumflex And Acute  ̂́ [0302 0301]" output="ấ"/>
+			<when state="Circumflex And Dot Below  ̣̂ [0323 0302]" output="ậ"/>
+			<when state="Circumflex And Grave  ̂̀ [0302 0300]" output="ầ"/>
+			<when state="Circumflex And Hook Above  ̂̉ [0302 0309]" output="ẩ"/>
+			<when state="Circumflex And Tilde  ̂̃ [0302 0303]" output="ẫ"/>
+			<when state="DIN 2137 Zugriff Gruppe DI Ebene 2" output="̪"/>
+			<when state="DIN 2137 Zugriff Gruppe DJ Ebene 2" output=","/>
+			<when state="Diaeresis And Macron  ̈̄ [0308 0304]" output="ǟ"/>
+			<when state="Dot Above And Macron  ̇̄ [0307 0304]" output="ǡ"/>
+			<when state="Double Acute  ̋ [030B]" next="IPA A"/>
+			<when state="Double Grave  ̏ [030F]" output="ȁ"/>
+			<when state="Gruppe 2 ISO 9995-3" output="æ"/>
+			<when state="Ring Above And Acute  ̊́ [030A 0301]" output="ǻ"/>
+			<when state="Superselect Gruppe DI" output="̽"/>
+			<when state="Superselect Gruppe LE" output="æ"/>
+			<when state="_Acute  ́ [0301]" output="á"/>
+			<when state="_Breve  ̆ [0306]" output="ă"/>
+			<when state="_Caron  ̌ [030C]" output="ǎ"/>
+			<when state="_Circumflex  ̂ [0302]" output="â"/>
+			<when state="_Comma Below  ̦ [0326]" output="ª"/>
+			<when state="_Diaeresis  ̈ [0308]" output="ä"/>
+			<when state="_Dot Above  ̇ [0307]" output="ȧ"/>
+			<when state="_Dot Below  ̣ [0323]" output="ạ"/>
+			<when state="_Grave  ̀ [0300]" output="à"/>
+			<when state="_Hook Above  ̉ [0309]" output="ả"/>
+			<when state="_Horn  ̛ [031B]" output="α"/>
+			<when state="_Inverted Breve  ̑ [0311]" output="ȃ"/>
+			<when state="_Macron  ̄ [0304]" output="ā"/>
+			<when state="_Ogonek  ̨ [0328]" output="ą"/>
+			<when state="_Right Half Ring  ʾ [02BE]" output="ẚ"/>
+			<when state="_Ring Above  ̊ [030A]" output="å"/>
+			<when state="_Ring Below  ̥ [0325]" output="ḁ"/>
+			<when state="_Stroke  / [002F]" output="ⱥ"/>
+			<when state="_Tilde  ̃ [0303]" output="ã"/>
+		</action>
+		<action id="b">
+			<when state="none" output="b"/>
+			<when state="Combining Short Stroke Overlay" output="ƀ"/>
+			<when state="DIN 2137 Zugriff Gruppe DI Ebene 2" output="̴"/>
+			<when state="Double Acute  ̋ [030B]" next="IPA B"/>
+			<when state="Gruppe 2 ISO 9995-3" output="”"/>
+			<when state="Gruppe 2 aus E1" output="”"/>
+			<when state="Superselect Gruppe DI" output="᷄"/>
+			<when state="Superselect Gruppe DJ" output="/"/>
+			<when state="Superselect Gruppe LE" output="ƃ"/>
+			<when state="_Comma Below  ̦ [0326]" output="ꜣ"/>
+			<when state="_Dot Above  ̇ [0307]" output="ḃ"/>
+			<when state="_Dot Below  ̣ [0323]" output="ḅ"/>
+			<when state="_Horn  ̛ [031B]" output="β"/>
+			<when state="_Line Below  ̱ [0331]" output="ḇ"/>
+			<when state="_Ring Above  ̊ [030A]" output="⇔"/>
+			<when state="_Stroke  / [002F]" output="ƀ"/>
+		</action>
+		<action id="c">
+			<when state="none" output="c"/>
+			<when state="Cedilla And Acute  ̧́ [0327 0301]" output="ḉ"/>
+			<when state="Combining Short Stroke Overlay" output="ꞓ"/>
+			<when state="DIN 2137 Zugriff Gruppe DI Ebene 2" output="̢"/>
+			<when state="DIN 2137 Zugriff Gruppe DJ Ebene 2" output="⸩"/>
+			<when state="Double Acute  ̋ [030B]" next="IPA C"/>
+			<when state="Gruppe 2 ISO 9995-3" output="¢"/>
+			<when state="Gruppe 2 aus E1" output="¢"/>
+			<when state="Superselect Gruppe DJ" output=")"/>
+			<when state="Superselect Gruppe LE" output="ʒ"/>
+			<when state="_Acute  ́ [0301]" output="ć"/>
+			<when state="_Breve  ̆ [0306]" output="Ĉ"/>
+			<when state="_Caron  ̌ [030C]" output="č"/>
+			<when state="_Cedilla  ̧ [0327]" output="ç"/>
+			<when state="_Circumflex  ̂ [0302]" output="ĉ"/>
+			<when state="_Comma Below  ̦ [0326]" output="ꜥ"/>
+			<when state="_Dot Above  ̇ [0307]" output="ċ"/>
+			<when state="_Horn  ̛ [031B]" output="ψ"/>
+			<when state="_Ring Above  ̊ [030A]" output="∛"/>
+			<when state="_Stroke  / [002F]" output="ȼ"/>
+		</action>
+		<action id="d">
+			<when state="none" output="d"/>
+			<when state="Circumflex below" output="ḓ"/>
+			<when state="Circumflex below + Circled Numbers 11 - 20" output="ḓ"/>
+			<when state="Combining Short Stroke Overlay" output="đ"/>
+			<when state="DIN 2137 Zugriff Gruppe DI Ebene 2" output="̬"/>
+			<when state="Double Acute  ̋ [030B]" next="IPA D"/>
+			<when state="Gruppe 2 ISO 9995-3" output="ð"/>
+			<when state="Gruppe 2 aus E1" output="ð"/>
+			<when state="Superselect Gruppe DI" output="̄"/>
+			<when state="Superselect Gruppe LE" output="ð"/>
+			<when state="_Caron  ̌ [030C]" output="ď"/>
+			<when state="_Cedilla  ̧ [0327]" output="ḑ"/>
+			<when state="_Circumflex Below  ̭ [032D]" output="ḓ"/>
+			<when state="_Dot Above  ̇ [0307]" output="ḋ"/>
+			<when state="_Dot Below  ̣ [0323]" output="ḍ"/>
+			<when state="_Horn  ̛ [031B]" output="δ"/>
+			<when state="_Line Below  ̱ [0331]" output="ḏ"/>
+			<when state="_Macron  ̄ [0304]" output="ḏ"/>
+			<when state="_Ring Above  ̊ [030A]" output="∂"/>
+			<when state="_Stroke  / [002F]" output="đ"/>
+		</action>
+		<action id="e">
+			<when state="none" output="e"/>
+			<when state="Cedilla And Breve  ̧̆ [0327 0306]" output="ḝ"/>
+			<when state="Circumflex And Acute  ̂́ [0302 0301]" output="ế"/>
+			<when state="Circumflex And Dot Below  ̣̂ [0323 0302]" output="ệ"/>
+			<when state="Circumflex And Grave  ̂̀ [0302 0300]" output="ề"/>
+			<when state="Circumflex And Hook Above  ̂̉ [0302 0309]" output="ể"/>
+			<when state="Circumflex And Tilde  ̂̃ [0302 0303]" output="ễ"/>
+			<when state="Circumflex below" output="ḙ"/>
+			<when state="Circumflex below + Circled Numbers 11 - 20" output="ḙ"/>
+			<when state="Combining Short Stroke Overlay" output="ꬳ"/>
+			<when state="DIN 2137 Zugriff Gruppe DI Ebene 2" output="̤"/>
+			<when state="Double Acute  ̋ [030B]" next="IPA E"/>
+			<when state="Double Grave  ̏ [030F]" output="ȅ"/>
+			<when state="Gruppe 2 ISO 9995-3" output="œ"/>
+			<when state="Gruppe 2 aus E1" output="ə"/>
+			<when state="Macron And Acute  ̄́ [0304 0301]" output="ḗ"/>
+			<when state="Macron And Grave  ̄̀ [0304 0300]" output="ḕ"/>
+			<when state="Superselect Gruppe DI" output="̈"/>
+			<when state="Superselect Gruppe LE" output="ə"/>
+			<when state="_Acute  ́ [0301]" output="é"/>
+			<when state="_Breve  ̆ [0306]" output="ĕ"/>
+			<when state="_Caron  ̌ [030C]" output="ě"/>
+			<when state="_Cedilla  ̧ [0327]" output="ȩ"/>
+			<when state="_Circumflex  ̂ [0302]" output="ê"/>
+			<when state="_Circumflex Below  ̭ [032D]" output="ḙ"/>
+			<when state="_Diaeresis  ̈ [0308]" output="ë"/>
+			<when state="_Dot Above  ̇ [0307]" output="ė"/>
+			<when state="_Dot Below  ̣ [0323]" output="ẹ"/>
+			<when state="_Grave  ̀ [0300]" output="è"/>
+			<when state="_Hook Above  ̉ [0309]" output="ẻ"/>
+			<when state="_Horn  ̛ [031B]" output="ε"/>
+			<when state="_Inverted Breve  ̑ [0311]" output="ȇ"/>
+			<when state="_Macron  ̄ [0304]" output="ē"/>
+			<when state="_Ogonek  ̨ [0328]" output="ę"/>
+			<when state="_Ring Above  ̊ [030A]" output="∃"/>
+			<when state="_Stroke  / [002F]" output="ɇ"/>
+			<when state="_Tilde  ̃ [0303]" output="ẽ"/>
+		</action>
+		<action id="f">
+			<when state="none" output="f"/>
+			<when state="Combining Short Stroke Overlay" output="ꞙ"/>
+			<when state="DIN 2137 Zugriff Gruppe DI Ebene 2" output="̜"/>
+			<when state="Double Acute  ̋ [030B]" next="IPA F"/>
+			<when state="Gruppe 2 ISO 9995-3" output="ʔ"/>
+			<when state="Superselect Gruppe DJ" output="ʻ"/>
+			<when state="Superselect Gruppe LE" output="Ƌ"/>
+			<when state="_Comma Below  ̦ [0326]" output="ƒ"/>
+			<when state="_Dot Above  ̇ [0307]" output="ḟ"/>
+			<when state="_Horn  ̛ [031B]" output="φ"/>
+			<when state="_Ring Above  ̊ [030A]" output="∵"/>
+		</action>
+		<action id="g">
+			<when state="none" output="g"/>
+			<when state="Combining Short Stroke Overlay" output="ǥ"/>
+			<when state="DIN 2137 Zugriff Gruppe DI Ebene 2" output="̹"/>
+			<when state="Double Acute  ̋ [030B]" next="IPA G"/>
+			<when state="Gruppe 2 ISO 9995-3" output="ŋ"/>
+			<when state="Gruppe 2 aus E1" next="_Hook Above  ̉ [0309]"/>
+			<when state="Superselect Gruppe DJ" output="ʼ"/>
+			<when state="Superselect Gruppe LE" output="ʌ"/>
+			<when state="_Acute  ́ [0301]" output="ǵ"/>
+			<when state="_Breve  ̆ [0306]" output="ğ"/>
+			<when state="_Caron  ̌ [030C]" output="ǧ"/>
+			<when state="_Cedilla  ̧ [0327]" output="ģ"/>
+			<when state="_Circumflex  ̂ [0302]" output="ĝ"/>
+			<when state="_Comma Below  ̦ [0326]" output="ģ"/>
+			<when state="_Dot Above  ̇ [0307]" output="ġ"/>
+			<when state="_Horn  ̛ [031B]" output="γ"/>
+			<when state="_Macron  ̄ [0304]" output="ḡ"/>
+			<when state="_Ring Above  ̊ [030A]" output="⊂"/>
+			<when state="_Stroke  / [002F]" output="ǥ"/>
+		</action>
+		<action id="h">
+			<when state="none" output="h"/>
+			<when state="Combining Short Stroke Overlay" output="ħ"/>
+			<when state="DIN 2137 Zugriff Gruppe DI Ebene 2" output="̙"/>
+			<when state="DIN 2137 Zugriff Gruppe DJ Ebene 2" output="{"/>
+			<when state="Double Acute  ̋ [030B]" next="IPA H"/>
+			<when state="Gruppe 2 ISO 9995-3" output="ɲ"/>
+			<when state="Gruppe 2 aus E1" next="_Right Half Ring  ʾ [02BE]"/>
+			<when state="Superselect Gruppe DJ" output="["/>
+			<when state="Superselect Gruppe LE" output="ɑ"/>
+			<when state="_Breve  ̆ [0306]" output="ḫ"/>
+			<when state="_Breve Below  ̮ [032E]" output="ḫ"/>
+			<when state="_Caron  ̌ [030C]" output="ȟ"/>
+			<when state="_Cedilla  ̧ [0327]" output="ḩ"/>
+			<when state="_Circumflex  ̂ [0302]" output="ĥ"/>
+			<when state="_Comma Below  ̦ [0326]" output="ƕ"/>
+			<when state="_Diaeresis  ̈ [0308]" output="ḧ"/>
+			<when state="_Dot Above  ̇ [0307]" output="ḣ"/>
+			<when state="_Dot Below  ̣ [0323]" output="ḥ"/>
+			<when state="_Horn  ̛ [031B]" output="η"/>
+			<when state="_Line Below  ̱ [0331]" output="ẖ"/>
+			<when state="_Ring Above  ̊ [030A]" output="ℎ"/>
+			<when state="_Stroke  / [002F]" output="ħ"/>
+		</action>
+		<action id="i">
+			<when state="none" output="i"/>
+			<when state="Combining Short Stroke Overlay" output="ɨ"/>
+			<when state="DIN 2137 Zugriff Gruppe DI Ebene 2" output="̞"/>
+			<when state="DIN 2137 Zugriff Gruppe DJ Ebene 2" output="˕"/>
+			<when state="Diaeresis And Acute  ̈́ [0308 0301]" output="ḯ"/>
+			<when state="Double Acute  ̋ [030B]" next="IPA I"/>
+			<when state="Double Grave  ̏ [030F]" output="ȉ"/>
+			<when state="Gruppe 2 ISO 9995-3" output="ı"/>
+			<when state="Gruppe 2 aus E1" output="ı"/>
+			<when state="Superselect Gruppe DI" output="̂"/>
+			<when state="Superselect Gruppe DJ" output="˧"/>
+			<when state="Superselect Gruppe LE" output="ı"/>
+			<when state="_Acute  ́ [0301]" output="í"/>
+			<when state="_Breve  ̆ [0306]" output="ĭ"/>
+			<when state="_Caron  ̌ [030C]" output="ǐ"/>
+			<when state="_Circumflex  ̂ [0302]" output="î"/>
+			<when state="_Comma Below  ̦ [0326]" output="ꞽ"/>
+			<when state="_Diaeresis  ̈ [0308]" output="ï"/>
+			<when state="_Dot Below  ̣ [0323]" output="ị"/>
+			<when state="_Grave  ̀ [0300]" output="ì"/>
+			<when state="_Hook Above  ̉ [0309]" output="ỉ"/>
+			<when state="_Horn  ̛ [031B]" output="ι"/>
+			<when state="_Inverted Breve  ̑ [0311]" output="ȋ"/>
+			<when state="_Macron  ̄ [0304]" output="ī"/>
+			<when state="_Ogonek  ̨ [0328]" output="į"/>
+			<when state="_Ring Above  ̊ [030A]" output="∞"/>
+			<when state="_Stroke  / [002F]" output="ɨ"/>
+			<when state="_Tilde  ̃ [0303]" output="ĩ"/>
+		</action>
+		<action id="j">
+			<when state="none" output="j"/>
+			<when state="Combining Short Stroke Overlay" output="ɉ"/>
+			<when state="DIN 2137 Zugriff Gruppe DI Ebene 2" output="̘"/>
+			<when state="DIN 2137 Zugriff Gruppe DJ Ebene 2" output="}"/>
+			<when state="Double Acute  ̋ [030B]" next="IPA J"/>
+			<when state="Gruppe 2 ISO 9995-3" output="ĳ"/>
+			<when state="Gruppe 2 aus E1" next="_Comma Below  ̦ [0326]"/>
+			<when state="Superselect Gruppe DI" output="̏"/>
+			<when state="Superselect Gruppe DJ" output="]"/>
+			<when state="Superselect Gruppe LE" output="ɛ"/>
+			<when state="_Breve  ̆ [0306]" output="ĳ"/>
+			<when state="_Caron  ̌ [030C]" output="ǰ"/>
+			<when state="_Circumflex  ̂ [0302]" output="ĵ"/>
+			<when state="_Horn  ̛ [031B]" output="ξ"/>
+			<when state="_Ring Above  ̊ [030A]" output="⊃"/>
+			<when state="_Stroke  / [002F]" output="ɉ"/>
+		</action>
+		<action id="k">
+			<when state="none" output="k"/>
+			<when state="Combining Short Stroke Overlay" output="ꝁ"/>
+			<when state="DIN 2137 Zugriff Gruppe DI Ebene 2" output="̯"/>
+			<when state="DIN 2137 Zugriff Gruppe DJ Ebene 2" output="↗"/>
+			<when state="Double Acute  ̋ [030B]" next="IPA K"/>
+			<when state="Gruppe 2 ISO 9995-3" output="ĸ"/>
+			<when state="Superselect Gruppe DI" output="̑"/>
+			<when state="Superselect Gruppe DJ" output="ꜛ"/>
+			<when state="Superselect Gruppe LE" output="ɔ"/>
+			<when state="_Acute  ́ [0301]" output="ḱ"/>
+			<when state="_Caron  ̌ [030C]" output="ǩ"/>
+			<when state="_Cedilla  ̧ [0327]" output="ķ"/>
+			<when state="_Comma Below  ̦ [0326]" output="ķ"/>
+			<when state="_Dot Below  ̣ [0323]" output="ḳ"/>
+			<when state="_Horn  ̛ [031B]" output="κ"/>
+			<when state="_Line Below  ̱ [0331]" output="ḵ"/>
+			<when state="_Ring Above  ̊ [030A]" output="⊆"/>
+			<when state="_Stroke  / [002F]" output="ꝁ"/>
+		</action>
+		<action id="l">
+			<when state="none" output="l"/>
+			<when state="Circumflex below" output="ḽ"/>
+			<when state="Circumflex below + Circled Numbers 11 - 20" output="ḽ"/>
+			<when state="Combining Short Stroke Overlay" output="ƚ"/>
+			<when state="DIN 2137 Zugriff Gruppe DI Ebene 2" output="̺"/>
+			<when state="DIN 2137 Zugriff Gruppe DJ Ebene 2" output="↘"/>
+			<when state="Dot Below And Macron  ̣̄ [0323 0304]" output="ḹ"/>
+			<when state="Double Acute  ̋ [030B]" next="IPA L"/>
+			<when state="Gruppe 2 ISO 9995-3" output="ł"/>
+			<when state="Gruppe 2 aus E1" output="ł"/>
+			<when state="Superselect Gruppe DJ" output="ꜜ"/>
+			<when state="Superselect Gruppe LE" output="ʊ"/>
+			<when state="_Acute  ́ [0301]" output="ĺ"/>
+			<when state="_Caron  ̌ [030C]" output="ľ"/>
+			<when state="_Cedilla  ̧ [0327]" output="ļ"/>
+			<when state="_Circumflex Below  ̭ [032D]" output="ḽ"/>
+			<when state="_Comma Below  ̦ [0326]" output="ļ"/>
+			<when state="_Dot Above  ̇ [0307]" output="ŀ"/>
+			<when state="_Dot Below  ̣ [0323]" output="ḷ"/>
+			<when state="_Horn  ̛ [031B]" output="λ"/>
+			<when state="_Line Below  ̱ [0331]" output="ḻ"/>
+			<when state="_Ring Above  ̊ [030A]" output="ℓ"/>
+			<when state="_Stroke  / [002F]" output="ł"/>
+		</action>
+		<action id="m">
+			<when state="none" output="m"/>
+			<when state="DIN 2137 Zugriff Gruppe DI Ebene 2" output="̫"/>
+			<when state="Double Acute  ̋ [030B]" next="IPA M"/>
+			<when state="Gruppe 2 ISO 9995-3" output="µ"/>
+			<when state="Gruppe 2 aus E1" output="‌"/>
+			<when state="Superselect Gruppe DI" output="᷈"/>
+			<when state="Superselect Gruppe DJ" output="‖"/>
+			<when state="Superselect Gruppe LE" output="ʃ"/>
+			<when state="_Acute  ́ [0301]" output="ḿ"/>
+			<when state="_Dot Above  ̇ [0307]" output="ṁ"/>
+			<when state="_Dot Below  ̣ [0323]" output="ṃ"/>
+			<when state="_Horn  ̛ [031B]" output="μ"/>
+			<when state="_Ring Above  ̊ [030A]" output="⇒"/>
+		</action>
+		<action id="n">
+			<when state="none" output="n"/>
+			<when state="Circumflex below" output="ṋ"/>
+			<when state="Circumflex below + Circled Numbers 11 - 20" output="ṋ"/>
+			<when state="Combining Vertical Line Below" output="ƞ"/>
+			<when state="Double Acute  ̋ [030B]" next="IPA N"/>
+			<when state="Gruppe 2 ISO 9995-3" output="ƞ"/>
+			<when state="Gruppe 2 aus E1" output="ŋ"/>
+			<when state="Superselect Gruppe DI" output="᷅"/>
+			<when state="Superselect Gruppe DJ" output="|"/>
+			<when state="Superselect Gruppe LE" output="ŋ"/>
+			<when state="_Acute  ́ [0301]" output="ń"/>
+			<when state="_Breve  ̆ [0306]" output="ŉ"/>
+			<when state="_Caron  ̌ [030C]" output="ň"/>
+			<when state="_Cedilla  ̧ [0327]" output="ņ"/>
+			<when state="_Circumflex Below  ̭ [032D]" output="ṋ"/>
+			<when state="_Comma Below  ̦ [0326]" output="ņ"/>
+			<when state="_Dot Above  ̇ [0307]" output="ṅ"/>
+			<when state="_Dot Below  ̣ [0323]" output="ṇ"/>
+			<when state="_Grave  ̀ [0300]" output="ǹ"/>
+			<when state="_Horn  ̛ [031B]" output="ν"/>
+			<when state="_Line Below  ̱ [0331]" output="ṉ"/>
+			<when state="_Ring Above  ̊ [030A]" output="⇐"/>
+			<when state="_Tilde  ̃ [0303]" output="ñ"/>
+		</action>
+		<action id="o">
+			<when state="none" output="o"/>
+			<when state="Circumflex And Acute  ̂́ [0302 0301]" output="ố"/>
+			<when state="Circumflex And Dot Below  ̣̂ [0323 0302]" output="ộ"/>
+			<when state="Circumflex And Grave  ̂̀ [0302 0300]" output="ồ"/>
+			<when state="Circumflex And Hook Above  ̂̉ [0302 0309]" output="ổ"/>
+			<when state="Circumflex And Tilde  ̂̃ [0302 0303]" output="ỗ"/>
+			<when state="Combining Short Stroke Overlay" output="ɵ"/>
+			<when state="DIN 2137 Zugriff Gruppe DI Ebene 2" output="̝"/>
+			<when state="DIN 2137 Zugriff Gruppe DJ Ebene 2" output="˔"/>
+			<when state="Diaeresis And Macron  ̈̄ [0308 0304]" output="ȫ"/>
+			<when state="Dot Above And Macron  ̇̄ [0307 0304]" output="ȱ"/>
+			<when state="Double Acute  ̋ [030B]" output="ő"/>
+			<when state="Double Grave  ̏ [030F]" output="ȍ"/>
+			<when state="Gruppe 2 ISO 9995-3" output="ø"/>
+			<when state="Gruppe 2 aus E1" output="ø"/>
+			<when state="Horn and Acute" output="ớ"/>
+			<when state="Horn and Dot below" output="ợ"/>
+			<when state="Horn and Grave" output="ờ"/>
+			<when state="Horn and Hook Above" output="ở"/>
+			<when state="Horn and Tilde" output="ỡ"/>
+			<when state="Macron And Acute  ̄́ [0304 0301]" output="ṓ"/>
+			<when state="Macron And Grave  ̄̀ [0304 0300]" output="ṑ"/>
+			<when state="Ogonek And Macron  ̨̄ [0328 0304]" output="ǭ"/>
+			<when state="Superselect Gruppe DI" output="̚"/>
+			<when state="Superselect Gruppe DJ" output="˨"/>
+			<when state="Superselect Gruppe LE" output="œ"/>
+			<when state="Tilde And Acute  ̃́ [0303 0301]" output="ṍ"/>
+			<when state="Tilde And Diaeresis  ̃̈ [0303 0308]" output="ṏ"/>
+			<when state="Tilde And Macron  ̃̄ [0303 0304]" output="ȭ"/>
+			<when state="_Acute  ́ [0301]" output="ó"/>
+			<when state="_Breve  ̆ [0306]" output="ŏ"/>
+			<when state="_Caron  ̌ [030C]" output="ǒ"/>
+			<when state="_Circumflex  ̂ [0302]" output="ô"/>
+			<when state="_Comma Below  ̦ [0326]" output="º"/>
+			<when state="_Diaeresis  ̈ [0308]" output="ö"/>
+			<when state="_Dot Above  ̇ [0307]" output="ȯ"/>
+			<when state="_Dot Below  ̣ [0323]" output="ọ"/>
+			<when state="_Grave  ̀ [0300]" output="ò"/>
+			<when state="_Hook Above  ̉ [0309]" output="ỏ"/>
+			<when state="_Horn  ̛ [031B]" output="ơ"/>
+			<when state="_Inverted Breve  ̑ [0311]" output="ȏ"/>
+			<when state="_Macron  ̄ [0304]" output="ō"/>
+			<when state="_Ogonek  ̨ [0328]" output="ǫ"/>
+			<when state="_Right Half Ring  ʾ [02BE]" output="ơ"/>
+			<when state="_Ring Above  ̊ [030A]" output="∡"/>
+			<when state="_Stroke  / [002F]" output="ø"/>
+			<when state="_Tilde  ̃ [0303]" output="õ"/>
+		</action>
+		<action id="p">
+			<when state="none" output="p"/>
+			<when state="Combining Short Stroke Overlay" output="ᵽ"/>
+			<when state="DIN 2137 Zugriff Gruppe DI Ebene 2" output="̥"/>
+			<when state="Double Acute  ̋ [030B]" next="IPA P"/>
+			<when state="Gruppe 2 ISO 9995-3" output="þ"/>
+			<when state="Gruppe 2 aus E1" output="→"/>
+			<when state="Superselect Gruppe DI" output="̊"/>
+			<when state="Superselect Gruppe DJ" output="˩"/>
+			<when state="Superselect Gruppe LE" output="ɂ"/>
+			<when state="_Acute  ́ [0301]" output="ṕ"/>
+			<when state="_Dot Above  ̇ [0307]" output="ṗ"/>
+			<when state="_Horn  ̛ [031B]" output="π"/>
+			<when state="_Ring Above  ̊ [030A]" output="∝"/>
+			<when state="_Stroke  / [002F]" output="ᵽ"/>
+		</action>
+		<action id="q">
+			<when state="none" output="q"/>
+			<when state="DIN 2137 Zugriff Gruppe DI Ebene 2" output="̗"/>
+			<when state="DIN 2137 Zugriff Gruppe DJ Ebene 2" output="ˏ"/>
+			<when state="Double Acute  ̋ [030B]" next="IPA Q"/>
+			<when state="Gruppe 2 ISO 9995-3" output="ɂ"/>
+			<when state="Gruppe 2 aus E1" output="º"/>
+			<when state="Superselect Gruppe DI" output="́"/>
+			<when state="Superselect Gruppe DJ" output="ˑ"/>
+			<when state="Superselect Gruppe LE" output="ɥ"/>
+			<when state="_Comma Below  ̦ [0326]" output="ɂ"/>
+			<when state="_Horn  ̛ [031B]" output="ͅ"/>
+			<when state="_Ring Above  ̊ [030A]" output="∀"/>
+		</action>
+		<action id="r">
+			<when state="none" output="r"/>
+			<when state="Combining Short Stroke Overlay" output="ɍ"/>
+			<when state="DIN 2137 Zugriff Gruppe DI Ebene 2" output="̰"/>
+			<when state="Dot Below And Macron  ̣̄ [0323 0304]" output="ṝ"/>
+			<when state="Double Acute  ̋ [030B]" next="IPA R"/>
+			<when state="Double Grave  ̏ [030F]" output="ȑ"/>
+			<when state="Gruppe 2 ISO 9995-3" output="¶"/>
+			<when state="Gruppe 2 aus E1" output="™"/>
+			<when state="Superselect Gruppe DI" output="̃"/>
+			<when state="Superselect Gruppe DJ" output="˞"/>
+			<when state="Superselect Gruppe LE" output="ɼ"/>
+			<when state="_Acute  ́ [0301]" output="ŕ"/>
+			<when state="_Caron  ̌ [030C]" output="ř"/>
+			<when state="_Cedilla  ̧ [0327]" output="ŗ"/>
+			<when state="_Comma Below  ̦ [0326]" output="ɼ"/>
+			<when state="_Dot Above  ̇ [0307]" output="ṙ"/>
+			<when state="_Dot Below  ̣ [0323]" output="ṛ"/>
+			<when state="_Horn  ̛ [031B]" output="ρ"/>
+			<when state="_Inverted Breve  ̑ [0311]" output="ȓ"/>
+			<when state="_Line Below  ̱ [0331]" output="ṟ"/>
+			<when state="_Macron  ̄ [0304]" output="ṝ"/>
+			<when state="_Ring Above  ̊ [030A]" output="√"/>
+			<when state="_Stroke  / [002F]" output="ɍ"/>
+		</action>
+		<action id="s">
+			<when state="none" output="s"/>
+			<when state="Acute And Dot Above  ́̇ [0301 0307]" output="ṥ"/>
+			<when state="Caron And Dot Above  ̌̇ [030C 0307]" output="ṧ"/>
+			<when state="DIN 2137 Zugriff Gruppe DI Ebene 2" output="̣"/>
+			<when state="DIN 2137 Zugriff Gruppe DJ Ebene 2" output="."/>
+			<when state="Dot Below And Dot Above  ̣̇ [0323 0307]" output="ṩ"/>
+			<when state="Double Acute  ̋ [030B]" next="IPA S"/>
+			<when state="Gruppe 2 ISO 9995-3" output="ß"/>
+			<when state="Gruppe 2 aus E1" output="ſ"/>
+			<when state="Superselect Gruppe DI" output="̇"/>
+			<when state="Superselect Gruppe LE" output="ſ"/>
+			<when state="_Acute  ́ [0301]" output="ś"/>
+			<when state="_Caron  ̌ [030C]" output="š"/>
+			<when state="_Cedilla  ̧ [0327]" output="ş"/>
+			<when state="_Circumflex  ̂ [0302]" output="ŝ"/>
+			<when state="_Comma Below  ̦ [0326]" output="ș"/>
+			<when state="_Dot Above  ̇ [0307]" output="ṡ"/>
+			<when state="_Dot Below  ̣ [0323]" output="ṣ"/>
+			<when state="_Horn  ̛ [031B]" output="σ"/>
+			<when state="_Ring Above  ̊ [030A]" output="↔"/>
+		</action>
+		<action id="t">
+			<when state="none" output="t"/>
+			<when state="Circumflex below" output="ṱ"/>
+			<when state="Circumflex below + Circled Numbers 11 - 20" output="ṱ"/>
+			<when state="Combining Short Stroke Overlay" output="ŧ"/>
+			<when state="DIN 2137 Zugriff Gruppe DI Ebene 2" output="̩"/>
+			<when state="DIN 2137 Zugriff Gruppe DJ Ebene 2" output="ˌ"/>
+			<when state="Double Acute  ̋ [030B]" next="IPA T"/>
+			<when state="Gruppe 2 ISO 9995-3" output="ꞌ"/>
+			<when state="Gruppe 2 aus E1" output="þ"/>
+			<when state="Superselect Gruppe DI" output="̋"/>
+			<when state="Superselect Gruppe DJ" output="˹"/>
+			<when state="Superselect Gruppe LE" output="þ"/>
+			<when state="_Caron  ̌ [030C]" output="ť"/>
+			<when state="_Cedilla  ̧ [0327]" output="ţ"/>
+			<when state="_Circumflex Below  ̭ [032D]" output="ṱ"/>
+			<when state="_Comma Below  ̦ [0326]" output="ț"/>
+			<when state="_Diaeresis  ̈ [0308]" output="ẗ"/>
+			<when state="_Dot Above  ̇ [0307]" output="ṫ"/>
+			<when state="_Dot Below  ̣ [0323]" output="ṭ"/>
+			<when state="_Horn  ̛ [031B]" output="τ"/>
+			<when state="_Line Below  ̱ [0331]" output="ṯ"/>
+			<when state="_Macron  ̄ [0304]" output="ṯ"/>
+			<when state="_Ring Above  ̊ [030A]" output="⊥"/>
+			<when state="_Stroke  / [002F]" output="ŧ"/>
+		</action>
+		<action id="u">
+			<when state="none" output="u"/>
+			<when state="Circumflex below" output="ṷ"/>
+			<when state="Circumflex below + Circled Numbers 11 - 20" output="ṷ"/>
+			<when state="Combining Short Stroke Overlay" output="ʉ"/>
+			<when state="DIN 2137 Zugriff Gruppe DI Ebene 2" output="̟"/>
+			<when state="DIN 2137 Zugriff Gruppe DJ Ebene 2" output="˖"/>
+			<when state="Diaeresis And Acute  ̈́ [0308 0301]" output="ǘ"/>
+			<when state="Diaeresis And Caron  ̈̌ [0308 030C]" output="ǚ"/>
+			<when state="Diaeresis And Grave  ̈̀ [0308 0300]" output="ǜ"/>
+			<when state="Diaeresis And Macron  ̈̄ [0308 0304]" output="ǖ"/>
+			<when state="Double Acute  ̋ [030B]" output="ű"/>
+			<when state="Double Grave  ̏ [030F]" output="ȕ"/>
+			<when state="Gruppe 2 ISO 9995-3" output="ȣ"/>
+			<when state="Gruppe 2 aus E1" output="↓"/>
+			<when state="Horn and Acute" output="ứ"/>
+			<when state="Horn and Dot below" output="ự"/>
+			<when state="Horn and Grave" output="ừ"/>
+			<when state="Horn and Hook Above" output="ử"/>
+			<when state="Horn and Tilde" output="ữ"/>
+			<when state="Macron And Diaeresis  ̄̈ [0304 0308]" output="ṻ"/>
+			<when state="Superselect Gruppe DI" output="̌"/>
+			<when state="Superselect Gruppe DJ" output="˦"/>
+			<when state="Superselect Gruppe LE" output="ȣ"/>
+			<when state="Tilde And Acute  ̃́ [0303 0301]" output="ṹ"/>
+			<when state="_Acute  ́ [0301]" output="ú"/>
+			<when state="_Breve  ̆ [0306]" output="ŭ"/>
+			<when state="_Caron  ̌ [030C]" output="ǔ"/>
+			<when state="_Circumflex  ̂ [0302]" output="û"/>
+			<when state="_Circumflex Below  ̭ [032D]" output="ṷ"/>
+			<when state="_Diaeresis  ̈ [0308]" output="ü"/>
+			<when state="_Dot Below  ̣ [0323]" output="ụ"/>
+			<when state="_Grave  ̀ [0300]" output="ù"/>
+			<when state="_Hook Above  ̉ [0309]" output="ủ"/>
+			<when state="_Horn  ̛ [031B]" output="ư"/>
+			<when state="_Inverted Breve  ̑ [0311]" output="ȗ"/>
+			<when state="_Macron  ̄ [0304]" output="ū"/>
+			<when state="_Ogonek  ̨ [0328]" output="ų"/>
+			<when state="_Right Half Ring  ʾ [02BE]" output="ư"/>
+			<when state="_Ring Above  ̊ [030A]" output="ů"/>
+			<when state="_Tilde  ̃ [0303]" output="ũ"/>
+		</action>
+		<action id="v">
+			<when state="none" output="v"/>
+			<when state="DIN 2137 Zugriff Gruppe DI Ebene 2" output="̼"/>
+			<when state="Double Acute  ̋ [030B]" next="IPA V"/>
+			<when state="Gruppe 2 ISO 9995-3" output="“"/>
+			<when state="Gruppe 2 aus E1" output="“"/>
+			<when state="Superselect Gruppe DJ" output="ˈ"/>
+			<when state="Superselect Gruppe LE" output="ƹ"/>
+			<when state="_Dot Below  ̣ [0323]" output="ṿ"/>
+			<when state="_Horn  ̛ [031B]" output="ω"/>
+			<when state="_Ring Above  ̊ [030A]" output="∨"/>
+			<when state="_Tilde  ̃ [0303]" output="ṽ"/>
+		</action>
+		<action id="w">
+			<when state="none" output="w"/>
+			<when state="DIN 2137 Zugriff Gruppe DI Ebene 2" output="̖"/>
+			<when state="DIN 2137 Zugriff Gruppe DJ Ebene 2" output="ˎ"/>
+			<when state="Double Acute  ̋ [030B]" next="IPA W"/>
+			<when state="Gruppe 2 ISO 9995-3" output="ʷ"/>
+			<when state="Gruppe 2 aus E1" output="ª"/>
+			<when state="Superselect Gruppe DI" output="̀"/>
+			<when state="Superselect Gruppe DJ" output="ː"/>
+			<when state="Superselect Gruppe LE" output="ǝ"/>
+			<when state="_Acute  ́ [0301]" output="ẃ"/>
+			<when state="_Circumflex  ̂ [0302]" output="ŵ"/>
+			<when state="_Comma Below  ̦ [0326]" output="ƿ"/>
+			<when state="_Diaeresis  ̈ [0308]" output="ẅ"/>
+			<when state="_Dot Above  ̇ [0307]" output="ẇ"/>
+			<when state="_Dot Below  ̣ [0323]" output="ẉ"/>
+			<when state="_Grave  ̀ [0300]" output="ẁ"/>
+			<when state="_Horn  ̛ [031B]" output="ς"/>
+			<when state="_Ring Above  ̊ [030A]" output="ẘ"/>
+		</action>
+		<action id="x">
+			<when state="none" output="x"/>
+			<when state="DIN 2137 Zugriff Gruppe DI Ebene 2" output="̡"/>
+			<when state="DIN 2137 Zugriff Gruppe DJ Ebene 2" output="⸨"/>
+			<when state="Double Acute  ̋ [030B]" next="IPA X"/>
+			<when state="Gruppe 2 ISO 9995-3" output="„"/>
+			<when state="Gruppe 2 aus E1" output="„"/>
+			<when state="Superselect Gruppe DJ" output="("/>
+			<when state="Superselect Gruppe LE" output="ꞌ"/>
+			<when state="_Diaeresis  ̈ [0308]" output="ẍ"/>
+			<when state="_Dot Above  ̇ [0307]" output="ẋ"/>
+			<when state="_Horn  ̛ [031B]" output="χ"/>
+			<when state="_Ring Above  ̊ [030A]" output="✕"/>
+		</action>
+		<action id="y">
+			<when state="none" output="y"/>
+			<when state="Combining Short Stroke Overlay" output="ɏ"/>
+			<when state="DIN 2137 Zugriff Gruppe DI Ebene 2" output="̠"/>
+			<when state="DIN 2137 Zugriff Gruppe DJ Ebene 2" output="˗"/>
+			<when state="Double Acute  ̋ [030B]" next="IPA Y"/>
+			<when state="Gruppe 2 ISO 9995-3" output="ʒ"/>
+			<when state="Gruppe 2 aus E1" output="␣"/>
+			<when state="Superselect Gruppe DI" output="̆"/>
+			<when state="Superselect Gruppe DJ" output="˥"/>
+			<when state="Superselect Gruppe LE" output="ß"/>
+			<when state="_Acute  ́ [0301]" output="ý"/>
+			<when state="_Circumflex  ̂ [0302]" output="ŷ"/>
+			<when state="_Comma Below  ̦ [0326]" output="ȝ"/>
+			<when state="_Diaeresis  ̈ [0308]" output="ÿ"/>
+			<when state="_Dot Above  ̇ [0307]" output="ẏ"/>
+			<when state="_Dot Below  ̣ [0323]" output="ỵ"/>
+			<when state="_Grave  ̀ [0300]" output="ỳ"/>
+			<when state="_Hook Above  ̉ [0309]" output="ỷ"/>
+			<when state="_Horn  ̛ [031B]" output="υ"/>
+			<when state="_Macron  ̄ [0304]" output="ȳ"/>
+			<when state="_Ring Above  ̊ [030A]" output="ẙ"/>
+			<when state="_Stroke  / [002F]" output="ɏ"/>
+			<when state="_Tilde  ̃ [0303]" output="ỹ"/>
+		</action>
+		<action id="z">
+			<when state="none" output="z"/>
+			<when state="Caron second group" output="ǯ"/>
+			<when state="Combining Short Stroke Overlay" output="ƶ"/>
+			<when state="Combining Vertical Line Below" output="ɿ"/>
+			<when state="DIN 2137 Zugriff Gruppe DI Ebene 2" output="̻"/>
+			<when state="DIN 2137 Zugriff Gruppe DJ Ebene 2" output="‿"/>
+			<when state="Double Acute  ̋ [030B]" next="IPA Z"/>
+			<when state="Gruppe 2 ISO 9995-3" output="ɼ"/>
+			<when state="Gruppe 2 aus E1" output="ʒ"/>
+			<when state="Superselect Gruppe DI" output="͡"/>
+			<when state="Superselect Gruppe LE" output="ƞ"/>
+			<when state="_Acute  ́ [0301]" output="ź"/>
+			<when state="_Caron  ̌ [030C]" output="ž"/>
+			<when state="_Circumflex  ̂ [0302]" output="ẑ"/>
+			<when state="_Comma Below  ̦ [0326]" output="ȥ"/>
+			<when state="_Dot Above  ̇ [0307]" output="ż"/>
+			<when state="_Dot Below  ̣ [0323]" output="ẓ"/>
+			<when state="_Horn  ̛ [031B]" output="ζ"/>
+			<when state="_Line Below  ̱ [0331]" output="ẕ"/>
+			<when state="_Ring Above  ̊ [030A]" output="⚡"/>
+			<when state="_Stroke  / [002F]" output="ƶ"/>
+		</action>
+		<action id="{">
+			<when state="none" output="{"/>
+			<when state="Combining Short Stroke Overlay" output="☞"/>
+			<when state="Gruppe 2 ISO 9995-3" output="{"/>
+		</action>
+		<action id="|">
+			<when state="none" output="|"/>
+			<when state="Combining Short Stroke Overlay" output="✝"/>
+			<when state="Gruppe 2 ISO 9995-3" output="♪"/>
+		</action>
+		<action id="}">
+			<when state="none" output="}"/>
+			<when state="Combining Short Stroke Overlay" output="☜"/>
+			<when state="Gruppe 2 ISO 9995-3" output="]"/>
+		</action>
+		<action id="~">
+			<when state="none" output="~"/>
+			<when state="Combining Short Stroke Overlay" output="⁓"/>
+			<when state="Gruppe 2 ISO 9995-3" output="@"/>
+			<when state="_Dot Above  ̇ [0307]" output="⸞"/>
+			<when state="_Dot Below  ̣ [0323]" output="⸟"/>
+			<when state="_Ring Above  ̊ [030A]" output="⸛"/>
+			<when state="_Tilde  ̃ [0303]" output="≈"/>
+		</action>
+		<action id=" ">
+			<when state="none" output=" "/>
+			<when state="Combining Short Stroke Overlay" output="‑"/>
+			<when state="Gruppe 2 ISO 9995-3" output=" "/>
+			<when state="Gruppe 2 aus E1" output=" "/>
+		</action>
+		<action id="¡">
+			<when state="none" output="¡"/>
+			<when state="Combining Short Stroke Overlay" output="↑"/>
+			<when state="Gruppe 2 ISO 9995-3" output="ˁ"/>
+		</action>
+		<action id="§">
+			<when state="none" output="§"/>
+			<when state="Combining Short Stroke Overlay" output="¶"/>
+			<when state="Gruppe 2 ISO 9995-3" output="£"/>
+			<when state="Gruppe 2 aus E1" output="¶"/>
+		</action>
+		<action id="¨">
+			<when state="none" next="_Diaeresis  ̈ [0308]"/>
+			<when state="Gruppe 2 ISO 9995-3" next="_Inverted Breve  ̑ [0311]"/>
+			<when state="_Acute  ́ [0301]" next="Diaeresis And Acute  ̈́ [0308 0301]"/>
+			<when state="_Caron  ̌ [030C]" next="Diaeresis And Caron  ̈̌ [0308 030C]"/>
+			<when state="_Diaeresis  ̈ [0308]" output="̈"/>
+			<when state="_Grave  ̀ [0300]" next="Diaeresis And Grave  ̈̀ [0308 0300]"/>
+			<when state="_Macron  ̄ [0304]" next="Macron And Diaeresis  ̄̈ [0304 0308]"/>
+			<when state="_Ring Above  ̊ [030A]" output="ⓩ"/>
+			<when state="_Tilde  ̃ [0303]" next="Tilde And Diaeresis  ̃̈ [0303 0308]"/>
+		</action>
+		<action id="©">
+			<when state="none" output="©"/>
+			<when state="Combining Short Stroke Overlay" output="℅"/>
+		</action>
+		<action id="«">
+			<when state="none" output="«"/>
+			<when state="Combining Short Stroke Overlay" output="⟪"/>
+			<when state="Gruppe 2 ISO 9995-3" output="‹"/>
+			<when state="_Comma Below  ̦ [0326]" output="ᵥ"/>
+			<when state="_Hook Above  ̉ [0309]" output="ᵛ"/>
+			<when state="_Ring Above  ̊ [030A]" output="ⓥ"/>
+		</action>
+		<action id="­">
+			<when state="none" output="­"/>
+			<when state="Combining Short Stroke Overlay" output="◊"/>
+			<when state="Gruppe 2 ISO 9995-3" output="‑"/>
+		</action>
+		<action id="®">
+			<when state="none" output="®"/>
+			<when state="Combining Short Stroke Overlay" output="™"/>
+			<when state="Gruppe 2 ISO 9995-3" output="″"/>
+		</action>
+		<action id="¯">
+			<when state="none" next="_Macron  ̄ [0304]"/>
+			<when state="Gruppe 2 ISO 9995-3" next="_Dot Above  ̇ [0307]"/>
+			<when state="_Acute  ́ [0301]" next="Macron And Acute  ̄́ [0304 0301]"/>
+			<when state="_Comma Below  ̦ [0326]" output="ᵢ"/>
+			<when state="_Diaeresis  ̈ [0308]" next="Diaeresis And Macron  ̈̄ [0308 0304]"/>
+			<when state="_Dot Above  ̇ [0307]" next="Dot Above And Macron  ̇̄ [0307 0304]"/>
+			<when state="_Dot Below  ̣ [0323]" next="Dot Below And Macron  ̣̄ [0323 0304]"/>
+			<when state="_Grave  ̀ [0300]" next="Macron And Grave  ̄̀ [0304 0300]"/>
+			<when state="_Macron  ̄ [0304]" output="̄"/>
+			<when state="_Ogonek  ̨ [0328]" next="Ogonek And Macron  ̨̄ [0328 0304]"/>
+			<when state="_Ring Above  ̊ [030A]" output="ⓘ"/>
+			<when state="_Tilde  ̃ [0303]" next="Tilde And Macron  ̃̄ [0303 0304]"/>
+		</action>
+		<action id="°">
+			<when state="none" output="°"/>
+			<when state="Combining Short Stroke Overlay" output="◦"/>
+			<when state="Gruppe 2 ISO 9995-3" output="­"/>
+			<when state="_Stroke  / [002F]" output="⌀"/>
+		</action>
+		<action id="²">
+			<when state="none" output="²"/>
+			<when state="Combining Short Stroke Overlay" output="½"/>
+			<when state="Gruppe 2 ISO 9995-3" output="ʺ"/>
+		</action>
+		<action id="³">
+			<when state="none" output="³"/>
+			<when state="Combining Short Stroke Overlay" output="¾"/>
+			<when state="Gruppe 2 ISO 9995-3" output="ʿ"/>
+		</action>
+		<action id="´">
+			<when state="none" next="_Acute  ́ [0301]"/>
+			<when state="Gruppe 2 ISO 9995-3" next="_Cedilla  ̧ [0327]"/>
+			<when state="Gruppe 2 aus E1" output="£"/>
+			<when state="_Acute  ́ [0301]" output="́"/>
+			<when state="_Breve  ̆ [0306]" next="Breve And Acute  ̆́ [0306 0301]"/>
+			<when state="_Cedilla  ̧ [0327]" next="Cedilla And Acute  ̧́ [0327 0301]"/>
+			<when state="_Circumflex  ̂ [0302]" next="Circumflex And Acute  ̂́ [0302 0301]"/>
+			<when state="_Diaeresis  ̈ [0308]" next="Diaeresis And Acute  ̈́ [0308 0301]"/>
+			<when state="_Dot Above  ̇ [0307]" next="Acute And Dot Above  ́̇ [0301 0307]"/>
+			<when state="_Horn  ̛ [031B]" next="Horn and Acute"/>
+			<when state="_Macron  ̄ [0304]" next="Macron And Acute  ̄́ [0304 0301]"/>
+			<when state="_Ring Above  ̊ [030A]" next="Ring Above And Acute  ̊́ [030A 0301]"/>
+			<when state="_Tilde  ̃ [0303]" next="Tilde And Acute  ̃́ [0303 0301]"/>
+		</action>
+		<action id="µ">
+			<when state="none" output="µ"/>
+			<when state="Combining Short Stroke Overlay" output="ℳ"/>
+			<when state="Gruppe 2 ISO 9995-3" output="—"/>
+			<when state="_Comma Below  ̦ [0326]" output="ₘ"/>
+			<when state="_Hook Above  ̉ [0309]" output="ᵐ"/>
+			<when state="_Ring Above  ̊ [030A]" output="ⓜ"/>
+		</action>
+		<action id="·">
+			<when state="none" output="·"/>
+			<when state="Combining Short Stroke Overlay" output="̵"/>
+			<when state="Combining Vertical Line Below" output="̩"/>
+			<when state="Double Acute  ̋ [030B]" output="̋"/>
+			<when state="Gruppe 2 ISO 9995-3" output="#"/>
+			<when state="_Acute  ́ [0301]" output="́"/>
+			<when state="_Breve  ̆ [0306]" output="̆"/>
+			<when state="_Breve Below  ̮ [032E]" output="̮"/>
+			<when state="_Caron  ̌ [030C]" output="̌"/>
+			<when state="_Circumflex  ̂ [0302]" output="̂"/>
+			<when state="_Circumflex Below  ̭ [032D]" output="̭"/>
+			<when state="_Comma Below  ̦ [0326]" output="̦"/>
+			<when state="_Diaeresis  ̈ [0308]" output="̈"/>
+			<when state="_Dot Above  ̇ [0307]" output="̇"/>
+			<when state="_Dot Below  ̣ [0323]" output="̣"/>
+			<when state="_Grave  ̀ [0300]" output="̀"/>
+			<when state="_Hook Above  ̉ [0309]" output="̉"/>
+			<when state="_Horn  ̛ [031B]" output="̛"/>
+			<when state="_Inverted Breve  ̑ [0311]" output="̑"/>
+			<when state="_Line Below  ̱ [0331]" output="̱"/>
+			<when state="_Macron  ̄ [0304]" output="̄"/>
+			<when state="_Ogonek  ̨ [0328]" output="̨"/>
+			<when state="_Right Half Ring  ʾ [02BE]" output="̛"/>
+			<when state="_Ring Above  ̊ [030A]" output="̊"/>
+			<when state="_Ring Below  ̥ [0325]" output="̥"/>
+			<when state="_Tilde  ̃ [0303]" output="̃"/>
+		</action>
+		<action id="¸">
+			<when state="none" output="¸"/>
+			<when state="Gruppe 2 ISO 9995-3" next="_Ring Below  ̥ [0325]"/>
+			<when state="_Acute  ́ [0301]" next="Cedilla And Acute  ̧́ [0327 0301]"/>
+			<when state="_Breve  ̆ [0306]" next="Cedilla And Breve  ̧̆ [0327 0306]"/>
+			<when state="_Comma Below  ̦ [0326]" output="ⱼ"/>
+			<when state="_Ring Above  ̊ [030A]" output="ⓙ"/>
+		</action>
+		<action id="»">
+			<when state="none" output="»"/>
+			<when state="Combining Short Stroke Overlay" output="⟫"/>
+			<when state="Gruppe 2 ISO 9995-3" output="»"/>
+			<when state="_Comma Below  ̦ [0326]" output="ₓ"/>
+			<when state="_Hook Above  ̉ [0309]" output="ˣ"/>
+			<when state="_Ring Above  ̊ [030A]" output="ⓧ"/>
+		</action>
+		<action id="¿">
+			<when state="none" output="¿"/>
+			<when state="Combining Short Stroke Overlay" output="⸘"/>
+			<when state="Gruppe 2 ISO 9995-3" output="ˀ"/>
+		</action>
+		<action id="Ä">
+			<when state="none" output="Ä"/>
+			<when state="Acute second group" output="Ǽ"/>
+			<when state="Gruppe 2 ISO 9995-3" output="ẞ"/>
+			<when state="Gruppe 2 aus E1" output="Ä"/>
+			<when state="Macron second group" output="Ǣ"/>
+			<when state="_Macron  ̄ [0304]" output="Ǟ"/>
+			<when state="_Ring Above  ̊ [030A]" output="∌"/>
+		</action>
+		<action id="Æ">
+			<when state="none" output="Æ"/>
+			<when state="_Acute  ́ [0301]" output="Ǽ"/>
+			<when state="_Macron  ̄ [0304]" output="Ǣ"/>
+		</action>
+		<action id="Ö">
+			<when state="none" output="Ö"/>
+			<when state="Acute second group" output="Ǿ"/>
+			<when state="Gruppe 2 ISO 9995-3" next="Double Acute  ̋ [030B]"/>
+			<when state="Gruppe 2 aus E1" output="Œ"/>
+			<when state="_Horn  ̛ [031B]" output="Ο"/>
+			<when state="_Macron  ̄ [0304]" output="Ȫ"/>
+			<when state="_Ring Above  ̊ [030A]" output="∉"/>
+		</action>
+		<action id="×">
+			<when state="none" output="×"/>
+			<when state="Combining Short Stroke Overlay" output="※"/>
+			<when state="Gruppe 2 ISO 9995-3" output="|"/>
+			<when state="_Ring Above  ̊ [030A]" output="⊗"/>
+		</action>
+		<action id="Ü">
+			<when state="none" output="Ü"/>
+			<when state="Gruppe 2 ISO 9995-3" next="_Ring Above  ̊ [030A]"/>
+			<when state="Gruppe 2 aus E1" output="↗"/>
+			<when state="_Acute  ́ [0301]" output="Ǘ"/>
+			<when state="_Caron  ̌ [030C]" output="Ǚ"/>
+			<when state="_Grave  ̀ [0300]" output="Ǜ"/>
+			<when state="_Horn  ̛ [031B]" output="Θ"/>
+			<when state="_Macron  ̄ [0304]" output="Ǖ"/>
+			<when state="_Ring Above  ̊ [030A]" output="∦"/>
+		</action>
+		<action id="Þ">
+			<when state="none" output="Þ"/>
+			<when state="_Stroke  / [002F]" output="Ꝥ"/>
+		</action>
+		<action id="ß">
+			<when state="none" output="ß"/>
+			<when state="Gruppe 2 ISO 9995-3" output="\"/>
+			<when state="Gruppe 2 aus E1" output="≠"/>
+			<when state="_Horn  ̛ [031B]" output="̓"/>
+			<when state="_Ring Above  ̊ [030A]" output="⌘"/>
+		</action>
+		<action id="ä">
+			<when state="none" output="ä"/>
+			<when state="Acute second group" output="ǽ"/>
+			<when state="Gruppe 2 ISO 9995-3" output="ƛ"/>
+			<when state="Gruppe 2 aus E1" output="æ"/>
+			<when state="Macron second group" output="ǣ"/>
+			<when state="_Horn  ̛ [031B]" output="α"/>
+			<when state="_Macron  ̄ [0304]" output="ǟ"/>
+			<when state="_Ring Above  ̊ [030A]" output="∋"/>
+		</action>
+		<action id="æ">
+			<when state="none" output="æ"/>
+			<when state="_Acute  ́ [0301]" output="ǽ"/>
+			<when state="_Macron  ̄ [0304]" output="ǣ"/>
+		</action>
+		<action id="ö">
+			<when state="none" output="ö"/>
+			<when state="Acute second group" output="ǿ"/>
+			<when state="Double Acute  ̋ [030B]" next="IPA O"/>
+			<when state="Gruppe 2 ISO 9995-3" next="_Acute  ́ [0301]"/>
+			<when state="Gruppe 2 aus E1" output="œ"/>
+			<when state="_Horn  ̛ [031B]" output="ο"/>
+			<when state="_Macron  ̄ [0304]" output="ȫ"/>
+			<when state="_Ring Above  ̊ [030A]" output="∈"/>
+		</action>
+		<action id="ü">
+			<when state="none" output="ü"/>
+			<when state="Double Acute  ̋ [030B]" next="IPA U"/>
+			<when state="Gruppe 2 ISO 9995-3" output="ſ"/>
+			<when state="Gruppe 2 aus E1" output="↘"/>
+			<when state="_Acute  ́ [0301]" output="ǘ"/>
+			<when state="_Caron  ̌ [030C]" output="ǚ"/>
+			<when state="_Grave  ̀ [0300]" output="ǜ"/>
+			<when state="_Horn  ̛ [031B]" output="θ"/>
+			<when state="_Macron  ̄ [0304]" output="ǖ"/>
+			<when state="_Ring Above  ̊ [030A]" output="∥"/>
+		</action>
+		<action id="þ">
+			<when state="none" output="þ"/>
+			<when state="_Stroke  / [002F]" output="ꝥ"/>
+		</action>
+		<action id="Ʒ">
+			<when state="none" output="Ʒ"/>
+			<when state="_Caron  ̌ [030C]" output="Ǯ"/>
+		</action>
+		<action id="ȷ">
+			<when state="none" output="ȷ"/>
+			<when state="_Stroke  / [002F]" output="ɟ"/>
+		</action>
+		<action id="ɩ">
+			<when state="none" output="ɩ"/>
+			<when state="_Stroke  / [002F]" output="ᵼ"/>
+		</action>
+		<action id="ʊ">
+			<when state="none" output="ʊ"/>
+			<when state="_Stroke  / [002F]" output="ᵿ"/>
+		</action>
+		<action id="ʐ">
+			<when state="none" output="ʐ"/>
+			<when state="Combining Vertical Line Below" output="ʅ"/>
+		</action>
+		<action id="ʒ">
+			<when state="none" output="ʒ"/>
+			<when state="_Caron  ̌ [030C]" output="ǯ"/>
+		</action>
+		<action id="ʔ">
+			<when state="none" output="ʔ"/>
+			<when state="_Stroke  / [002F]" output="ʡ"/>
+		</action>
+		<action id="ʖ">
+			<when state="none" output="ʖ"/>
+			<when state="_Stroke  / [002F]" output="ƾ"/>
+		</action>
+		<action id="ʟ">
+			<when state="none" output="ʟ"/>
+			<when state="_Stroke  / [002F]" output="ᴌ"/>
+		</action>
+		<action id="ʹ">
+			<when state="none" next="_Comma Below  ̦ [0326]"/>
+			<when state="Gruppe 2 ISO 9995-3" next="Combining Short Stroke Overlay"/>
+			<when state="_Circumflex  ̂ [0302]" next="Circumflex below"/>
+			<when state="_Comma Below  ̦ [0326]" output="̦"/>
+			<when state="_Ring Above  ̊ [030A]" output="ⓚ"/>
+		</action>
+		<action id="ʻ">
+			<when state="none" output="ʻ"/>
+			<when state="Combining Short Stroke Overlay" output="ʼ"/>
+		</action>
+		<action id="ʿ">
+			<when state="none" next="_Hook Above  ̉ [0309]"/>
+			<when state="Gruppe 2 ISO 9995-3" next="_Hook Above  ̉ [0309]"/>
+			<when state="_Breve  ̆ [0306]" next="Breve And Hook Above  ̆̉ [0306 0309]"/>
+			<when state="_Circumflex  ̂ [0302]" next="Circumflex And Hook Above  ̂̉ [0302 0309]"/>
+			<when state="_Comma Below  ̦ [0326]" output="ₚ"/>
+			<when state="_Hook Above  ̉ [0309]" output="̉"/>
+			<when state="_Horn  ̛ [031B]" next="Horn and Hook Above"/>
+			<when state="_Ring Above  ̊ [030A]" next="Circumflex below + Circled Numbers 11 - 20"/>
+		</action>
+		<action id="˘">
+			<when state="none" next="_Breve  ̆ [0306]"/>
+			<when state="Gruppe 2 ISO 9995-3" next="_Breve  ̆ [0306]"/>
+			<when state="_Acute  ́ [0301]" next="Breve And Acute  ̆́ [0306 0301]"/>
+			<when state="_Cedilla  ̧ [0327]" next="Cedilla And Breve  ̧̆ [0327 0306]"/>
+			<when state="_Comma Below  ̦ [0326]" output="ᵤ"/>
+			<when state="_Dot Below  ̣ [0323]" next="Breve And Dot Below  ̣̆ [0323 0306]"/>
+			<when state="_Grave  ̀ [0300]" next="Breve And Grave  ̆̀ [0306 0300]"/>
+			<when state="_Hook Above  ̉ [0309]" next="Breve And Hook Above  ̆̉ [0306 0309]"/>
+			<when state="_Ring Above  ̊ [030A]" output="ⓤ"/>
+			<when state="_Tilde  ̃ [0303]" next="Breve And Tilde  ̆̃ [0306 0303]"/>
+		</action>
+		<action id="˙">
+			<when state="none" next="_Dot Above  ̇ [0307]"/>
+			<when state="Gruppe 2 ISO 9995-3" output="¬"/>
+			<when state="_Acute  ́ [0301]" next="Acute And Dot Above  ́̇ [0301 0307]"/>
+			<when state="_Caron  ̌ [030C]" next="Caron And Dot Above  ̌̇ [030C 0307]"/>
+			<when state="_Dot Above  ̇ [0307]" output="̇"/>
+			<when state="_Dot Below  ̣ [0323]" next="Dot Below And Dot Above  ̣̇ [0323 0307]"/>
+			<when state="_Macron  ̄ [0304]" next="Dot Above And Macron  ̇̄ [0307 0304]"/>
+		</action>
+		<action id="˚">
+			<when state="none" output="˚"/>
+			<when state="Gruppe 2 ISO 9995-3" next="_Horn  ̛ [031B]"/>
+			<when state="_Acute  ́ [0301]" next="Ring Above And Acute  ̊́ [030A 0301]"/>
+			<when state="_Comma Below  ̦ [0326]" output="ₒ"/>
+			<when state="_Hook Above  ̉ [0309]" next="Circumflex below + Circled Numbers 11 - 20"/>
+			<when state="_Ring Above  ̊ [030A]" output="ⓞ"/>
+		</action>
+		<action id="˛">
+			<when state="none" next="_Ogonek  ̨ [0328]"/>
+			<when state="Gruppe 2 ISO 9995-3" output="̸"/>
+			<when state="_Comma Below  ̦ [0326]" output="ₗ"/>
+			<when state="_Macron  ̄ [0304]" next="Ogonek And Macron  ̨̄ [0328 0304]"/>
+			<when state="_Ring Above  ̊ [030A]" output="ⓛ"/>
+		</action>
+		<action id="˜">
+			<when state="none" output="˜"/>
+			<when state="_Acute  ́ [0301]" next="Tilde And Acute  ̃́ [0303 0301]"/>
+			<when state="_Breve  ̆ [0306]" next="Breve And Tilde  ̆̃ [0306 0303]"/>
+			<when state="_Circumflex  ̂ [0302]" next="Circumflex And Tilde  ̂̃ [0302 0303]"/>
+			<when state="_Comma Below  ̦ [0326]" output="ₜ"/>
+			<when state="_Diaeresis  ̈ [0308]" next="Tilde And Diaeresis  ̃̈ [0303 0308]"/>
+			<when state="_Horn  ̛ [031B]" next="Horn and Tilde"/>
+			<when state="_Macron  ̄ [0304]" next="Tilde And Macron  ̃̄ [0303 0304]"/>
+			<when state="_Ring Above  ̊ [030A]" output="ⓣ"/>
+			<when state="_Tilde  ̃ [0303]" output="̃"/>
+		</action>
+		<action id="˟">
+			<when state="none" output="˟"/>
+			<when state="Combining Short Stroke Overlay" output="∅"/>
+		</action>
+		<action id="̆">
+			<when state="none" output="̆"/>
+			<when state="Gruppe 2 ISO 9995-3" next="_Caron  ̌ [030C]"/>
+		</action>
+		<action id="̌">
+			<when state="none" next="_Caron  ̌ [030C]"/>
+			<when state="Gruppe 2 ISO 9995-3" next="_Diaeresis  ̈ [0308]"/>
+			<when state="_Caron  ̌ [030C]" output="̌"/>
+			<when state="_Circumflex  ̂ [0302]" next="_Circumflex Below  ̭ [032D]"/>
+			<when state="_Diaeresis  ̈ [0308]" next="Diaeresis And Caron  ̈̌ [0308 030C]"/>
+			<when state="_Dot Above  ̇ [0307]" next="Caron And Dot Above  ̌̇ [030C 0307]"/>
+			<when state="_Ring Above  ̊ [030A]" output="ⓦ"/>
+		</action>
+		<action id="̛">
+			<when state="none" next="_Horn  ̛ [031B]"/>
+			<when state="Gruppe 2 ISO 9995-3" next="_Grave  ̀ [0300]"/>
+			<when state="_Acute  ́ [0301]" next="Horn and Acute"/>
+			<when state="_Dot Below  ̣ [0323]" next="Horn and Dot below"/>
+			<when state="_Grave  ̀ [0300]" next="Horn and Grave"/>
+			<when state="_Hook Above  ̉ [0309]" next="Horn and Hook Above"/>
+			<when state="_Horn  ̛ [031B]" output="̛"/>
+			<when state="_Tilde  ̃ [0303]" next="Horn and Tilde"/>
+		</action>
+		<action id="̧">
+			<when state="none" output="̧"/>
+			<when state="_Cedilla  ̧ [0327]" output="·"/>
+		</action>
+		<action id="̱">
+			<when state="none" next="_Line Below  ̱ [0331]"/>
+			<when state="Gruppe 2 ISO 9995-3" output="̲"/>
+			<when state="_Comma Below  ̦ [0326]" output="ₕ"/>
+			<when state="_Line Below  ̱ [0331]" output="̱"/>
+			<when state="_Ring Above  ̊ [030A]" output="ⓗ"/>
+		</action>
+		<action id="΄">
+			<when state="none" output="΄"/>
+			<when state="_Diaeresis  ̈ [0308]" next="DIALYTIKA TONOS"/>
+		</action>
+		<action id="Ι">
+			<when state="none" output="Ι"/>
+			<when state="_Diaeresis  ̈ [0308]" output="Ϊ"/>
+		</action>
+		<action id="Υ">
+			<when state="none" output="Υ"/>
+			<when state="_Diaeresis  ̈ [0308]" output="Ϋ"/>
+		</action>
+		<action id="ι">
+			<when state="none" output="ι"/>
+			<when state="DIALYTIKA TONOS" output="ΐ"/>
+			<when state="_Diaeresis  ̈ [0308]" output="ϊ"/>
+		</action>
+		<action id="υ">
+			<when state="none" output="υ"/>
+			<when state="DIALYTIKA TONOS" output="ΰ"/>
+			<when state="_Diaeresis  ̈ [0308]" output="ϋ"/>
+		</action>
+		<action id="ᴑ">
+			<when state="none" output="ᴑ"/>
+			<when state="_Stroke  / [002F]" output="ᴓ"/>
+		</action>
+		<action id="ẞ">
+			<when state="none" output="ẞ"/>
+			<when state="Gruppe 2 ISO 9995-3" next="_Line Below  ̱ [0331]"/>
+			<when state="_Hook Above  ̉ [0309]" output="ᵍ"/>
+			<when state="_Ring Above  ̊ [030A]" output="ⓖ"/>
+		</action>
+		<action id="‑">
+			<when state="none" output="‑"/>
+			<when state="Gruppe 2 ISO 9995-3" output="$"/>
+		</action>
+		<action id="–">
+			<when state="none" output="–"/>
+			<when state="Combining Short Stroke Overlay" output="□"/>
+			<when state="Gruppe 2 ISO 9995-3" output="–"/>
+			<when state="_Comma Below  ̦ [0326]" output="ₙ"/>
+			<when state="_Hook Above  ̉ [0309]" output="ⁿ"/>
+			<when state="_Ring Above  ̊ [030A]" output="ⓝ"/>
+		</action>
+		<action id="—">
+			<when state="none" output="—"/>
+			<when state="Combining Short Stroke Overlay" output="♡"/>
+			<when state="Gruppe 2 ISO 9995-3" output="ʾ"/>
+		</action>
+		<action id="’">
+			<when state="none" output="’"/>
+			<when state="Combining Short Stroke Overlay" output="¼"/>
+			<when state="Gruppe 2 ISO 9995-3" output="ʹ"/>
+		</action>
+		<action id=" ">
+			<when state="none" output=" "/>
+			<when state="Gruppe 2 ISO 9995-3" output="―"/>
+			<when state="_Hook Above  ̉ [0309]" output="ᶜ"/>
+			<when state="_Ring Above  ̊ [030A]" output="ⓑ"/>
+		</action>
+		<action id="′">
+			<when state="none" output="′"/>
+			<when state="Combining Short Stroke Overlay" output="ʹ"/>
+			<when state="Gruppe 2 ISO 9995-3" next="_Breve Below  ̮ [032E]"/>
+			<when state="_Comma Below  ̦ [0326]" output="‵"/>
+			<when state="_Hook Above  ̉ [0309]" output="ᵈ"/>
+			<when state="_Ring Above  ̊ [030A]" output="ⓓ"/>
+		</action>
+		<action id="″">
+			<when state="none" output="″"/>
+			<when state="Combining Short Stroke Overlay" output="ʺ"/>
+			<when state="Gruppe 2 ISO 9995-3" next="_Dot Below  ̣ [0323]"/>
+			<when state="_Comma Below  ̦ [0326]" output="‶"/>
+			<when state="_Hook Above  ̉ [0309]" output="ˢ"/>
+			<when state="_Ring Above  ̊ [030A]" output="ⓢ"/>
+		</action>
+		<action id="‹">
+			<when state="none" output="‹"/>
+			<when state="Combining Short Stroke Overlay" output="⟨"/>
+			<when state="Gruppe 2 ISO 9995-3" output="›"/>
+			<when state="_Hook Above  ̉ [0309]" output="ᵇ"/>
+		</action>
+		<action id="›">
+			<when state="none" output="›"/>
+			<when state="Combining Short Stroke Overlay" output="⟩"/>
+			<when state="Gruppe 2 ISO 9995-3" output="«"/>
+			<when state="_Hook Above  ̉ [0309]" output="ʸ"/>
+			<when state="_Ring Above  ̊ [030A]" output="ⓨ"/>
+		</action>
+		<action id="€">
+			<when state="none" output="€"/>
+			<when state="Combining Short Stroke Overlay" output="₰"/>
+			<when state="Gruppe 2 ISO 9995-3" next="_Breve  ̆ [0306]"/>
+			<when state="_Comma Below  ̦ [0326]" output="ₑ"/>
+			<when state="_Hook Above  ̉ [0309]" output="ᵉ"/>
+			<when state="_Ring Above  ̊ [030A]" output="ⓔ"/>
+		</action>
+		<action id="≤">
+			<when state="none" output="≤"/>
+			<when state="Combining Short Stroke Overlay" output="↘"/>
+		</action>
+		<action id="≥">
+			<when state="none" output="≥"/>
+			<when state="Combining Short Stroke Overlay" output="↗"/>
+		</action>
+		<action id="☺">
+			<when state="none" output="☺"/>
+			<when state="Gruppe 2 ISO 9995-3" next="Combining Vertical Line Below"/>
+			<when state="_Comma Below  ̦ [0326]" output="ₐ"/>
+			<when state="_Hook Above  ̉ [0309]" output="ᵃ"/>
+			<when state="_Ring Above  ̊ [030A]" output="ⓐ"/>
+		</action>
+		<action id="⸳">
+			<when state="none" next="_Dot Below  ̣ [0323]"/>
+			<when state="Gruppe 2 ISO 9995-3" output="°"/>
+			<when state="_Breve  ̆ [0306]" next="Breve And Dot Below  ̣̆ [0323 0306]"/>
+			<when state="_Circumflex  ̂ [0302]" next="Circumflex And Dot Below  ̣̂ [0323 0302]"/>
+			<when state="_Dot Above  ̇ [0307]" next="Dot Below And Dot Above  ̣̇ [0323 0307]"/>
+			<when state="_Dot Below  ̣ [0323]" output="̣"/>
+			<when state="_Horn  ̛ [031B]" next="Horn and Dot below"/>
+			<when state="_Macron  ̄ [0304]" next="Dot Below And Macron  ̣̄ [0323 0304]"/>
+		</action>
+		<action id="">
+			<when state="none" next="Double Acute  ̋ [030B]"/>
+			<when state="Double Acute  ̋ [030B]" output="̋"/>
+			<when state="Gruppe 2 ISO 9995-3" next="_Circumflex  ̂ [0302]"/>
+			<when state="_Comma Below  ̦ [0326]" output="ᵣ"/>
+			<when state="_Ring Above  ̊ [030A]" output="ⓡ"/>
+		</action>
+		<action id="">
+			<when state="none" next="Double Grave  ̏ [030F]"/>
+		</action>
+		<action id="">
+			<when state="none" next="Gruppe 2 ISO 9995-3"/>
+		</action>
+		<action id="">
+			<when state="none" next="Gruppe 2 aus E1"/>
+			<when state="Gruppe 2 ISO 9995-3" next="_Circumflex Below  ̭ [032D]"/>
+			<when state="_Acute  ́ [0301]" next="Acute second group"/>
+			<when state="_Breve  ̆ [0306]" next="Caron second group"/>
+			<when state="_Macron  ̄ [0304]" next="Macron second group"/>
+			<when state="_Ring Above  ̊ [030A]" output="ⓕ"/>
+		</action>
+		<action id="">
+			<when state="none" next="Combining Short Stroke Overlay"/>
+			<when state="Combining Short Stroke Overlay" next="_Stroke  / [002F]"/>
+			<when state="Gruppe 2 ISO 9995-3" output="′"/>
+		</action>
+		<action id="">
+			<when state="none" next="Superselect Gruppe LE"/>
+		</action>
+		<action id="">
+			<when state="none" output=""/>
+			<when state="Gruppe 2 ISO 9995-3" output="˜"/>
+		</action>
+	</actions>
+	<terminators>
+		<when state="Acute And Dot Above  ́̇ [0301 0307]" output=""/>
+		<when state="Acute second group" output=""/>
+		<when state="Breve And Acute  ̆́ [0306 0301]" output=""/>
+		<when state="Breve And Dot Below  ̣̆ [0323 0306]" output=""/>
+		<when state="Breve And Grave  ̆̀ [0306 0300]" output=""/>
+		<when state="Breve And Hook Above  ̆̉ [0306 0309]" output=""/>
+		<when state="Breve And Tilde  ̆̃ [0306 0303]" output=""/>
+		<when state="Caron And Dot Above  ̌̇ [030C 0307]" output=""/>
+		<when state="Caron second group" output=""/>
+		<when state="Cedilla And Acute  ̧́ [0327 0301]" output=""/>
+		<when state="Cedilla And Breve  ̧̆ [0327 0306]" output=""/>
+		<when state="Circumflex And Acute  ̂́ [0302 0301]" output=""/>
+		<when state="Circumflex And Dot Below  ̣̂ [0323 0302]" output=""/>
+		<when state="Circumflex And Grave  ̂̀ [0302 0300]" output=""/>
+		<when state="Circumflex And Hook Above  ̂̉ [0302 0309]" output=""/>
+		<when state="Circumflex And Tilde  ̂̃ [0302 0303]" output=""/>
+		<when state="Circumflex below" output=""/>
+		<when state="Circumflex below + Circled Numbers 11 - 20" output=""/>
+		<when state="Combining Short Stroke Overlay" output=""/>
+		<when state="Combining Vertical Line Above" output=""/>
+		<when state="Combining Vertical Line Below" output=""/>
+		<when state="DIALYTIKA TONOS" output=""/>
+		<when state="DIN 2137 Zugriff Gruppe DI Ebene 2" output=""/>
+		<when state="DIN 2137 Zugriff Gruppe DJ Ebene 2" output=""/>
+		<when state="Diaeresis And Acute  ̈́ [0308 0301]" output=""/>
+		<when state="Diaeresis And Caron  ̈̌ [0308 030C]" output=""/>
+		<when state="Diaeresis And Grave  ̈̀ [0308 0300]" output=""/>
+		<when state="Diaeresis And Macron  ̈̄ [0308 0304]" output=""/>
+		<when state="Dot Above And Macron  ̇̄ [0307 0304]" output=""/>
+		<when state="Dot Below And Dot Above  ̣̇ [0323 0307]" output=""/>
+		<when state="Dot Below And Macron  ̣̄ [0323 0304]" output=""/>
+		<when state="Double Acute" output=""/>
+		<when state="Double Acute  ̋ [030B]" output=""/>
+		<when state="Double Grave  ̏ [030F]" output=""/>
+		<when state="Gruppe 2 ISO 9995-3" output=""/>
+		<when state="Gruppe 2 aus E1" output=""/>
+		<when state="Hook above" output=""/>
+		<when state="Horn and Acute" output=""/>
+		<when state="Horn and Dot below" output=""/>
+		<when state="Horn and Grave" output=""/>
+		<when state="Horn and Hook Above" output=""/>
+		<when state="Horn and Tilde" output=""/>
+		<when state="IPA" output=""/>
+		<when state="IPA A" output=""/>
+		<when state="IPA B" output=""/>
+		<when state="IPA C" output=""/>
+		<when state="IPA D" output=""/>
+		<when state="IPA E" output=""/>
+		<when state="IPA F" output=""/>
+		<when state="IPA G" output=""/>
+		<when state="IPA H" output=""/>
+		<when state="IPA I" output=""/>
+		<when state="IPA J" output=""/>
+		<when state="IPA K" output=""/>
+		<when state="IPA L" output=""/>
+		<when state="IPA M" output=""/>
+		<when state="IPA N" output=""/>
+		<when state="IPA O" output=""/>
+		<when state="IPA P" output=""/>
+		<when state="IPA Q" output=""/>
+		<when state="IPA R" output=""/>
+		<when state="IPA S" output=""/>
+		<when state="IPA T" output=""/>
+		<when state="IPA U" output=""/>
+		<when state="IPA V" output=""/>
+		<when state="IPA W" output=""/>
+		<when state="IPA X" output=""/>
+		<when state="IPA Y" output=""/>
+		<when state="IPA Z" output=""/>
+		<when state="Macron And Acute  ̄́ [0304 0301]" output=""/>
+		<when state="Macron And Diaeresis  ̄̈ [0304 0308]" output=""/>
+		<when state="Macron And Grave  ̄̀ [0304 0300]" output=""/>
+		<when state="Macron second group" output=""/>
+		<when state="Ogonek And Macron  ̨̄ [0328 0304]" output=""/>
+		<when state="Ring Above And Acute  ̊́ [030A 0301]" output=""/>
+		<when state="Superselect Gruppe DI" output=""/>
+		<when state="Superselect Gruppe DJ" output=""/>
+		<when state="Superselect Gruppe LE" output=""/>
+		<when state="Tilde And Acute  ̃́ [0303 0301]" output=""/>
+		<when state="Tilde And Diaeresis  ̃̈ [0303 0308]" output=""/>
+		<when state="Tilde And Macron  ̃̄ [0303 0304]" output=""/>
+		<when state="Tonos, Acute and Hook" output="΄"/>
+		<when state="_Acute  ́ [0301]" output="´"/>
+		<when state="_Breve  ̆ [0306]" output="˘"/>
+		<when state="_Breve Below  ̮ [032E]" output=""/>
+		<when state="_Caron  ̌ [030C]" output="̌"/>
+		<when state="_Cedilla  ̧ [0327]" output="¸"/>
+		<when state="_Circumflex  ̂ [0302]" output="^"/>
+		<when state="_Circumflex Below  ̭ [032D]" output=""/>
+		<when state="_Comma Below  ̦ [0326]" output="ʹ"/>
+		<when state="_Diaeresis  ̈ [0308]" output="¨"/>
+		<when state="_Diaeresis Below  ̤ [0324]" output=""/>
+		<when state="_Dot Above  ̇ [0307]" output="˙"/>
+		<when state="_Dot Below  ̣ [0323]" output="⸳"/>
+		<when state="_Grave  ̀ [0300]" output="`"/>
+		<when state="_Hook Above  ̉ [0309]" output="ʿ"/>
+		<when state="_Horn  ̛ [031B]" output="̛"/>
+		<when state="_Inverted Breve  ̑ [0311]" output=""/>
+		<when state="_Line Below  ̱ [0331]" output="̱"/>
+		<when state="_Macron  ̄ [0304]" output="¯"/>
+		<when state="_Middle Dot  · [00B7]" output="·"/>
+		<when state="_Ogonek  ̨ [0328]" output="˛"/>
+		<when state="_Right Half Ring  ʾ [02BE]" output=""/>
+		<when state="_Ring Above  ̊ [030A]" output="˚"/>
+		<when state="_Ring Below  ̥ [0325]" output=""/>
+		<when state="_Stroke  / [002F]" output="/"/>
+		<when state="_Tilde  ̃ [0303]" output="˜"/>
+		<when state="_Tilde Below  ̰ [0330]" output=""/>
+	</terminators>
+</keyboard>
+

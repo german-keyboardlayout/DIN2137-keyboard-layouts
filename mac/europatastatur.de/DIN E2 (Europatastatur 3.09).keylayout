@@ -1,0 +1,4337 @@
+<?xml version="1.1" encoding="utf-8"?>
+<!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
+<!--
+
+	This is the keyboard layout from https://europatastatur.de/e2
+	added with mac specific layers
+	converted to Mac
+
+        License Creative Commons CC0 1.0
+        
+        (C) 2025 K. Pentzlin & M. Steinborn
+
+-->
+<!--Last edited by KbdEdit version 24.12.0 2330-3523 -->
+<keyboard group="126" id="-20043" maxout="1" name="DIN E2 (Europatastatur 3.09)">
+	<layouts>
+		<layout first="0" last="0" mapSet="16c" modifiers="f4"/>
+	</layouts>
+	<modifierMap id="f4" defaultIndex="0">
+		<keyMapSelect mapIndex="0">
+			<modifier keys=""/>
+		</keyMapSelect>
+		<keyMapSelect mapIndex="1">
+			<modifier keys="caps"/>
+		</keyMapSelect>
+		<keyMapSelect mapIndex="2">
+			<modifier keys="anyShift"/>
+		</keyMapSelect>
+		<keyMapSelect mapIndex="3">
+			<modifier keys="caps anyShift"/>
+		</keyMapSelect>
+		<keyMapSelect mapIndex="4">
+			<modifier keys="anyControl"/>
+		</keyMapSelect>
+		<keyMapSelect mapIndex="5">
+			<modifier keys="anyControl anyShift"/>
+		</keyMapSelect>
+		<keyMapSelect mapIndex="6">
+			<modifier keys="anyOption"/>
+		</keyMapSelect>
+		<keyMapSelect mapIndex="7">
+			<modifier keys="anyOption caps"/>
+		</keyMapSelect>
+		<keyMapSelect mapIndex="8">
+			<modifier keys="anyOption anyShift"/>
+		</keyMapSelect>
+		<keyMapSelect mapIndex="9">
+			<modifier keys="anyOption caps anyShift"/>
+		</keyMapSelect>
+		<keyMapSelect mapIndex="10">
+			<modifier keys="anyControl anyOption"/>
+		</keyMapSelect>
+		<keyMapSelect mapIndex="11">
+			<modifier keys="anyControl anyOption caps"/>
+		</keyMapSelect>
+		<keyMapSelect mapIndex="12">
+			<modifier keys="anyControl anyOption anyShift"/>
+		</keyMapSelect>
+		<keyMapSelect mapIndex="13">
+			<modifier keys="anyControl anyOption caps anyShift"/>
+		</keyMapSelect>
+	</modifierMap>
+	<keyMapSet id="16c">
+		<keyMap index="0">
+			<key code="0" action="a"/>
+			<key code="1" action="s"/>
+			<key code="2" action="d"/>
+			<key code="3" action="f"/>
+			<key code="4" action="h"/>
+			<key code="5" action="g"/>
+			<key code="6" action="y"/>
+			<key code="7" action="x"/>
+			<key code="8" action="c"/>
+			<key code="9" action="v"/>
+			<key code="10" action="^"/>
+			<key code="11" action="b"/>
+			<key code="12" action="q"/>
+			<key code="13" action="w"/>
+			<key code="14" action="e"/>
+			<key code="15" action="r"/>
+			<key code="16" action="z"/>
+			<key code="17" action="t"/>
+			<key code="18" action="1"/>
+			<key code="19" action="2"/>
+			<key code="20" action="3"/>
+			<key code="21" action="4"/>
+			<key code="22" action="6"/>
+			<key code="23" action="5"/>
+			<key code="24" action="´"/>
+			<key code="25" action="9"/>
+			<key code="26" action="7"/>
+			<key code="27" action="ß"/>
+			<key code="28" action="8"/>
+			<key code="29" action="0"/>
+			<key code="30" action="+"/>
+			<key code="31" action="o"/>
+			<key code="32" action="u"/>
+			<key code="33" action="ü"/>
+			<key code="34" action="i"/>
+			<key code="35" action="p"/>
+			<key code="36" output="&#x000D;"/>
+			<key code="37" action="l"/>
+			<key code="38" action="j"/>
+			<key code="39" action="ä"/>
+			<key code="40" action="k"/>
+			<key code="41" action="ö"/>
+			<key code="42" action="#"/>
+			<key code="43" action=","/>
+			<key code="44" action="-"/>
+			<key code="45" action="n"/>
+			<key code="46" action="m"/>
+			<key code="47" action="."/>
+			<key code="48" output="&#x0009;"/>
+			<key code="49" action=" "/>
+			<key code="50" action="˟"/>
+			<key code="51" output="&#x0008;"/>
+			<key code="53" output="&#x001B;"/>
+			<key code="65" action=","/>
+			<key code="67" action="*"/>
+			<key code="69" action="+"/>
+			<key code="71" output="&#x001B;"/>
+			<key code="75" action="/"/>
+			<key code="76" output="&#x000D;"/>
+			<key code="78" action="-"/>
+			<key code="81" output="="/>
+			<key code="82" action="0"/>
+			<key code="83" action="1"/>
+			<key code="84" action="2"/>
+			<key code="85" action="3"/>
+			<key code="86" action="4"/>
+			<key code="87" action="5"/>
+			<key code="88" action="6"/>
+			<key code="89" action="7"/>
+			<key code="91" action="8"/>
+			<key code="92" action="9"/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+		<keyMap index="1">
+			<key code="0" action="A"/>
+			<key code="1" action="S"/>
+			<key code="2" action="D"/>
+			<key code="3" action="F"/>
+			<key code="4" action="H"/>
+			<key code="5" action="G"/>
+			<key code="6" action="Y"/>
+			<key code="7" action="X"/>
+			<key code="8" action="C"/>
+			<key code="9" action="V"/>
+			<key code="10" action="°"/>
+			<key code="11" action="B"/>
+			<key code="12" action="Q"/>
+			<key code="13" action="W"/>
+			<key code="14" action="E"/>
+			<key code="15" action="R"/>
+			<key code="16" action="Z"/>
+			<key code="17" action="T"/>
+			<key code="18" action="!"/>
+			<key code="19" action='"'/>
+			<key code="20" action="§"/>
+			<key code="21" action="$"/>
+			<key code="22" action="&#x0026;"/>
+			<key code="23" action="%"/>
+			<key code="24" action="`"/>
+			<key code="25" action=")"/>
+			<key code="26" action="/"/>
+			<key code="27" action="?"/>
+			<key code="28" action="("/>
+			<key code="29" action="="/>
+			<key code="30" action="*"/>
+			<key code="31" action="O"/>
+			<key code="32" action="U"/>
+			<key code="33" action="Ü"/>
+			<key code="34" action="I"/>
+			<key code="35" action="P"/>
+			<key code="36" output="&#x000D;"/>
+			<key code="37" action="L"/>
+			<key code="38" action="J"/>
+			<key code="39" action="Ä"/>
+			<key code="40" action="K"/>
+			<key code="41" action="Ö"/>
+			<key code="42" action="'"/>
+			<key code="43" action=";"/>
+			<key code="44" action="_"/>
+			<key code="45" action="N"/>
+			<key code="46" action="M"/>
+			<key code="47" action=":"/>
+			<key code="48" output="&#x0009;"/>
+			<key code="49" action=" "/>
+			<key code="50" action="˟"/>
+			<key code="51" output="&#x0008;"/>
+			<key code="53" output="&#x001B;"/>
+			<key code="65" action=","/>
+			<key code="67" action="*"/>
+			<key code="69" action="+"/>
+			<key code="71" output="&#x001B;"/>
+			<key code="75" action="/"/>
+			<key code="76" output="&#x000D;"/>
+			<key code="78" action="-"/>
+			<key code="81" output="="/>
+			<key code="82" action="0"/>
+			<key code="83" action="1"/>
+			<key code="84" action="2"/>
+			<key code="85" action="3"/>
+			<key code="86" action="4"/>
+			<key code="87" action="5"/>
+			<key code="88" action="6"/>
+			<key code="89" action="7"/>
+			<key code="91" action="8"/>
+			<key code="92" action="9"/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+		<keyMap index="2">
+			<key code="0" action="A"/>
+			<key code="1" action="S"/>
+			<key code="2" action="D"/>
+			<key code="3" action="F"/>
+			<key code="4" action="H"/>
+			<key code="5" action="G"/>
+			<key code="6" action="Y"/>
+			<key code="7" action="X"/>
+			<key code="8" action="C"/>
+			<key code="9" action="V"/>
+			<key code="10" action="°"/>
+			<key code="11" action="B"/>
+			<key code="12" action="Q"/>
+			<key code="13" action="W"/>
+			<key code="14" action="E"/>
+			<key code="15" action="R"/>
+			<key code="16" action="Z"/>
+			<key code="17" action="T"/>
+			<key code="18" action="!"/>
+			<key code="19" action='"'/>
+			<key code="20" action="§"/>
+			<key code="21" action="$"/>
+			<key code="22" action="&#x0026;"/>
+			<key code="23" action="%"/>
+			<key code="24" action="`"/>
+			<key code="25" action=")"/>
+			<key code="26" action="/"/>
+			<key code="27" action="?"/>
+			<key code="28" action="("/>
+			<key code="29" action="="/>
+			<key code="30" action="*"/>
+			<key code="31" action="O"/>
+			<key code="32" action="U"/>
+			<key code="33" action="Ü"/>
+			<key code="34" action="I"/>
+			<key code="35" action="P"/>
+			<key code="36" output="&#x000D;"/>
+			<key code="37" action="L"/>
+			<key code="38" action="J"/>
+			<key code="39" action="Ä"/>
+			<key code="40" action="K"/>
+			<key code="41" action="Ö"/>
+			<key code="42" action="'"/>
+			<key code="43" action=";"/>
+			<key code="44" action="_"/>
+			<key code="45" action="N"/>
+			<key code="46" action="M"/>
+			<key code="47" action=":"/>
+			<key code="48" output="&#x0009;"/>
+			<key code="49" action=" "/>
+			<key code="50" action="˟"/>
+			<key code="51" output="&#x0008;"/>
+			<key code="53" output="&#x001B;"/>
+			<key code="65" action=","/>
+			<key code="67" action="*"/>
+			<key code="69" action="+"/>
+			<key code="71" output="&#x001B;"/>
+			<key code="75" action="/"/>
+			<key code="76" output="&#x000D;"/>
+			<key code="78" action="-"/>
+			<key code="81" output="="/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+		<keyMap index="3">
+			<key code="0" action="a"/>
+			<key code="1" action="s"/>
+			<key code="2" action="d"/>
+			<key code="3" action="f"/>
+			<key code="4" action="h"/>
+			<key code="5" action="g"/>
+			<key code="6" action="y"/>
+			<key code="7" action="x"/>
+			<key code="8" action="c"/>
+			<key code="9" action="v"/>
+			<key code="10" action="^"/>
+			<key code="11" action="b"/>
+			<key code="12" action="q"/>
+			<key code="13" action="w"/>
+			<key code="14" action="e"/>
+			<key code="15" action="r"/>
+			<key code="16" action="z"/>
+			<key code="17" action="t"/>
+			<key code="18" action="1"/>
+			<key code="19" action="2"/>
+			<key code="20" action="3"/>
+			<key code="21" action="4"/>
+			<key code="22" action="6"/>
+			<key code="23" action="5"/>
+			<key code="24" action="´"/>
+			<key code="25" action="9"/>
+			<key code="26" action="7"/>
+			<key code="27" action="ß"/>
+			<key code="28" action="8"/>
+			<key code="29" action="0"/>
+			<key code="30" action="+"/>
+			<key code="31" action="o"/>
+			<key code="32" action="u"/>
+			<key code="33" action="ü"/>
+			<key code="34" action="i"/>
+			<key code="35" action="p"/>
+			<key code="36" output="&#x000D;"/>
+			<key code="37" action="l"/>
+			<key code="38" action="j"/>
+			<key code="39" action="ä"/>
+			<key code="40" action="k"/>
+			<key code="41" action="ö"/>
+			<key code="42" action="#"/>
+			<key code="43" action=","/>
+			<key code="44" action="-"/>
+			<key code="45" action="n"/>
+			<key code="46" action="m"/>
+			<key code="47" action="."/>
+			<key code="48" output="&#x0009;"/>
+			<key code="49" action=" "/>
+			<key code="50" action="˟"/>
+			<key code="51" output="&#x0008;"/>
+			<key code="53" output="&#x001B;"/>
+			<key code="65" action=","/>
+			<key code="67" action="*"/>
+			<key code="69" action="+"/>
+			<key code="71" output="&#x001B;"/>
+			<key code="75" action="/"/>
+			<key code="76" output="&#x000D;"/>
+			<key code="78" action="-"/>
+			<key code="81" output="="/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+		<keyMap index="4">
+			<key code="0" output="&#x0001;"/>
+			<key code="1" output="&#x0013;"/>
+			<key code="2" output="&#x0004;"/>
+			<key code="3" output="&#x0006;"/>
+			<key code="4" output="&#x0008;"/>
+			<key code="5" output="&#x0007;"/>
+			<key code="6" output="&#x0019;"/>
+			<key code="7" output="&#x0018;"/>
+			<key code="8" output="&#x0003;"/>
+			<key code="9" output="&#x0016;"/>
+			<key code="10" output="&#x001E;"/>
+			<key code="11" output="&#x0002;"/>
+			<key code="12" output="&#x0011;"/>
+			<key code="13" output="&#x0017;"/>
+			<key code="14" output="&#x0005;"/>
+			<key code="15" output="&#x0012;"/>
+			<key code="16" output="&#x001A;"/>
+			<key code="17" output="&#x0014;"/>
+			<key code="18" output="1"/>
+			<key code="19" output="2"/>
+			<key code="20" output="3"/>
+			<key code="21" output="4"/>
+			<key code="22" output="6"/>
+			<key code="23" output="5"/>
+			<key code="24" output="´"/>
+			<key code="25" output="9"/>
+			<key code="26" output="7"/>
+			<key code="27" output="ß"/>
+			<key code="28" output="8"/>
+			<key code="29" output="0"/>
+			<key code="30" output="+"/>
+			<key code="31" output="&#x000F;"/>
+			<key code="32" output="&#x0015;"/>
+			<key code="33" output="&#x001D;"/>
+			<key code="34" output="&#x0009;"/>
+			<key code="35" output="&#x0010;"/>
+			<key code="36" output="&#x000D;"/>
+			<key code="37" output="&#x000C;"/>
+			<key code="38" output="&#x000A;"/>
+			<key code="39" output="&#x001B;"/>
+			<key code="40" output="&#x000B;"/>
+			<key code="41" output="&#x001C;"/>
+			<key code="42" output="#"/>
+			<key code="43" output=","/>
+			<key code="44" output="-"/>
+			<key code="45" output="&#x000E;"/>
+			<key code="46" output="&#x000D;"/>
+			<key code="47" output="."/>
+			<key code="48" output="&#x0009;"/>
+			<key code="49" output=" "/>
+			<key code="50" output="&#x003C;"/>
+			<key code="51" output="&#x0008;"/>
+			<key code="53" output="&#x001B;"/>
+			<key code="65" output=","/>
+			<key code="67" output="*"/>
+			<key code="69" output="+"/>
+			<key code="71" output="&#x001B;"/>
+			<key code="75" output="/"/>
+			<key code="76" output="&#x000D;"/>
+			<key code="78" output="-"/>
+			<key code="81" output="="/>
+			<key code="82" output="0"/>
+			<key code="83" output="1"/>
+			<key code="84" output="2"/>
+			<key code="85" output="3"/>
+			<key code="86" output="4"/>
+			<key code="87" output="5"/>
+			<key code="88" output="6"/>
+			<key code="89" output="7"/>
+			<key code="91" output="8"/>
+			<key code="92" output="9"/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+		<keyMap index="5">
+			<key code="0" output="&#x0001;"/>
+			<key code="1" output="&#x0013;"/>
+			<key code="2" output="&#x0004;"/>
+			<key code="3" output="&#x0006;"/>
+			<key code="4" output="&#x0008;"/>
+			<key code="5" output="&#x0007;"/>
+			<key code="6" output="&#x0019;"/>
+			<key code="7" output="&#x0018;"/>
+			<key code="8" output="&#x0003;"/>
+			<key code="9" output="&#x0016;"/>
+			<key code="10" output="°"/>
+			<key code="11" output="&#x0002;"/>
+			<key code="12" output="&#x0011;"/>
+			<key code="13" output="&#x0017;"/>
+			<key code="14" output="&#x0005;"/>
+			<key code="15" output="&#x0012;"/>
+			<key code="16" output="&#x001A;"/>
+			<key code="17" output="&#x0014;"/>
+			<key code="18" output="!"/>
+			<key code="19" output='"'/>
+			<key code="20" output="§"/>
+			<key code="21" output="$"/>
+			<key code="22" output="&#x0026;"/>
+			<key code="23" output="%"/>
+			<key code="24" output="`"/>
+			<key code="25" output=")"/>
+			<key code="26" output="/"/>
+			<key code="27" output="?"/>
+			<key code="28" output="("/>
+			<key code="29" output="="/>
+			<key code="30" output="*"/>
+			<key code="31" output="&#x000F;"/>
+			<key code="32" output="&#x0015;"/>
+			<key code="33" output="&#x001D;"/>
+			<key code="34" output="&#x0009;"/>
+			<key code="35" output="&#x0010;"/>
+			<key code="36" output="&#x000D;"/>
+			<key code="37" output="&#x000C;"/>
+			<key code="38" output="&#x000A;"/>
+			<key code="39" output="&#x001B;"/>
+			<key code="40" output="&#x000B;"/>
+			<key code="41" output="&#x001C;"/>
+			<key code="42" output="&#x001E;"/>
+			<key code="43" output=";"/>
+			<key code="44" output="&#x001F;"/>
+			<key code="45" output="&#x000E;"/>
+			<key code="46" output="&#x000D;"/>
+			<key code="47" output=":"/>
+			<key code="48" output="&#x0009;"/>
+			<key code="49" output=" "/>
+			<key code="50" output="&#x003E;"/>
+			<key code="51" output="&#x0008;"/>
+			<key code="53" output="&#x001B;"/>
+			<key code="65" output=","/>
+			<key code="67" output="*"/>
+			<key code="69" output="+"/>
+			<key code="71" output="&#x001B;"/>
+			<key code="75" output="/"/>
+			<key code="76" output="&#x000D;"/>
+			<key code="78" output="-"/>
+			<key code="81" output="="/>
+			<key code="82" output="0"/>
+			<key code="83" output="1"/>
+			<key code="84" output="2"/>
+			<key code="85" output="3"/>
+			<key code="86" output="4"/>
+			<key code="87" output="5"/>
+			<key code="88" output="6"/>
+			<key code="89" output="7"/>
+			<key code="91" output="8"/>
+			<key code="92" output="9"/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+		<keyMap index="6">
+			<key code="0" action="Ͼ"/>
+			<key code="1" action="″"/>
+			<key code="2" action="′"/>
+			<key code="3" action="˟"/>
+			<key code="4" action="ˍ"/>
+			<key code="5" output="ẞ"/>
+			<key code="6" output="›"/>
+			<key code="7" output="»"/>
+			<key code="8" output=" "/>
+			<key code="9" output="«"/>
+			<key code="10" action="|"/>
+			<key code="11" output="‹"/>
+			<key code="12" output="@"/>
+			<key code="13" action="¯"/>
+			<key code="14" output="€"/>
+			<key code="15" action="˝"/>
+			<key code="16" action="¨"/>
+			<key code="17" action="ˇ"/>
+			<key code="18" output="’"/>
+			<key code="19" action="&#x003C;"/>
+			<key code="20" action="&#x003E;"/>
+			<key code="21" output="—"/>
+			<key code="22" output="¿"/>
+			<key code="23" output="¡"/>
+			<key code="24" action="˙"/>
+			<key code="25" action="]"/>
+			<key code="26" output="{"/>
+			<key code="27" output="\"/>
+			<key code="28" action="["/>
+			<key code="29" output="}"/>
+			<key code="30" action="~"/>
+			<key code="31" action="˚"/>
+			<key code="32" action="˘"/>
+			<key code="33" action="ʼ"/>
+			<key code="34" action="˜"/>
+			<key code="35" action="ˀ"/>
+			<key code="37" action="˛"/>
+			<key code="38" action="¸"/>
+			<key code="39" action="˗"/>
+			<key code="40" action="ˏ"/>
+			<key code="41" action="ˌ"/>
+			<key code="42" output="−"/>
+			<key code="43" output="‑"/>
+			<key code="44" output="­"/>
+			<key code="45" output="–"/>
+			<key code="46" output="µ"/>
+			<key code="47" action="·"/>
+			<key code="49" output=" "/>
+			<key code="50" action="˟"/>
+			<key code="71" output="&#x001B;"/>
+			<key code="81" output="="/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+		<keyMap index="7">
+			<key code="0" output="🌐︎"/>
+			<key code="1" action="″"/>
+			<key code="2" action="′"/>
+			<key code="3" action="˟"/>
+			<key code="4" action="ˍ"/>
+			<key code="5" output="ẞ"/>
+			<key code="6" output="›"/>
+			<key code="7" output="»"/>
+			<key code="8" output=" "/>
+			<key code="9" output="«"/>
+			<key code="10" action="|"/>
+			<key code="11" output="‹"/>
+			<key code="12" output="@"/>
+			<key code="13" action="¯"/>
+			<key code="14" output="€"/>
+			<key code="15" action="˝"/>
+			<key code="16" action="¨"/>
+			<key code="17" action="ˇ"/>
+			<key code="18" output="🖯"/>
+			<key code="19" output="🖷"/>
+			<key code="20" output="🕾"/>
+			<key code="21" output="📱︎"/>
+			<key code="22" output="☺︎"/>
+			<key code="23" output="✆"/>
+			<key code="24" action="˙"/>
+			<key code="25" output="🙁︎"/>
+			<key code="26" output="🙂︎"/>
+			<key code="27" output="ẞ"/>
+			<key code="28" output="😐︎"/>
+			<key code="29" output="☹︎"/>
+			<key code="30" action="~"/>
+			<key code="31" action="˚"/>
+			<key code="32" action="˘"/>
+			<key code="33" action="ʼ"/>
+			<key code="34" action="˜"/>
+			<key code="35" action="ˀ"/>
+			<key code="37" action="˛"/>
+			<key code="38" action="¸"/>
+			<key code="39" action="˗"/>
+			<key code="40" action="ˏ"/>
+			<key code="41" action="ˌ"/>
+			<key code="42" output="−"/>
+			<key code="43" output="‑"/>
+			<key code="44" output="­"/>
+			<key code="45" output="–"/>
+			<key code="46" output="µ"/>
+			<key code="47" action="·"/>
+			<key code="49" output=" "/>
+			<key code="50" action="˟"/>
+			<key code="71" output="&#x001B;"/>
+			<key code="81" output="="/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+		<keyMap index="8">
+			<key code="0" output="🌐︎"/>
+			<key code="5" output="ẞ"/>
+			<key code="18" output="🖯"/>
+			<key code="19" output="🖷"/>
+			<key code="20" output="🕾"/>
+			<key code="21" output="📱︎"/>
+			<key code="22" output="☺︎"/>
+			<key code="23" output="✆"/>
+			<key code="25" output="🙁︎"/>
+			<key code="26" output="🙂︎"/>
+			<key code="27" output="ẞ"/>
+			<key code="28" output="😐︎"/>
+			<key code="29" output="☹︎"/>
+			<key code="71" output="&#x001B;"/>
+			<key code="81" output="="/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+		<keyMap index="9">
+			<key code="0" action="Ͼ"/>
+			<key code="5" output="ẞ"/>
+			<key code="18" output="’"/>
+			<key code="19" action="&#x003C;"/>
+			<key code="20" action="&#x003E;"/>
+			<key code="21" output="—"/>
+			<key code="22" output="¿"/>
+			<key code="23" output="¡"/>
+			<key code="25" action="]"/>
+			<key code="26" output="{"/>
+			<key code="27" output="\"/>
+			<key code="28" action="["/>
+			<key code="29" output="}"/>
+			<key code="71" output="&#x001B;"/>
+			<key code="81" output="="/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+		<keyMap index="10">
+			<key code="0" output="å"/>
+			<key code="1" output="‚"/>
+			<key code="2" output="∂"/>
+			<key code="3" output="ƒ"/>
+			<key code="4" output="ª"/>
+			<key code="5" output="©"/>
+			<key code="6" output="¥"/>
+			<key code="7" output="≈"/>
+			<key code="8" output="ç"/>
+			<key code="9" output="√"/>
+			<key code="10" output="„"/>
+			<key code="11" output="∫"/>
+			<key code="12" output="«"/>
+			<key code="13" output="∑"/>
+			<key code="14" output="€"/>
+			<key code="15" output="®"/>
+			<key code="16" output="Ω"/>
+			<key code="17" output="†"/>
+			<key code="18" output="¡"/>
+			<key code="19" output="“"/>
+			<key code="20" output="¶"/>
+			<key code="21" output="¢"/>
+			<key code="22" output="]"/>
+			<key code="23" output="["/>
+			<key code="24" output="´"/>
+			<key code="25" output="}"/>
+			<key code="26" output="|"/>
+			<key code="27" output="¿"/>
+			<key code="28" output="{"/>
+			<key code="29" output="≠"/>
+			<key code="30" output="±"/>
+			<key code="31" output="ø"/>
+			<key code="32" output="¨"/>
+			<key code="33" output="•"/>
+			<key code="34" output="⁄"/>
+			<key code="35" output="π"/>
+			<key code="36" output="&#x000D;"/>
+			<key code="37" output="@"/>
+			<key code="38" output="º"/>
+			<key code="39" output="æ"/>
+			<key code="40" output="∆"/>
+			<key code="41" output="œ"/>
+			<key code="42" output="‘"/>
+			<key code="43" output="∞"/>
+			<key code="44" output="–"/>
+			<key code="45" output="~"/>
+			<key code="46" output="µ"/>
+			<key code="47" output="…"/>
+			<key code="48" output="&#x0009;"/>
+			<key code="49" output=" "/>
+			<key code="50" output="≤"/>
+			<key code="51" output="&#x0008;"/>
+			<key code="53" output="&#x001B;"/>
+			<key code="65" output="."/>
+			<key code="67" output="*"/>
+			<key code="69" output="+"/>
+			<key code="71" output="&#x001B;"/>
+			<key code="75" output="/"/>
+			<key code="76" output="&#x000D;"/>
+			<key code="78" output="-"/>
+			<key code="81" output="="/>
+			<key code="82" output="0"/>
+			<key code="83" output="1"/>
+			<key code="84" output="2"/>
+			<key code="85" output="3"/>
+			<key code="86" output="4"/>
+			<key code="87" output="5"/>
+			<key code="88" output="6"/>
+			<key code="89" output="7"/>
+			<key code="91" output="8"/>
+			<key code="92" output="9"/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+		<keyMap index="11">
+			<key code="0" output="Å"/>
+			<key code="1" output="Í"/>
+			<key code="2" output="™"/>
+			<key code="3" output="Ï"/>
+			<key code="4" output="Ó"/>
+			<key code="5" output="Ì"/>
+			<key code="6" output="‡"/>
+			<key code="7" output="Ù"/>
+			<key code="8" output="Ç"/>
+			<key code="9" output="◊"/>
+			<key code="10" output="’"/>
+			<key code="11" output="‹"/>
+			<key code="12" output="»"/>
+			<key code="13" output="„"/>
+			<key code="14" output="‰"/>
+			<key code="15" output="¸"/>
+			<key code="16" output="ˇ"/>
+			<key code="17" output="˝"/>
+			<key code="18" output="¬"/>
+			<key code="19" output="”"/>
+			<key code="20" output="#"/>
+			<key code="21" output="£"/>
+			<key code="22" output="^"/>
+			<key code="23" output="ﬁ"/>
+			<key code="24" output="˚"/>
+			<key code="25" output="·"/>
+			<key code="26" output="\"/>
+			<key code="27" output="˙"/>
+			<key code="28" output="˜"/>
+			<key code="29" output="¯"/>
+			<key code="30" output=""/>
+			<key code="31" output="Ø"/>
+			<key code="32" output="Á"/>
+			<key code="33" output="°"/>
+			<key code="34" output="Û"/>
+			<key code="35" output="∏"/>
+			<key code="36" output="&#x000D;"/>
+			<key code="37" output="ﬂ"/>
+			<key code="38" output="ı"/>
+			<key code="39" output="Æ"/>
+			<key code="40" output="ˆ"/>
+			<key code="41" output="Œ"/>
+			<key code="42" output="’"/>
+			<key code="43" output="˛"/>
+			<key code="44" output="—"/>
+			<key code="45" output="›"/>
+			<key code="46" output="˘"/>
+			<key code="47" output="÷"/>
+			<key code="48" output="&#x0009;"/>
+			<key code="49" output=" "/>
+			<key code="50" output="≥"/>
+			<key code="51" output="&#x0008;"/>
+			<key code="53" output="&#x001B;"/>
+			<key code="65" output="."/>
+			<key code="67" output="*"/>
+			<key code="69" output="+"/>
+			<key code="71" output="&#x001B;"/>
+			<key code="75" output="/"/>
+			<key code="76" output="&#x000D;"/>
+			<key code="78" output="-"/>
+			<key code="81" output="="/>
+			<key code="82" output="0"/>
+			<key code="83" output="1"/>
+			<key code="84" output="2"/>
+			<key code="85" output="3"/>
+			<key code="86" output="4"/>
+			<key code="87" output="5"/>
+			<key code="88" output="6"/>
+			<key code="89" output="7"/>
+			<key code="91" output="8"/>
+			<key code="92" output="9"/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+		<keyMap index="12">
+			<key code="0" output="Å"/>
+			<key code="1" output="Í"/>
+			<key code="2" output="™"/>
+			<key code="3" output="Ï"/>
+			<key code="4" output="Ó"/>
+			<key code="5" output="Ì"/>
+			<key code="6" output="‡"/>
+			<key code="7" output="Ù"/>
+			<key code="8" output="Ç"/>
+			<key code="9" output="◊"/>
+			<key code="10" output="’"/>
+			<key code="11" output="‹"/>
+			<key code="12" output="»"/>
+			<key code="13" output="„"/>
+			<key code="14" output="‰"/>
+			<key code="15" output="¸"/>
+			<key code="16" output="ˇ"/>
+			<key code="17" output="˝"/>
+			<key code="18" output="¬"/>
+			<key code="19" output="”"/>
+			<key code="20" output="#"/>
+			<key code="21" output="£"/>
+			<key code="22" output="^"/>
+			<key code="23" output="ﬁ"/>
+			<key code="24" output="˚"/>
+			<key code="25" output="·"/>
+			<key code="26" output="\"/>
+			<key code="27" output="˙"/>
+			<key code="28" output="˜"/>
+			<key code="29" output="¯"/>
+			<key code="30" output=""/>
+			<key code="31" output="Ø"/>
+			<key code="32" output="Á"/>
+			<key code="33" output="°"/>
+			<key code="34" output="Û"/>
+			<key code="35" output="∏"/>
+			<key code="36" output="&#x000D;"/>
+			<key code="37" output="ﬂ"/>
+			<key code="38" output="ı"/>
+			<key code="39" output="Æ"/>
+			<key code="40" output="ˆ"/>
+			<key code="41" output="Œ"/>
+			<key code="42" output="’"/>
+			<key code="43" output="˛"/>
+			<key code="44" output="—"/>
+			<key code="45" output="›"/>
+			<key code="46" output="˘"/>
+			<key code="47" output="÷"/>
+			<key code="48" output="&#x0009;"/>
+			<key code="49" output=" "/>
+			<key code="50" output="≥"/>
+			<key code="51" output="&#x0008;"/>
+			<key code="53" output="&#x001B;"/>
+			<key code="65" output="."/>
+			<key code="67" output="*"/>
+			<key code="69" output="+"/>
+			<key code="71" output="&#x001B;"/>
+			<key code="75" output="/"/>
+			<key code="76" output="&#x000D;"/>
+			<key code="78" output="-"/>
+			<key code="81" output="="/>
+			<key code="82" output="0"/>
+			<key code="83" output="1"/>
+			<key code="84" output="2"/>
+			<key code="85" output="3"/>
+			<key code="86" output="4"/>
+			<key code="87" output="5"/>
+			<key code="88" output="6"/>
+			<key code="89" output="7"/>
+			<key code="91" output="8"/>
+			<key code="92" output="9"/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+		<keyMap index="13">
+			<key code="0" output="å"/>
+			<key code="1" output="‚"/>
+			<key code="2" output="∂"/>
+			<key code="3" output="ƒ"/>
+			<key code="4" output="ª"/>
+			<key code="5" output="©"/>
+			<key code="6" output="¥"/>
+			<key code="7" output="≈"/>
+			<key code="8" output="ç"/>
+			<key code="9" output="√"/>
+			<key code="10" output="„"/>
+			<key code="11" output="∫"/>
+			<key code="12" output="«"/>
+			<key code="13" output="∑"/>
+			<key code="14" output="€"/>
+			<key code="15" output="®"/>
+			<key code="16" output="Ω"/>
+			<key code="17" output="†"/>
+			<key code="18" output="¡"/>
+			<key code="19" output="“"/>
+			<key code="20" output="¶"/>
+			<key code="21" output="¢"/>
+			<key code="22" output="]"/>
+			<key code="23" output="["/>
+			<key code="24" output="´"/>
+			<key code="25" output="}"/>
+			<key code="26" output="|"/>
+			<key code="27" output="¿"/>
+			<key code="28" output="{"/>
+			<key code="29" output="≠"/>
+			<key code="30" output="±"/>
+			<key code="31" output="ø"/>
+			<key code="32" output="¨"/>
+			<key code="33" output="•"/>
+			<key code="34" output="⁄"/>
+			<key code="35" output="π"/>
+			<key code="36" output="&#x000D;"/>
+			<key code="37" output="@"/>
+			<key code="38" output="º"/>
+			<key code="39" output="æ"/>
+			<key code="40" output="∆"/>
+			<key code="41" output="œ"/>
+			<key code="42" output="‘"/>
+			<key code="43" output="∞"/>
+			<key code="44" output="–"/>
+			<key code="45" output="~"/>
+			<key code="46" output="µ"/>
+			<key code="47" output="…"/>
+			<key code="48" output="&#x0009;"/>
+			<key code="49" output=" "/>
+			<key code="50" output="≤"/>
+			<key code="51" output="&#x0008;"/>
+			<key code="53" output="&#x001B;"/>
+			<key code="65" output="."/>
+			<key code="67" output="*"/>
+			<key code="69" output="+"/>
+			<key code="71" output="&#x001B;"/>
+			<key code="75" output="/"/>
+			<key code="76" output="&#x000D;"/>
+			<key code="78" output="-"/>
+			<key code="81" output="="/>
+			<key code="82" output="0"/>
+			<key code="83" output="1"/>
+			<key code="84" output="2"/>
+			<key code="85" output="3"/>
+			<key code="86" output="4"/>
+			<key code="87" output="5"/>
+			<key code="88" output="6"/>
+			<key code="89" output="7"/>
+			<key code="91" output="8"/>
+			<key code="92" output="9"/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+	</keyMapSet>
+	<actions>
+		<action id=" ">
+			<when state="none" output=" "/>
+			<when state="ACUTE ACCENT" output="´"/>
+			<when state="BREVE" output="˘"/>
+			<when state="CARON (HACEK)" output="ˇ"/>
+			<when state="CEDILLA" output="¸"/>
+			<when state="CIRCUMFLEX ACCENT" output="^"/>
+			<when state="COMMA BELOW" output="⸴"/>
+			<when state="CROSS ACCENT" output=" "/>
+			<when state="DOT ABOVE" output="˙"/>
+			<when state="DOT BELOW" output="⸳"/>
+			<when state="DOUBLE ACUTE ACCENT" output="˝"/>
+			<when state="GRAVE ACCENT" output="`"/>
+			<when state="MACRON (LONGUM)" output="¯"/>
+			<when state="MACRON BELOW" output="ˍ"/>
+			<when state="MINUS ACCENT" output="‒"/>
+			<when state="OGONEK" output="˛"/>
+			<when state="RING ABOVE" output="˚"/>
+			<when state="TILDE" output="˜"/>
+			<when state="TREMA" output="¨"/>
+			<when state="unnamed 0031" output="1"/>
+			<when state="unnamed 0032" output="2"/>
+			<when state="unnamed 0033" output="3"/>
+			<when state="unnamed 0034" output="4"/>
+			<when state="unnamed 0041" output="A"/>
+			<when state="unnamed 0042" output="B"/>
+			<when state="unnamed 0043" output="C"/>
+			<when state="unnamed 0045" output="E"/>
+			<when state="unnamed 0046" output="F"/>
+			<when state="unnamed 0047" output="G"/>
+			<when state="unnamed 0048" output="H"/>
+			<when state="unnamed 004A" output="J"/>
+			<when state="unnamed 004D" output="M"/>
+			<when state="unnamed 004F" output="O"/>
+			<when state="unnamed 0050" output="P"/>
+			<when state="unnamed 0051" output="Q"/>
+			<when state="unnamed 0052" output="R"/>
+			<when state="unnamed 0053" output="S"/>
+			<when state="unnamed 0054" output="T"/>
+			<when state="unnamed 0056" output="V"/>
+			<when state="unnamed 0057" output="W"/>
+			<when state="unnamed 0058" output="X"/>
+			<when state="unnamed 0059" output="Y"/>
+			<when state="unnamed 005A" output="Z"/>
+			<when state="unnamed 0061" output="a"/>
+			<when state="unnamed 0062" output="b"/>
+			<when state="unnamed 0063" output="c"/>
+			<when state="unnamed 0064" output="d"/>
+			<when state="unnamed 0065" output="e"/>
+			<when state="unnamed 0066" output="f"/>
+			<when state="unnamed 0067" output="g"/>
+			<when state="unnamed 0068" output="h"/>
+			<when state="unnamed 0069" output="i"/>
+			<when state="unnamed 006A" output="j"/>
+			<when state="unnamed 006B" output="k"/>
+			<when state="unnamed 006C" output="l"/>
+			<when state="unnamed 006D" output="m"/>
+			<when state="unnamed 006E" output="n"/>
+			<when state="unnamed 006F" output="o"/>
+			<when state="unnamed 0070" output="p"/>
+			<when state="unnamed 0071" output="q"/>
+			<when state="unnamed 0072" output="r"/>
+			<when state="unnamed 0073" output="s"/>
+			<when state="unnamed 0074" output="t"/>
+			<when state="unnamed 0075" output="u"/>
+			<when state="unnamed 0076" output="v"/>
+			<when state="unnamed 0077" output="w"/>
+			<when state="unnamed 0078" output="x"/>
+			<when state="unnamed 0079" output="y"/>
+			<when state="unnamed 007A" output="z"/>
+			<when state="unnamed 01DA" output="ǚ"/>
+			<when state="unnamed 01DC" output="ǜ"/>
+			<when state="unnamed 01DF" output="ǟ"/>
+			<when state="unnamed 01E1" output="ǡ"/>
+			<when state="unnamed 01E3" output="ǣ"/>
+			<when state="unnamed 01ED" output="ǭ"/>
+			<when state="unnamed 01EF" output="ǯ"/>
+			<when state="unnamed 01FB" output="ǻ"/>
+			<when state="unnamed 01FF" output="ǿ"/>
+			<when state="unnamed 022D" output="ȭ"/>
+			<when state="unnamed 02B0" output="ʰ"/>
+			<when state="unnamed 02BC" output="ʼ"/>
+			<when state="unnamed 02C0" output="ˀ"/>
+			<when state="unnamed 0390" output="ΐ"/>
+			<when state="unnamed 03CA" output="ϊ"/>
+			<when state="unnamed 03FE" output="Ͼ"/>
+			<when state="unnamed 0531" output="ấ"/>
+			<when state="unnamed 0532" output="ầ"/>
+			<when state="unnamed 0533" output="ẩ"/>
+			<when state="unnamed 0534" output="ẫ"/>
+			<when state="unnamed 0535" output="ậ"/>
+			<when state="unnamed 0536" output="ắ"/>
+			<when state="unnamed 0537" output="ằ"/>
+			<when state="unnamed 0538" output="ẳ"/>
+			<when state="unnamed 0539" output="ẵ"/>
+			<when state="unnamed 053A" output="ặ"/>
+			<when state="unnamed 053B" output="ḗ"/>
+			<when state="unnamed 053C" output="ḉ"/>
+			<when state="unnamed 053D" output="ḝ"/>
+			<when state="unnamed 053E" output="ḯ"/>
+			<when state="unnamed 053F" output="ḹ"/>
+			<when state="unnamed 0540" output="ṍ"/>
+			<when state="unnamed 0541" output="ṏ"/>
+			<when state="unnamed 0542" output="ṑ"/>
+			<when state="unnamed 0543" output="ớ"/>
+			<when state="unnamed 0544" output="ờ"/>
+			<when state="unnamed 0545" output="ở"/>
+			<when state="unnamed 0546" output="ỡ"/>
+			<when state="unnamed 0547" output="ợ"/>
+			<when state="unnamed 0548" output="ṥ"/>
+			<when state="unnamed 0549" output="ṧ"/>
+			<when state="unnamed 054A" output="ṩ"/>
+			<when state="unnamed 054B" output="ꞈ"/>
+			<when state="unnamed 054C" output="ⓐ"/>
+			<when state="unnamed 054D" output="ₕ"/>
+		</action>
+		<action id="!">
+			<when state="none" output="!"/>
+			<when state="COMMA BELOW" output="ǃ"/>
+			<when state="CROSS ACCENT" output="◊"/>
+		</action>
+		<action id='"'>
+			<when state="none" output='"'/>
+			<when state="COMMA BELOW" output="ǁ"/>
+			<when state="CROSS ACCENT" output="¦"/>
+		</action>
+		<action id="#">
+			<when state="none" output="#"/>
+			<when state="COMMA BELOW" output="ǂ"/>
+			<when state="CROSS ACCENT" output="†"/>
+			<when state="DOUBLE ACUTE ACCENT" output="‖"/>
+			<when state="MINUS ACCENT" output="※"/>
+			<when state="RING ABOVE" output="∎"/>
+		</action>
+		<action id="$">
+			<when state="none" output="$"/>
+			<when state="CROSS ACCENT" output="ℳ"/>
+		</action>
+		<action id="%">
+			<when state="none" output="%"/>
+			<when state="CROSS ACCENT" output="₰"/>
+			<when state="MINUS ACCENT" output="℔"/>
+		</action>
+		<action id="&#x0026;">
+			<when state="none" output="&#x0026;"/>
+			<when state="CROSS ACCENT" output="⁊"/>
+		</action>
+		<action id="'">
+			<when state="none" output="'"/>
+			<when state="COMMA BELOW" output="ǀ"/>
+			<when state="CROSS ACCENT" output="‡"/>
+			<when state="MINUS ACCENT" output="♪"/>
+		</action>
+		<action id="(">
+			<when state="none" output="("/>
+			<when state="CARON (HACEK)" output="₍"/>
+			<when state="CIRCUMFLEX ACCENT" output="⁽"/>
+			<when state="COMMA BELOW" output="⸤"/>
+			<when state="CROSS ACCENT" output="⟪"/>
+			<when state="MINUS ACCENT" output="﴾"/>
+			<when state="RING ABOVE" output="❲"/>
+		</action>
+		<action id=")">
+			<when state="none" output=")"/>
+			<when state="CARON (HACEK)" output="₎"/>
+			<when state="CIRCUMFLEX ACCENT" output="⁾"/>
+			<when state="COMMA BELOW" output="⸥"/>
+			<when state="CROSS ACCENT" output="⟫"/>
+			<when state="MINUS ACCENT" output="﴿"/>
+			<when state="RING ABOVE" output="❳"/>
+		</action>
+		<action id="*">
+			<when state="none" output="*"/>
+			<when state="CROSS ACCENT" output="⁒"/>
+			<when state="MINUS ACCENT" output="⁂"/>
+			<when state="RING ABOVE" output="∗"/>
+		</action>
+		<action id="+">
+			<when state="none" output="+"/>
+			<when state="CARON (HACEK)" output="₊"/>
+			<when state="CIRCUMFLEX ACCENT" output="⁺"/>
+			<when state="CROSS ACCENT" output="×"/>
+			<when state="DOUBLE ACUTE ACCENT" output="ˈ"/>
+			<when state="MACRON BELOW" output="±"/>
+			<when state="MINUS ACCENT" output="⌘"/>
+			<when state="RING ABOVE" output="⊕"/>
+		</action>
+		<action id=",">
+			<when state="none" output=","/>
+			<when state="CROSS ACCENT" output="ʻ"/>
+			<when state="DOUBLE ACUTE ACCENT" output="ˑ"/>
+			<when state="MINUS ACCENT" output="◁"/>
+		</action>
+		<action id="-">
+			<when state="none" output="-"/>
+			<when state="CARON (HACEK)" output="₋"/>
+			<when state="CIRCUMFLEX ACCENT" output="⁻"/>
+			<when state="CROSS ACCENT" output="•"/>
+			<when state="DOUBLE ACUTE ACCENT" output="ˌ"/>
+			<when state="MACRON (LONGUM)" output="⹀"/>
+			<when state="MACRON BELOW" output="⹀"/>
+			<when state="MINUS ACCENT" output="⸺"/>
+			<when state="RING ABOVE" output="⊖"/>
+			<when state="TILDE" output="≃"/>
+			<when state="TREMA" output="⸚"/>
+		</action>
+		<action id=".">
+			<when state="none" output="."/>
+			<when state="CROSS ACCENT" output="…"/>
+			<when state="DOUBLE ACUTE ACCENT" output="ː"/>
+			<when state="MINUS ACCENT" output="●"/>
+			<when state="RING ABOVE" output="⋅"/>
+		</action>
+		<action id="/">
+			<when state="none" output="/"/>
+			<when state="CROSS ACCENT" output="№"/>
+			<when state="MINUS ACCENT" output="℅"/>
+			<when state="RING ABOVE" output="∕"/>
+		</action>
+		<action id="0">
+			<when state="none" output="0"/>
+			<when state="CARON (HACEK)" output="₀"/>
+			<when state="CIRCUMFLEX ACCENT" output="⁰"/>
+			<when state="CROSS ACCENT" output="÷"/>
+			<when state="MINUS ACCENT" output="✔"/>
+			<when state="RING ABOVE" output="⓪"/>
+			<when state="unnamed 0045" output="ʾ"/>
+			<when state="unnamed 0046" output="ˀ"/>
+			<when state="unnamed 004D" output="∅"/>
+			<when state="unnamed 004F" output="⓪"/>
+			<when state="unnamed 0050" output="‌"/>
+			<when state="unnamed 0051" output="₀"/>
+			<when state="unnamed 0052" output="⁰"/>
+			<when state="unnamed 0053" output="✘"/>
+			<when state="unnamed 0054" output="⑩"/>
+			<when state="unnamed 0061" output="a"/>
+			<when state="unnamed 0062" output="b"/>
+			<when state="unnamed 0063" output="c"/>
+			<when state="unnamed 0064" output="d"/>
+			<when state="unnamed 0065" output="e"/>
+			<when state="unnamed 0066" output="f"/>
+			<when state="unnamed 0067" output="g"/>
+			<when state="unnamed 0068" output="h"/>
+			<when state="unnamed 0069" output="i"/>
+			<when state="unnamed 006A" output="j"/>
+			<when state="unnamed 006B" output="k"/>
+			<when state="unnamed 006C" output="l"/>
+			<when state="unnamed 006D" output="m"/>
+			<when state="unnamed 006E" output="n"/>
+			<when state="unnamed 006F" output="o"/>
+			<when state="unnamed 0070" output="p"/>
+			<when state="unnamed 0071" output="q"/>
+			<when state="unnamed 0072" output="r"/>
+			<when state="unnamed 0073" output="s"/>
+			<when state="unnamed 0074" output="t"/>
+			<when state="unnamed 0075" output="u"/>
+			<when state="unnamed 0076" output="v"/>
+			<when state="unnamed 0077" output="w"/>
+			<when state="unnamed 0078" output="x"/>
+			<when state="unnamed 0079" output="y"/>
+			<when state="unnamed 007A" output="z"/>
+		</action>
+		<action id="1">
+			<when state="none" output="1"/>
+			<when state="BREVE" output="⅓"/>
+			<when state="CARON (HACEK)" output="₁"/>
+			<when state="CIRCUMFLEX ACCENT" output="¹"/>
+			<when state="COMMA BELOW" output="ǀ"/>
+			<when state="CROSS ACCENT" output="¼"/>
+			<when state="DOUBLE ACUTE ACCENT" next="unnamed 0031"/>
+			<when state="MINUS ACCENT" output="◾"/>
+			<when state="RING ABOVE" output="①"/>
+			<when state="unnamed 0045" output="ˑ"/>
+			<when state="unnamed 0046" output="ǀ"/>
+			<when state="unnamed 004D" output="¼"/>
+			<when state="unnamed 004F" output="①"/>
+			<when state="unnamed 0050" output=" "/>
+			<when state="unnamed 0051" output="₁"/>
+			<when state="unnamed 0052" output="¹"/>
+			<when state="unnamed 0053" output="☐"/>
+			<when state="unnamed 0054" output="⑪"/>
+			<when state="unnamed 0065" output="ᵊ"/>
+			<when state="unnamed 0066" output="ǀ"/>
+			<when state="unnamed 0068" output="ʰ"/>
+			<when state="unnamed 006A" output="ʲ"/>
+			<when state="unnamed 006C" output="ˡ"/>
+			<when state="unnamed 006E" output="ⁿ"/>
+			<when state="unnamed 0071" output="ˤ"/>
+			<when state="unnamed 0072" output="ɿ"/>
+			<when state="unnamed 0073" output="ˢ"/>
+			<when state="unnamed 0077" output="ʷ"/>
+			<when state="unnamed 0078" output="ˣ"/>
+			<when state="unnamed 0079" output="ʸ"/>
+			<when state="unnamed 02BC" output="⅛"/>
+		</action>
+		<action id="2">
+			<when state="none" output="2"/>
+			<when state="BREVE" output="⅔"/>
+			<when state="CARON (HACEK)" output="₂"/>
+			<when state="CIRCUMFLEX ACCENT" output="²"/>
+			<when state="COMMA BELOW" output="ǁ"/>
+			<when state="CROSS ACCENT" output="½"/>
+			<when state="DOUBLE ACUTE ACCENT" next="unnamed 0032"/>
+			<when state="MINUS ACCENT" output="◽"/>
+			<when state="RING ABOVE" output="②"/>
+			<when state="unnamed 0045" output="ː"/>
+			<when state="unnamed 0046" output="ǁ"/>
+			<when state="unnamed 004D" output="½"/>
+			<when state="unnamed 004F" output="②"/>
+			<when state="unnamed 0050" output=" "/>
+			<when state="unnamed 0051" output="₂"/>
+			<when state="unnamed 0052" output="²"/>
+			<when state="unnamed 0053" output="❖"/>
+			<when state="unnamed 0054" output="⑫"/>
+			<when state="unnamed 0062" output="ʙ"/>
+			<when state="unnamed 0064" output="ᶑ"/>
+			<when state="unnamed 0065" output="ɝ"/>
+			<when state="unnamed 0066" output="ǁ"/>
+			<when state="unnamed 0067" output="ɢ"/>
+			<when state="unnamed 0068" output="ʜ"/>
+			<when state="unnamed 0069" output="ɪ"/>
+			<when state="unnamed 006C" output="ʟ"/>
+			<when state="unnamed 006E" output="ɴ"/>
+			<when state="unnamed 006F" output="ɶ"/>
+			<when state="unnamed 0072" output="ʀ"/>
+			<when state="unnamed 0079" output="ʏ"/>
+		</action>
+		<action id="3">
+			<when state="none" output="3"/>
+			<when state="CARON (HACEK)" output="₃"/>
+			<when state="CIRCUMFLEX ACCENT" output="³"/>
+			<when state="COMMA BELOW" output="ǂ"/>
+			<when state="CROSS ACCENT" output="¾"/>
+			<when state="DOUBLE ACUTE ACCENT" next="unnamed 0033"/>
+			<when state="MINUS ACCENT" output="❑"/>
+			<when state="RING ABOVE" output="③"/>
+			<when state="unnamed 0045" output="ˈ"/>
+			<when state="unnamed 0046" output="ǂ"/>
+			<when state="unnamed 004D" output="¾"/>
+			<when state="unnamed 004F" output="③"/>
+			<when state="unnamed 0050" output=" "/>
+			<when state="unnamed 0051" output="₃"/>
+			<when state="unnamed 0052" output="³"/>
+			<when state="unnamed 0053" output="❑"/>
+			<when state="unnamed 0054" output="⑬"/>
+			<when state="unnamed 0061" output="ɐ"/>
+			<when state="unnamed 0065" output="ə"/>
+			<when state="unnamed 0066" output="ǂ"/>
+			<when state="unnamed 0068" output="ɥ"/>
+			<when state="unnamed 006B" output="ʞ"/>
+			<when state="unnamed 006C" output="ƛ"/>
+			<when state="unnamed 006D" output="ɯ"/>
+			<when state="unnamed 0072" output="ɹ"/>
+			<when state="unnamed 0073" output="ʅ"/>
+			<when state="unnamed 0074" output="ʇ"/>
+			<when state="unnamed 0076" output="ʌ"/>
+			<when state="unnamed 0077" output="ʍ"/>
+			<when state="unnamed 0079" output="ʎ"/>
+			<when state="unnamed 02BC" output="⅜"/>
+		</action>
+		<action id="4">
+			<when state="none" output="4"/>
+			<when state="CARON (HACEK)" output="₄"/>
+			<when state="CIRCUMFLEX ACCENT" output="⁴"/>
+			<when state="COMMA BELOW" output="ǃ"/>
+			<when state="CROSS ACCENT" output="¤"/>
+			<when state="DOUBLE ACUTE ACCENT" next="unnamed 0034"/>
+			<when state="MINUS ACCENT" output="❖"/>
+			<when state="RING ABOVE" output="④"/>
+			<when state="unnamed 0045" output="ˌ"/>
+			<when state="unnamed 0046" output="ǃ"/>
+			<when state="unnamed 004D" output="⅛"/>
+			<when state="unnamed 004F" output="④"/>
+			<when state="unnamed 0050" output=" "/>
+			<when state="unnamed 0051" output="₄"/>
+			<when state="unnamed 0052" output="⁴"/>
+			<when state="unnamed 0053" output="‣"/>
+			<when state="unnamed 0054" output="⑭"/>
+			<when state="unnamed 0062" output="ɓ"/>
+			<when state="unnamed 0063" output="ƈ"/>
+			<when state="unnamed 0064" output="ɗ"/>
+			<when state="unnamed 0065" output="ɚ"/>
+			<when state="unnamed 0066" output="ǃ"/>
+			<when state="unnamed 0067" output="ɠ"/>
+			<when state="unnamed 0068" output="ɦ"/>
+			<when state="unnamed 006B" output="ƙ"/>
+			<when state="unnamed 006C" output="ɬ"/>
+			<when state="unnamed 0070" output="ƥ"/>
+			<when state="unnamed 0071" output="ʠ"/>
+			<when state="unnamed 0072" output="ɾ"/>
+			<when state="unnamed 0074" output="ƭ"/>
+			<when state="unnamed 0076" output="ⱱ"/>
+		</action>
+		<action id="5">
+			<when state="none" output="5"/>
+			<when state="CARON (HACEK)" output="₅"/>
+			<when state="CIRCUMFLEX ACCENT" output="⁵"/>
+			<when state="CROSS ACCENT" output="‰"/>
+			<when state="MINUS ACCENT" output="‣"/>
+			<when state="RING ABOVE" output="⑤"/>
+			<when state="unnamed 0045" output="ʹ"/>
+			<when state="unnamed 0046" output="ʘ"/>
+			<when state="unnamed 004D" output="⅜"/>
+			<when state="unnamed 004F" output="⑤"/>
+			<when state="unnamed 0050" output=" "/>
+			<when state="unnamed 0051" output="₅"/>
+			<when state="unnamed 0052" output="⁵"/>
+			<when state="unnamed 0053" output="➤"/>
+			<when state="unnamed 0054" output="⑮"/>
+			<when state="unnamed 0061" output="ɑ"/>
+			<when state="unnamed 0062" output="β"/>
+			<when state="unnamed 0063" output="ç"/>
+			<when state="unnamed 0064" output="ð"/>
+			<when state="unnamed 0065" output="ɛ"/>
+			<when state="unnamed 0066" output="ʘ"/>
+			<when state="unnamed 0067" output="ɣ"/>
+			<when state="unnamed 0068" output="ꟸ"/>
+			<when state="unnamed 0069" output="ɩ"/>
+			<when state="unnamed 006C" output="λ"/>
+			<when state="unnamed 006E" output="ɳ"/>
+			<when state="unnamed 006F" output="ɷ"/>
+			<when state="unnamed 0071" output="ʔ"/>
+			<when state="unnamed 0072" output="ʁ"/>
+			<when state="unnamed 0074" output="θ"/>
+			<when state="unnamed 0075" output="ʊ"/>
+			<when state="unnamed 0076" output="ʋ"/>
+			<when state="unnamed 0078" output="χ"/>
+			<when state="unnamed 0079" output="ʊ"/>
+			<when state="unnamed 007A" output="ʒ"/>
+			<when state="unnamed 02BC" output="⅝"/>
+		</action>
+		<action id="6">
+			<when state="none" output="6"/>
+			<when state="CARON (HACEK)" output="₆"/>
+			<when state="CIRCUMFLEX ACCENT" output="⁶"/>
+			<when state="CROSS ACCENT" output="⁄"/>
+			<when state="MINUS ACCENT" output="➤"/>
+			<when state="RING ABOVE" output="⑥"/>
+			<when state="unnamed 0045" output="ʺ"/>
+			<when state="unnamed 0046" output="꞉"/>
+			<when state="unnamed 004D" output="⅝"/>
+			<when state="unnamed 004F" output="⑥"/>
+			<when state="unnamed 0050" output=" "/>
+			<when state="unnamed 0051" output="₆"/>
+			<when state="unnamed 0052" output="⁶"/>
+			<when state="unnamed 0053" output="⮚"/>
+			<when state="unnamed 0054" output="⑯"/>
+			<when state="unnamed 0061" output="ɒ"/>
+			<when state="unnamed 0062" output="ꞵ"/>
+			<when state="unnamed 0063" output="ʗ"/>
+			<when state="unnamed 0064" output="ɖ"/>
+			<when state="unnamed 0065" output="ɜ"/>
+			<when state="unnamed 0067" output="ɡ"/>
+			<when state="unnamed 0068" output="ɧ"/>
+			<when state="unnamed 006A" output="ʝ"/>
+			<when state="unnamed 006C" output="ɭ"/>
+			<when state="unnamed 006D" output="ɱ"/>
+			<when state="unnamed 006E" output="ŋ"/>
+			<when state="unnamed 006F" output="ɔ"/>
+			<when state="unnamed 0071" output="ʕ"/>
+			<when state="unnamed 0072" output="ɽ"/>
+			<when state="unnamed 0073" output="ʃ"/>
+			<when state="unnamed 0074" output="ʈ"/>
+			<when state="unnamed 007A" output="ʐ"/>
+		</action>
+		<action id="7">
+			<when state="none" output="7"/>
+			<when state="CARON (HACEK)" output="₇"/>
+			<when state="CIRCUMFLEX ACCENT" output="⁷"/>
+			<when state="CROSS ACCENT" output="⌀"/>
+			<when state="MINUS ACCENT" output="⮚"/>
+			<when state="RING ABOVE" output="⑦"/>
+			<when state="unnamed 0045" output="ʻ"/>
+			<when state="unnamed 0046" output="꞊"/>
+			<when state="unnamed 004D" output="⅞"/>
+			<when state="unnamed 004F" output="⑦"/>
+			<when state="unnamed 0050" output="​"/>
+			<when state="unnamed 0051" output="₇"/>
+			<when state="unnamed 0052" output="⁷"/>
+			<when state="unnamed 0053" output="➔"/>
+			<when state="unnamed 0054" output="⑰"/>
+			<when state="unnamed 0064" output="ʣ"/>
+			<when state="unnamed 0065" output="ɞ"/>
+			<when state="unnamed 0066" output="ɸ"/>
+			<when state="unnamed 0067" output="ʛ"/>
+			<when state="unnamed 0068" output="ħ"/>
+			<when state="unnamed 0069" output="ɨ"/>
+			<when state="unnamed 006A" output="ɟ"/>
+			<when state="unnamed 006C" output="ɫ"/>
+			<when state="unnamed 006E" output="ƞ"/>
+			<when state="unnamed 006F" output="ɵ"/>
+			<when state="unnamed 0071" output="ʡ"/>
+			<when state="unnamed 0072" output="ɻ"/>
+			<when state="unnamed 0073" output="ʂ"/>
+			<when state="unnamed 0074" output="ƫ"/>
+			<when state="unnamed 0075" output="ʉ"/>
+			<when state="unnamed 0078" output="ʦ"/>
+			<when state="unnamed 007A" output="ƻ"/>
+			<when state="unnamed 02BC" output="⅞"/>
+		</action>
+		<action id="8">
+			<when state="none" output="8"/>
+			<when state="CARON (HACEK)" output="₈"/>
+			<when state="CIRCUMFLEX ACCENT" output="⁸"/>
+			<when state="CROSS ACCENT" output="⟨"/>
+			<when state="MINUS ACCENT" output="✗"/>
+			<when state="RING ABOVE" output="⑧"/>
+			<when state="unnamed 0045" output="ʼ"/>
+			<when state="unnamed 0046" output="ᵊ"/>
+			<when state="unnamed 004D" output="⅓"/>
+			<when state="unnamed 004F" output="⑧"/>
+			<when state="unnamed 0050" output="͏"/>
+			<when state="unnamed 0051" output="₈"/>
+			<when state="unnamed 0052" output="⁸"/>
+			<when state="unnamed 0053" output="➜"/>
+			<when state="unnamed 0054" output="⑱"/>
+			<when state="unnamed 0062" output="["/>
+			<when state="unnamed 0063" output="ɕ"/>
+			<when state="unnamed 0064" output="ʤ"/>
+			<when state="unnamed 0065" output="ʚ"/>
+			<when state="unnamed 0067" output="ɤ"/>
+			<when state="unnamed 0068" output="ʮ"/>
+			<when state="unnamed 0069" output="ˑ"/>
+			<when state="unnamed 006A" output="ʄ"/>
+			<when state="unnamed 006C" output="ȴ"/>
+			<when state="unnamed 006D" output="ɰ"/>
+			<when state="unnamed 006E" output="ȵ"/>
+			<when state="unnamed 006F" output="ø"/>
+			<when state="unnamed 0071" output="ʢ"/>
+			<when state="unnamed 0072" output="ɺ"/>
+			<when state="unnamed 0073" output="ʆ"/>
+			<when state="unnamed 0074" output="ȶ"/>
+			<when state="unnamed 0075" output="ˌ"/>
+			<when state="unnamed 0076" output="|"/>
+			<when state="unnamed 0078" output="ʧ"/>
+			<when state="unnamed 007A" output="ʑ"/>
+		</action>
+		<action id="9">
+			<when state="none" output="9"/>
+			<when state="CARON (HACEK)" output="₉"/>
+			<when state="CIRCUMFLEX ACCENT" output="⁹"/>
+			<when state="CROSS ACCENT" output="⟩"/>
+			<when state="MINUS ACCENT" output="✘"/>
+			<when state="RING ABOVE" output="⑨"/>
+			<when state="unnamed 0045" output="ʿ"/>
+			<when state="unnamed 0046" output="ˁ"/>
+			<when state="unnamed 004D" output="⅔"/>
+			<when state="unnamed 004F" output="⑨"/>
+			<when state="unnamed 0050" output="‍"/>
+			<when state="unnamed 0051" output="₉"/>
+			<when state="unnamed 0052" output="⁹"/>
+			<when state="unnamed 0053" output="✔"/>
+			<when state="unnamed 0054" output="⑲"/>
+			<when state="unnamed 0061" output="æ"/>
+			<when state="unnamed 0062" output="]"/>
+			<when state="unnamed 0064" output="ʥ"/>
+			<when state="unnamed 0065" output="ɘ"/>
+			<when state="unnamed 0067" output="ˠ"/>
+			<when state="unnamed 0068" output="ʯ"/>
+			<when state="unnamed 0069" output="ː"/>
+			<when state="unnamed 006A" output="‿"/>
+			<when state="unnamed 006C" output="ɮ"/>
+			<when state="unnamed 006E" output="ɲ"/>
+			<when state="unnamed 006F" output="œ"/>
+			<when state="unnamed 0071" output="ʖ"/>
+			<when state="unnamed 0072" output="ɼ"/>
+			<when state="unnamed 0074" output="ᶿ"/>
+			<when state="unnamed 0075" output="ˈ"/>
+			<when state="unnamed 0076" output="‖"/>
+			<when state="unnamed 0078" output="ʨ"/>
+			<when state="unnamed 007A" output="ʓ"/>
+		</action>
+		<action id=":">
+			<when state="none" output=":"/>
+			<when state="CROSS ACCENT" output="✓"/>
+			<when state="DOUBLE ACUTE ACCENT" output="ː"/>
+			<when state="MINUS ACCENT" output="÷"/>
+			<when state="RING ABOVE" output="∶"/>
+		</action>
+		<action id=";">
+			<when state="none" output=";"/>
+			<when state="CROSS ACCENT" output="♥"/>
+			<when state="MINUS ACCENT" output="□"/>
+			<when state="RING ABOVE" output="⇌"/>
+		</action>
+		<action id="&#x003C;">
+			<when state="none" output="&#x003C;"/>
+			<when state="CARON (HACEK)" output="͔"/>
+			<when state="CIRCUMFLEX ACCENT" output="᷾"/>
+			<when state="CROSS ACCENT" output="≤"/>
+			<when state="MACRON BELOW" output="≤"/>
+			<when state="MINUS ACCENT" output="☙"/>
+			<when state="RING ABOVE" output="≪"/>
+		</action>
+		<action id="=">
+			<when state="none" output="="/>
+			<when state="CARON (HACEK)" output="₌"/>
+			<when state="CIRCUMFLEX ACCENT" output="≙"/>
+			<when state="COMMA BELOW" output="⸗"/>
+			<when state="CROSS ACCENT" output="∅"/>
+			<when state="MACRON (LONGUM)" output="≡"/>
+			<when state="MACRON BELOW" output="≡"/>
+			<when state="MINUS ACCENT" output="❦"/>
+			<when state="RING ABOVE" output="≝"/>
+			<when state="TILDE" output="≅"/>
+		</action>
+		<action id="&#x003E;">
+			<when state="none" output="&#x003E;"/>
+			<when state="CARON (HACEK)" output="͕"/>
+			<when state="CIRCUMFLEX ACCENT" output="͐"/>
+			<when state="CROSS ACCENT" output="≥"/>
+			<when state="MACRON BELOW" output="≥"/>
+			<when state="MINUS ACCENT" output="❧"/>
+			<when state="RING ABOVE" output="≫"/>
+		</action>
+		<action id="?">
+			<when state="none" output="?"/>
+			<when state="COMMA BELOW" output="⸮"/>
+			<when state="CROSS ACCENT" output="¬"/>
+			<when state="MINUS ACCENT" output="�"/>
+		</action>
+		<action id="A">
+			<when state="none" output="A"/>
+			<when state="ACUTE ACCENT" output="Á"/>
+			<when state="BREVE" output="Ă"/>
+			<when state="CARON (HACEK)" output="Ǎ"/>
+			<when state="CIRCUMFLEX ACCENT" output="Â"/>
+			<when state="DOT ABOVE" output="Ȧ"/>
+			<when state="DOT BELOW" output="Ạ"/>
+			<when state="GRAVE ACCENT" output="À"/>
+			<when state="MACRON (LONGUM)" output="Ā"/>
+			<when state="OGONEK" output="Ą"/>
+			<when state="RING ABOVE" output="Å"/>
+			<when state="TILDE" output="Ã"/>
+			<when state="TREMA" output="Ä"/>
+			<when state="unnamed 0041" output="̦"/>
+			<when state="unnamed 0045" output="Æ"/>
+			<when state="unnamed 0046" output="Ɑ"/>
+			<when state="unnamed 0047" output="Α"/>
+			<when state="unnamed 004A" output="̪"/>
+			<when state="unnamed 004D" output="ℵ"/>
+			<when state="unnamed 004F" output="Ⓐ"/>
+			<when state="unnamed 0050" output="∗"/>
+			<when state="unnamed 0051" output="ᴀ"/>
+			<when state="unnamed 0052" output="ᴬ"/>
+			<when state="unnamed 0053" output="▣"/>
+			<when state="unnamed 0054" output="♀"/>
+			<when state="unnamed 0056" output="⸴"/>
+			<when state="unnamed 0057" output=","/>
+			<when state="unnamed 0058" output="Ⱥ"/>
+			<when state="unnamed 0059" output="Ͼ"/>
+			<when state="unnamed 01DF" output="Ǟ"/>
+			<when state="unnamed 01E1" output="Ǡ"/>
+			<when state="unnamed 01FB" output="Ǻ"/>
+			<when state="unnamed 02B0" output="ᴬ"/>
+			<when state="unnamed 02BC" output="Α"/>
+			<when state="unnamed 02C0" output="Ả"/>
+			<when state="unnamed 03FE" next="unnamed 0041"/>
+			<when state="unnamed 0531" output="Ấ"/>
+			<when state="unnamed 0532" output="Ầ"/>
+			<when state="unnamed 0533" output="Ẩ"/>
+			<when state="unnamed 0534" output="Ẫ"/>
+			<when state="unnamed 0535" output="Ậ"/>
+			<when state="unnamed 0536" output="Ắ"/>
+			<when state="unnamed 0537" output="Ằ"/>
+			<when state="unnamed 0538" output="Ẳ"/>
+			<when state="unnamed 0539" output="Ẵ"/>
+			<when state="unnamed 053A" output="Ặ"/>
+			<when state="unnamed 0543" output="Ά"/>
+			<when state="unnamed 054C" output="Ⓐ"/>
+		</action>
+		<action id="B">
+			<when state="none" output="B"/>
+			<when state="COMMA BELOW" output="Ꜣ"/>
+			<when state="CROSS ACCENT" output="’"/>
+			<when state="DOT ABOVE" output="Ḃ"/>
+			<when state="DOT BELOW" output="Ḅ"/>
+			<when state="MACRON BELOW" output="Ḇ"/>
+			<when state="MINUS ACCENT" output="Ƀ"/>
+			<when state="RING ABOVE" output="⇎"/>
+			<when state="unnamed 0041" output="̵"/>
+			<when state="unnamed 0042" output="Ꞗ"/>
+			<when state="unnamed 0043" output="₿"/>
+			<when state="unnamed 0045" output="Ꞵ"/>
+			<when state="unnamed 0046" output="Ƃ"/>
+			<when state="unnamed 0047" output="Β"/>
+			<when state="unnamed 0048" output="Ɓ"/>
+			<when state="unnamed 004A" output="̴"/>
+			<when state="unnamed 004D" output="⇎"/>
+			<when state="unnamed 004F" output="Ⓑ"/>
+			<when state="unnamed 0050" output="―"/>
+			<when state="unnamed 0051" output="ʙ"/>
+			<when state="unnamed 0052" output="ᴮ"/>
+			<when state="unnamed 0053" output="▽"/>
+			<when state="unnamed 0054" output="♯"/>
+			<when state="unnamed 0056" output="⹂"/>
+			<when state="unnamed 0059" output="῾"/>
+			<when state="unnamed 005A" output="Ƀ"/>
+			<when state="unnamed 02B0" output="ᴮ"/>
+			<when state="unnamed 02BC" output="Β"/>
+			<when state="unnamed 03FE" next="unnamed 0042"/>
+			<when state="unnamed 054C" output="Ⓑ"/>
+		</action>
+		<action id="C">
+			<when state="none" output="C"/>
+			<when state="ACUTE ACCENT" output="Ć"/>
+			<when state="BREVE" output="Ƈ"/>
+			<when state="CARON (HACEK)" output="Č"/>
+			<when state="CEDILLA" output="Ç"/>
+			<when state="CIRCUMFLEX ACCENT" output="Ĉ"/>
+			<when state="COMMA BELOW" output="Ꜥ"/>
+			<when state="CROSS ACCENT" output="©"/>
+			<when state="DOT ABOVE" output="Ċ"/>
+			<when state="MINUS ACCENT" output="Ꞓ"/>
+			<when state="RING ABOVE" output="ℂ"/>
+			<when state="unnamed 0041" output="̷"/>
+			<when state="unnamed 0042" output="Ꞔ"/>
+			<when state="unnamed 0043" output="₵"/>
+			<when state="unnamed 0045" output="Ꞌ"/>
+			<when state="unnamed 0047" output="Ψ"/>
+			<when state="unnamed 0048" output="Ƈ"/>
+			<when state="unnamed 004A" output="̢"/>
+			<when state="unnamed 004D" output="ℂ"/>
+			<when state="unnamed 004F" output="Ⓒ"/>
+			<when state="unnamed 0050" output="‐"/>
+			<when state="unnamed 0051" output="ᴄ"/>
+			<when state="unnamed 0052" output="ꟲ"/>
+			<when state="unnamed 0053" output="◦"/>
+			<when state="unnamed 0054" output="©"/>
+			<when state="unnamed 0056" output="⁏"/>
+			<when state="unnamed 0057" output="⸩"/>
+			<when state="unnamed 0058" output="Ȼ"/>
+			<when state="unnamed 0059" output="Ϛ"/>
+			<when state="unnamed 005A" output="Ꞓ"/>
+			<when state="unnamed 02B0" output="ꟲ"/>
+			<when state="unnamed 02BC" output="Ψ"/>
+			<when state="unnamed 03FE" next="unnamed 0043"/>
+			<when state="unnamed 053C" output="Ḉ"/>
+			<when state="unnamed 054C" output="Ⓒ"/>
+		</action>
+		<action id="D">
+			<when state="none" output="D"/>
+			<when state="CARON (HACEK)" output="Ď"/>
+			<when state="CEDILLA" output="Ḑ"/>
+			<when state="CROSS ACCENT" output="Ð"/>
+			<when state="DOT ABOVE" output="Ḋ"/>
+			<when state="DOT BELOW" output="Ḍ"/>
+			<when state="MACRON BELOW" output="Ḏ"/>
+			<when state="MINUS ACCENT" output="Đ"/>
+			<when state="RING ABOVE" output="∆"/>
+			<when state="unnamed 0041" output="̸"/>
+			<when state="unnamed 0042" output="Ɖ"/>
+			<when state="unnamed 0043" output="֏"/>
+			<when state="unnamed 0045" output="Ð"/>
+			<when state="unnamed 0046" output="ƌ"/>
+			<when state="unnamed 0047" output="Δ"/>
+			<when state="unnamed 0048" output="Ɗ"/>
+			<when state="unnamed 004A" output="̬"/>
+			<when state="unnamed 004D" output="∆"/>
+			<when state="unnamed 004F" output="Ⓓ"/>
+			<when state="unnamed 0050" output="‶"/>
+			<when state="unnamed 0051" output="ᴅ"/>
+			<when state="unnamed 0052" output="ᴰ"/>
+			<when state="unnamed 0053" output="◉"/>
+			<when state="unnamed 0054" output="↵"/>
+			<when state="unnamed 0056" output="⌐"/>
+			<when state="unnamed 0059" output="Ͽ"/>
+			<when state="unnamed 005A" output="Đ"/>
+			<when state="unnamed 02B0" output="ᴰ"/>
+			<when state="unnamed 02BC" output="Δ"/>
+			<when state="unnamed 054B" output="Ḓ"/>
+			<when state="unnamed 054C" output="Ⓓ"/>
+		</action>
+		<action id="E">
+			<when state="none" output="E"/>
+			<when state="ACUTE ACCENT" output="É"/>
+			<when state="BREVE" output="Ĕ"/>
+			<when state="CARON (HACEK)" output="Ě"/>
+			<when state="CEDILLA" output="Ȩ"/>
+			<when state="CIRCUMFLEX ACCENT" output="Ê"/>
+			<when state="CROSS ACCENT" output="Ə"/>
+			<when state="DOT ABOVE" output="Ė"/>
+			<when state="DOT BELOW" output="Ẹ"/>
+			<when state="GRAVE ACCENT" output="È"/>
+			<when state="MACRON (LONGUM)" output="Ē"/>
+			<when state="OGONEK" output="Ę"/>
+			<when state="RING ABOVE" output="∄"/>
+			<when state="TILDE" output="Ẽ"/>
+			<when state="TREMA" output="Ë"/>
+			<when state="unnamed 0041" output="̤"/>
+			<when state="unnamed 0043" output="₠"/>
+			<when state="unnamed 0045" output="Ə"/>
+			<when state="unnamed 0046" output="Ǝ"/>
+			<when state="unnamed 0047" output="Ε"/>
+			<when state="unnamed 0048" output="Ɛ"/>
+			<when state="unnamed 004A" output="̤"/>
+			<when state="unnamed 004D" output="∄"/>
+			<when state="unnamed 004F" output="Ⓔ"/>
+			<when state="unnamed 0050" output="⸘"/>
+			<when state="unnamed 0051" output="ᴇ"/>
+			<when state="unnamed 0052" output="ᴱ"/>
+			<when state="unnamed 0053" output="○"/>
+			<when state="unnamed 0054" output="⑳"/>
+			<when state="unnamed 0056" output="‥"/>
+			<when state="unnamed 0058" output="Ɇ"/>
+			<when state="unnamed 0059" output="⁙"/>
+			<when state="unnamed 02B0" output="ᴱ"/>
+			<when state="unnamed 02BC" output="Ε"/>
+			<when state="unnamed 02C0" output="Ẻ"/>
+			<when state="unnamed 03FE" next="unnamed 0045"/>
+			<when state="unnamed 0531" output="Ế"/>
+			<when state="unnamed 0532" output="Ề"/>
+			<when state="unnamed 0533" output="Ể"/>
+			<when state="unnamed 0534" output="Ễ"/>
+			<when state="unnamed 0535" output="Ệ"/>
+			<when state="unnamed 053B" output="Ḗ"/>
+			<when state="unnamed 053D" output="Ḝ"/>
+			<when state="unnamed 0542" output="Ḕ"/>
+			<when state="unnamed 0543" output="Έ"/>
+			<when state="unnamed 054B" output="Ḙ"/>
+			<when state="unnamed 054C" output="Ⓔ"/>
+		</action>
+		<action id="F">
+			<when state="none" output="F"/>
+			<when state="COMMA BELOW" output="Ƒ"/>
+			<when state="DOT ABOVE" output="Ḟ"/>
+			<when state="MINUS ACCENT" output="Ꞙ"/>
+			<when state="RING ABOVE" output="∴"/>
+			<when state="unnamed 0041" output="҃"/>
+			<when state="unnamed 0042" output="Ƒ"/>
+			<when state="unnamed 0043" output="₣"/>
+			<when state="unnamed 0045" output="ʕ"/>
+			<when state="unnamed 0047" output="Φ"/>
+			<when state="unnamed 004A" output="̜"/>
+			<when state="unnamed 004D" output="∴"/>
+			<when state="unnamed 004F" output="Ⓕ"/>
+			<when state="unnamed 0050" output="⁊"/>
+			<when state="unnamed 0051" output="ꜰ"/>
+			<when state="unnamed 0052" output="ꟳ"/>
+			<when state="unnamed 0053" output="↗"/>
+			<when state="unnamed 0054" output="⁄"/>
+			<when state="unnamed 0056" output="ꜗ"/>
+			<when state="unnamed 0059" output="᾽"/>
+			<when state="unnamed 005A" output="Ꞙ"/>
+			<when state="unnamed 02B0" output="ꟳ"/>
+			<when state="unnamed 02BC" output="Φ"/>
+			<when state="unnamed 03FE" next="unnamed 0046"/>
+			<when state="unnamed 054C" output="Ⓕ"/>
+		</action>
+		<action id="G">
+			<when state="none" output="G"/>
+			<when state="ACUTE ACCENT" output="Ǵ"/>
+			<when state="BREVE" output="Ğ"/>
+			<when state="CARON (HACEK)" output="Ǧ"/>
+			<when state="CEDILLA" output="Ģ"/>
+			<when state="CIRCUMFLEX ACCENT" output="Ĝ"/>
+			<when state="COMMA BELOW" output="Ģ"/>
+			<when state="CROSS ACCENT" output="☛"/>
+			<when state="DOT ABOVE" output="Ġ"/>
+			<when state="MACRON (LONGUM)" output="Ḡ"/>
+			<when state="MINUS ACCENT" output="Ǥ"/>
+			<when state="RING ABOVE" output="⊄"/>
+			<when state="unnamed 0041" output="҆"/>
+			<when state="unnamed 0043" output="₾"/>
+			<when state="unnamed 0046" output="Ɣ"/>
+			<when state="unnamed 0047" output="Γ"/>
+			<when state="unnamed 0048" output="Ɠ"/>
+			<when state="unnamed 004A" output="̹"/>
+			<when state="unnamed 004D" output="⊇"/>
+			<when state="unnamed 004F" output="Ⓖ"/>
+			<when state="unnamed 0050" output="‚"/>
+			<when state="unnamed 0051" output="ɢ"/>
+			<when state="unnamed 0052" output="ᴳ"/>
+			<when state="unnamed 0053" output="↘"/>
+			<when state="unnamed 0054" output="∕"/>
+			<when state="unnamed 0056" output="ꜘ"/>
+			<when state="unnamed 0058" output="Ꞡ"/>
+			<when state="unnamed 0059" output="Ͷ"/>
+			<when state="unnamed 005A" output="Ǥ"/>
+			<when state="unnamed 02B0" output="ᴳ"/>
+			<when state="unnamed 02BC" output="Γ"/>
+			<when state="unnamed 03FE" next="unnamed 0047"/>
+			<when state="unnamed 054C" output="Ⓖ"/>
+		</action>
+		<action id="H">
+			<when state="none" output="H"/>
+			<when state="BREVE" output="Ḫ"/>
+			<when state="CARON (HACEK)" output="Ȟ"/>
+			<when state="CEDILLA" output="Ḩ"/>
+			<when state="CIRCUMFLEX ACCENT" output="Ĥ"/>
+			<when state="COMMA BELOW" output="Ƕ"/>
+			<when state="CROSS ACCENT" output="☚"/>
+			<when state="DOT ABOVE" output="Ḣ"/>
+			<when state="DOT BELOW" output="Ḥ"/>
+			<when state="MINUS ACCENT" output="Ħ"/>
+			<when state="RING ABOVE" output="ℏ"/>
+			<when state="TREMA" output="Ḧ"/>
+			<when state="unnamed 0041" output="҅"/>
+			<when state="unnamed 0042" output="Ꜧ"/>
+			<when state="unnamed 0043" output="₤"/>
+			<when state="unnamed 0045" output="Ƕ"/>
+			<when state="unnamed 0046" output="Ɥ"/>
+			<when state="unnamed 0047" output="Η"/>
+			<when state="unnamed 0048" output="Ɦ"/>
+			<when state="unnamed 004A" output="̙"/>
+			<when state="unnamed 004D" output="ℏ"/>
+			<when state="unnamed 004F" output="Ⓗ"/>
+			<when state="unnamed 0050" output="‘"/>
+			<when state="unnamed 0051" output="ʜ"/>
+			<when state="unnamed 0052" output="ᴴ"/>
+			<when state="unnamed 0053" output="❧"/>
+			<when state="unnamed 0054" output="∠"/>
+			<when state="unnamed 0056" output="ꜙ"/>
+			<when state="unnamed 0057" output="{"/>
+			<when state="unnamed 0059" output="Ͱ"/>
+			<when state="unnamed 005A" output="Ħ"/>
+			<when state="unnamed 02B0" output="ᴴ"/>
+			<when state="unnamed 02BC" output="Η"/>
+			<when state="unnamed 03FE" next="unnamed 0048"/>
+			<when state="unnamed 0543" output="Ή"/>
+			<when state="unnamed 054C" output="Ⓗ"/>
+		</action>
+		<action id="I">
+			<when state="none" output="I"/>
+			<when state="ACUTE ACCENT" output="Í"/>
+			<when state="BREVE" output="Ĭ"/>
+			<when state="CARON (HACEK)" output="Ǐ"/>
+			<when state="CIRCUMFLEX ACCENT" output="Î"/>
+			<when state="COMMA BELOW" output="Ꞽ"/>
+			<when state="CROSS ACCENT" output="⚥"/>
+			<when state="DOT ABOVE" output="İ"/>
+			<when state="DOT BELOW" output="Ị"/>
+			<when state="GRAVE ACCENT" output="Ì"/>
+			<when state="MACRON (LONGUM)" output="Ī"/>
+			<when state="MINUS ACCENT" output="Ɨ"/>
+			<when state="OGONEK" output="Į"/>
+			<when state="RING ABOVE" output="∝"/>
+			<when state="TILDE" output="Ĩ"/>
+			<when state="TREMA" output="Ï"/>
+			<when state="unnamed 0041" output="̭"/>
+			<when state="unnamed 0042" output="Ɩ"/>
+			<when state="unnamed 0045" output="İ"/>
+			<when state="unnamed 0046" output="Ɪ"/>
+			<when state="unnamed 0047" output="Ι"/>
+			<when state="unnamed 0048" output="Ꞽ"/>
+			<when state="unnamed 004A" output="̞"/>
+			<when state="unnamed 004D" output="∝"/>
+			<when state="unnamed 004F" output="Ⓘ"/>
+			<when state="unnamed 0050" output="⸗"/>
+			<when state="unnamed 0051" output="ɪ"/>
+			<when state="unnamed 0052" output="ᴵ"/>
+			<when state="unnamed 0053" output="↨"/>
+			<when state="unnamed 0054" output="∼"/>
+			<when state="unnamed 0056" output="ꞈ"/>
+			<when state="unnamed 0057" output="˕"/>
+			<when state="unnamed 0059" output="͵"/>
+			<when state="unnamed 005A" output="Ɨ"/>
+			<when state="unnamed 02B0" output="ᴵ"/>
+			<when state="unnamed 02BC" output="Ι"/>
+			<when state="unnamed 02C0" output="Ỉ"/>
+			<when state="unnamed 03CA" output="Ϊ"/>
+			<when state="unnamed 053E" output="Ḯ"/>
+			<when state="unnamed 0543" output="Ί"/>
+			<when state="unnamed 054C" output="Ⓘ"/>
+		</action>
+		<action id="J">
+			<when state="none" output="J"/>
+			<when state="BREVE" output="Ĳ"/>
+			<when state="CIRCUMFLEX ACCENT" output="Ĵ"/>
+			<when state="CROSS ACCENT" output="ʺ"/>
+			<when state="MINUS ACCENT" output="Ɉ"/>
+			<when state="RING ABOVE" output="⊅"/>
+			<when state="unnamed 0041" output="҄"/>
+			<when state="unnamed 0043" output="₯"/>
+			<when state="unnamed 0045" output="Ȝ"/>
+			<when state="unnamed 0046" output="Ʝ"/>
+			<when state="unnamed 0047" output="Ξ"/>
+			<when state="unnamed 0048" output="Ĳ"/>
+			<when state="unnamed 004A" output="̘"/>
+			<when state="unnamed 004D" output="⊄"/>
+			<when state="unnamed 004F" output="Ⓙ"/>
+			<when state="unnamed 0050" output="’"/>
+			<when state="unnamed 0051" output="ᴊ"/>
+			<when state="unnamed 0052" output="ᴶ"/>
+			<when state="unnamed 0053" output="☙"/>
+			<when state="unnamed 0054" output="∡"/>
+			<when state="unnamed 0056" output="ꜚ"/>
+			<when state="unnamed 0057" output="}"/>
+			<when state="unnamed 0059" output="Ϳ"/>
+			<when state="unnamed 005A" output="Ɉ"/>
+			<when state="unnamed 02B0" output="ᴶ"/>
+			<when state="unnamed 02BC" output="Ξ"/>
+			<when state="unnamed 03FE" next="unnamed 004A"/>
+			<when state="unnamed 054C" output="Ⓙ"/>
+		</action>
+		<action id="K">
+			<when state="none" output="K"/>
+			<when state="ACUTE ACCENT" output="Ḱ"/>
+			<when state="CARON (HACEK)" output="Ǩ"/>
+			<when state="CEDILLA" output="Ķ"/>
+			<when state="COMMA BELOW" output="Ķ"/>
+			<when state="DOT BELOW" output="Ḳ"/>
+			<when state="MACRON BELOW" output="Ḵ"/>
+			<when state="MINUS ACCENT" output="Ꝁ"/>
+			<when state="RING ABOVE" output="⊇"/>
+			<when state="unnamed 0041" output="҇"/>
+			<when state="unnamed 0045" output="ʔ"/>
+			<when state="unnamed 0047" output="Κ"/>
+			<when state="unnamed 0048" output="Ƙ"/>
+			<when state="unnamed 004A" output="̯"/>
+			<when state="unnamed 004D" output="⊅"/>
+			<when state="unnamed 004F" output="Ⓚ"/>
+			<when state="unnamed 0050" output="‹"/>
+			<when state="unnamed 0051" output="ᴋ"/>
+			<when state="unnamed 0052" output="ᴷ"/>
+			<when state="unnamed 0053" output="❦"/>
+			<when state="unnamed 0054" output="∢"/>
+			<when state="unnamed 0056" output="ꜛ"/>
+			<when state="unnamed 0057" output="↗"/>
+			<when state="unnamed 0058" output="Ꞣ"/>
+			<when state="unnamed 0059" output="̓"/>
+			<when state="unnamed 005A" output="Ꝁ"/>
+			<when state="unnamed 02B0" output="ᴷ"/>
+			<when state="unnamed 02BC" output="Κ"/>
+			<when state="unnamed 054C" output="Ⓚ"/>
+		</action>
+		<action id="L">
+			<when state="none" output="L"/>
+			<when state="ACUTE ACCENT" output="Ĺ"/>
+			<when state="CARON (HACEK)" output="Ľ"/>
+			<when state="CEDILLA" output="Ļ"/>
+			<when state="COMMA BELOW" output="Ļ"/>
+			<when state="CROSS ACCENT" output="Ł"/>
+			<when state="DOT ABOVE" output="Ŀ"/>
+			<when state="DOT BELOW" output="Ḷ"/>
+			<when state="MACRON BELOW" output="Ḻ"/>
+			<when state="MINUS ACCENT" output="Ƚ"/>
+			<when state="RING ABOVE" output="∩"/>
+			<when state="unnamed 0041" output="͟"/>
+			<when state="unnamed 0042" output="Ɬ"/>
+			<when state="unnamed 0043" output="₺"/>
+			<when state="unnamed 0045" output="Ƛ"/>
+			<when state="unnamed 0046" output="Ⱡ"/>
+			<when state="unnamed 0047" output="Λ"/>
+			<when state="unnamed 0048" output="Ŀ"/>
+			<when state="unnamed 004A" output="̺"/>
+			<when state="unnamed 004D" output="∌"/>
+			<when state="unnamed 004F" output="Ⓛ"/>
+			<when state="unnamed 0050" output="›"/>
+			<when state="unnamed 0051" output="ʟ"/>
+			<when state="unnamed 0052" output="ᴸ"/>
+			<when state="unnamed 0053" output="✝"/>
+			<when state="unnamed 0054" output="∟"/>
+			<when state="unnamed 0056" output="ꜜ"/>
+			<when state="unnamed 0057" output="↘"/>
+			<when state="unnamed 0058" output="Ł"/>
+			<when state="unnamed 0059" output="΄"/>
+			<when state="unnamed 005A" output="Ƚ"/>
+			<when state="unnamed 02B0" output="ᴸ"/>
+			<when state="unnamed 02BC" output="Λ"/>
+			<when state="unnamed 053F" output="Ḹ"/>
+			<when state="unnamed 054B" output="Ḽ"/>
+			<when state="unnamed 054C" output="Ⓛ"/>
+		</action>
+		<action id="M">
+			<when state="none" output="M"/>
+			<when state="ACUTE ACCENT" output="Ḿ"/>
+			<when state="CROSS ACCENT" output="∗"/>
+			<when state="DOT ABOVE" output="Ṁ"/>
+			<when state="DOT BELOW" output="Ṃ"/>
+			<when state="RING ABOVE" output="⇏"/>
+			<when state="unnamed 0041" output="̲"/>
+			<when state="unnamed 0042" output="Ɱ"/>
+			<when state="unnamed 0043" output="₼"/>
+			<when state="unnamed 0045" output="Ƞ"/>
+			<when state="unnamed 0047" output="Μ"/>
+			<when state="unnamed 004A" output="̫"/>
+			<when state="unnamed 004D" output="⇏"/>
+			<when state="unnamed 004F" output="Ⓜ"/>
+			<when state="unnamed 0050" output="⸻"/>
+			<when state="unnamed 0051" output="ᴍ"/>
+			<when state="unnamed 0052" output="ᴹ"/>
+			<when state="unnamed 0053" output="◁"/>
+			<when state="unnamed 0054" output="Ω"/>
+			<when state="unnamed 0056" output="~"/>
+			<when state="unnamed 0059" output="Ϗ"/>
+			<when state="unnamed 02B0" output="ᴹ"/>
+			<when state="unnamed 02BC" output="Μ"/>
+			<when state="unnamed 03FE" next="unnamed 004D"/>
+			<when state="unnamed 054C" output="Ⓜ"/>
+		</action>
+		<action id="N">
+			<when state="none" output="N"/>
+			<when state="ACUTE ACCENT" output="Ń"/>
+			<when state="CARON (HACEK)" output="Ň"/>
+			<when state="CEDILLA" output="Ņ"/>
+			<when state="COMMA BELOW" output="Ņ"/>
+			<when state="CROSS ACCENT" output="Ŋ"/>
+			<when state="DOT ABOVE" output="Ṅ"/>
+			<when state="DOT BELOW" output="Ṇ"/>
+			<when state="GRAVE ACCENT" output="Ǹ"/>
+			<when state="MACRON BELOW" output="Ṉ"/>
+			<when state="RING ABOVE" output="ℕ"/>
+			<when state="TILDE" output="Ñ"/>
+			<when state="unnamed 0041" output="̱"/>
+			<when state="unnamed 0042" output="Ɲ"/>
+			<when state="unnamed 0043" output="₻"/>
+			<when state="unnamed 0045" output="Ŋ"/>
+			<when state="unnamed 0046" output="Ꞑ"/>
+			<when state="unnamed 0047" output="Ν"/>
+			<when state="unnamed 004D" output="ℕ"/>
+			<when state="unnamed 004F" output="Ⓝ"/>
+			<when state="unnamed 0050" output="⸺"/>
+			<when state="unnamed 0051" output="ɴ"/>
+			<when state="unnamed 0052" output="ᴺ"/>
+			<when state="unnamed 0053" output="▷"/>
+			<when state="unnamed 0054" output="№"/>
+			<when state="unnamed 0056" output="ˍ"/>
+			<when state="unnamed 0058" output="Ꞥ"/>
+			<when state="unnamed 0059" output="Ϸ"/>
+			<when state="unnamed 02B0" output="ᴺ"/>
+			<when state="unnamed 02BC" output="Ν"/>
+			<when state="unnamed 054B" output="Ṋ"/>
+			<when state="unnamed 054C" output="Ⓝ"/>
+		</action>
+		<action id="O">
+			<when state="none" output="O"/>
+			<when state="ACUTE ACCENT" output="Ó"/>
+			<when state="BREVE" output="Ŏ"/>
+			<when state="CARON (HACEK)" output="Ǒ"/>
+			<when state="CIRCUMFLEX ACCENT" output="Ô"/>
+			<when state="CROSS ACCENT" output="Ø"/>
+			<when state="DOT ABOVE" output="Ȯ"/>
+			<when state="DOT BELOW" output="Ọ"/>
+			<when state="DOUBLE ACUTE ACCENT" output="Ő"/>
+			<when state="GRAVE ACCENT" output="Ò"/>
+			<when state="MACRON (LONGUM)" output="Ō"/>
+			<when state="MINUS ACCENT" output="Ɵ"/>
+			<when state="OGONEK" output="Ǫ"/>
+			<when state="RING ABOVE" output="∠"/>
+			<when state="TILDE" output="Õ"/>
+			<when state="TREMA" output="Ö"/>
+			<when state="unnamed 0041" output="̧"/>
+			<when state="unnamed 0045" output="Œ"/>
+			<when state="unnamed 0046" output="Ɔ"/>
+			<when state="unnamed 0047" output="Ο"/>
+			<when state="unnamed 004A" output="̝"/>
+			<when state="unnamed 004D" output="∉"/>
+			<when state="unnamed 004F" output="Ⓞ"/>
+			<when state="unnamed 0050" output="‛"/>
+			<when state="unnamed 0051" output="ᴏ"/>
+			<when state="unnamed 0052" output="ᴼ"/>
+			<when state="unnamed 0053" output="☹"/>
+			<when state="unnamed 0054" output="♂"/>
+			<when state="unnamed 0056" output="¸"/>
+			<when state="unnamed 0057" output="˔"/>
+			<when state="unnamed 0058" output="Ø"/>
+			<when state="unnamed 0059" output="Ͻ"/>
+			<when state="unnamed 005A" output="Ɵ"/>
+			<when state="unnamed 01DF" output="Ȫ"/>
+			<when state="unnamed 01E1" output="Ȱ"/>
+			<when state="unnamed 01ED" output="Ǭ"/>
+			<when state="unnamed 01FF" output="Ǿ"/>
+			<when state="unnamed 022D" output="Ȭ"/>
+			<when state="unnamed 02B0" output="ᴼ"/>
+			<when state="unnamed 02BC" output="Ơ"/>
+			<when state="unnamed 02C0" output="Ỏ"/>
+			<when state="unnamed 03FE" next="unnamed 004F"/>
+			<when state="unnamed 0531" output="Ố"/>
+			<when state="unnamed 0532" output="Ồ"/>
+			<when state="unnamed 0533" output="Ổ"/>
+			<when state="unnamed 0534" output="Ỗ"/>
+			<when state="unnamed 0535" output="Ộ"/>
+			<when state="unnamed 053B" output="Ṓ"/>
+			<when state="unnamed 0540" output="Ṍ"/>
+			<when state="unnamed 0541" output="Ṏ"/>
+			<when state="unnamed 0542" output="Ṑ"/>
+			<when state="unnamed 0543" output="Ớ"/>
+			<when state="unnamed 0544" output="Ờ"/>
+			<when state="unnamed 0545" output="Ở"/>
+			<when state="unnamed 0546" output="Ỡ"/>
+			<when state="unnamed 0547" output="Ợ"/>
+			<when state="unnamed 054C" output="Ⓞ"/>
+		</action>
+		<action id="P">
+			<when state="none" output="P"/>
+			<when state="ACUTE ACCENT" output="Ṕ"/>
+			<when state="CROSS ACCENT" output="←"/>
+			<when state="DOT ABOVE" output="Ṗ"/>
+			<when state="MINUS ACCENT" output="Ᵽ"/>
+			<when state="RING ABOVE" output="℗"/>
+			<when state="unnamed 0041" output="̥"/>
+			<when state="unnamed 0043" output="₱"/>
+			<when state="unnamed 0045" output="Ɂ"/>
+			<when state="unnamed 0047" output="Π"/>
+			<when state="unnamed 0048" output="Ƥ"/>
+			<when state="unnamed 004A" output="̥"/>
+			<when state="unnamed 004D" output="∏"/>
+			<when state="unnamed 004F" output="Ⓟ"/>
+			<when state="unnamed 0050" output="‟"/>
+			<when state="unnamed 0051" output="ᴘ"/>
+			<when state="unnamed 0052" output="ᴾ"/>
+			<when state="unnamed 0053" output="✗"/>
+			<when state="unnamed 0054" output="℗"/>
+			<when state="unnamed 0056" output="˳"/>
+			<when state="unnamed 0059" output="ʹ"/>
+			<when state="unnamed 005A" output="Ᵽ"/>
+			<when state="unnamed 02B0" output="ᴾ"/>
+			<when state="unnamed 02BC" output="Π"/>
+			<when state="unnamed 03FE" next="unnamed 0050"/>
+			<when state="unnamed 054C" output="Ⓟ"/>
+		</action>
+		<action id="Q">
+			<when state="none" output="Q"/>
+			<when state="COMMA BELOW" output="Ɂ"/>
+			<when state="CROSS ACCENT" output="♂"/>
+			<when state="RING ABOVE" output="ℚ"/>
+			<when state="unnamed 0041" output="͇"/>
+			<when state="unnamed 0042" output="Ɋ"/>
+			<when state="unnamed 0043" output="₧"/>
+			<when state="unnamed 0045" output="꟎"/>
+			<when state="unnamed 0046" output="Ƣ"/>
+			<when state="unnamed 0047" output="͂"/>
+			<when state="unnamed 0048" output="Ꜣ"/>
+			<when state="unnamed 004A" output="̗"/>
+			<when state="unnamed 004D" output="ℚ"/>
+			<when state="unnamed 004F" output="Ⓠ"/>
+			<when state="unnamed 0050" output="⸮"/>
+			<when state="unnamed 0051" output="ꞯ"/>
+			<when state="unnamed 0052" output="ꟴ"/>
+			<when state="unnamed 0053" output="□"/>
+			<when state="unnamed 0054" output="∶"/>
+			<when state="unnamed 0056" output="‗"/>
+			<when state="unnamed 0057" output="ˏ"/>
+			<when state="unnamed 0059" output="Ϙ"/>
+			<when state="unnamed 02B0" output="ꟴ"/>
+			<when state="unnamed 02BC" output="͂"/>
+			<when state="unnamed 03FE" next="unnamed 0051"/>
+			<when state="unnamed 054C" output="Ⓠ"/>
+		</action>
+		<action id="R">
+			<when state="none" output="R"/>
+			<when state="ACUTE ACCENT" output="Ŕ"/>
+			<when state="BREVE" output="Ȓ"/>
+			<when state="CARON (HACEK)" output="Ř"/>
+			<when state="CEDILLA" output="Ŗ"/>
+			<when state="COMMA BELOW" output="℞"/>
+			<when state="CROSS ACCENT" output="®"/>
+			<when state="DOT ABOVE" output="Ṙ"/>
+			<when state="DOT BELOW" output="Ṛ"/>
+			<when state="MACRON BELOW" output="Ṟ"/>
+			<when state="MINUS ACCENT" output="Ɍ"/>
+			<when state="RING ABOVE" output="ℝ"/>
+			<when state="unnamed 0041" output="̰"/>
+			<when state="unnamed 0042" output="Ɽ"/>
+			<when state="unnamed 0043" output="₽"/>
+			<when state="unnamed 0045" output="᷊"/>
+			<when state="unnamed 0046" output="Ꝛ"/>
+			<when state="unnamed 0047" output="Ρ"/>
+			<when state="unnamed 0048" output="Ʀ"/>
+			<when state="unnamed 004A" output="̰"/>
+			<when state="unnamed 004D" output="ℝ"/>
+			<when state="unnamed 004F" output="Ⓡ"/>
+			<when state="unnamed 0050" output="⟪"/>
+			<when state="unnamed 0051" output="ʀ"/>
+			<when state="unnamed 0052" output="ᴿ"/>
+			<when state="unnamed 0053" output="☞"/>
+			<when state="unnamed 0054" output="®"/>
+			<when state="unnamed 0056" output="˷"/>
+			<when state="unnamed 0058" output="Ꞧ"/>
+			<when state="unnamed 0059" output="ϼ"/>
+			<when state="unnamed 005A" output="Ɍ"/>
+			<when state="unnamed 02B0" output="ᴿ"/>
+			<when state="unnamed 02BC" output="Ρ"/>
+			<when state="unnamed 03FE" next="unnamed 0052"/>
+			<when state="unnamed 053F" output="Ṝ"/>
+			<when state="unnamed 054C" output="Ⓡ"/>
+		</action>
+		<action id="S">
+			<when state="none" output="S"/>
+			<when state="ACUTE ACCENT" output="Ś"/>
+			<when state="CARON (HACEK)" output="Š"/>
+			<when state="CEDILLA" output="Ş"/>
+			<when state="CIRCUMFLEX ACCENT" output="Ŝ"/>
+			<when state="COMMA BELOW" output="Ș"/>
+			<when state="CROSS ACCENT" output="∑"/>
+			<when state="DOT ABOVE" output="Ṡ"/>
+			<when state="DOT BELOW" output="Ṣ"/>
+			<when state="MINUS ACCENT" output="Ꟊ"/>
+			<when state="RING ABOVE" output="∇"/>
+			<when state="unnamed 0041" output="̣"/>
+			<when state="unnamed 0043" output="⃀"/>
+			<when state="unnamed 0045" output="ẞ"/>
+			<when state="unnamed 0046" output="Ʃ"/>
+			<when state="unnamed 0047" output="Σ"/>
+			<when state="unnamed 004A" output="̣"/>
+			<when state="unnamed 004D" output="∑"/>
+			<when state="unnamed 004F" output="Ⓢ"/>
+			<when state="unnamed 0050" output="‵"/>
+			<when state="unnamed 0051" output="ꜱ"/>
+			<when state="unnamed 0052" output="꟱"/>
+			<when state="unnamed 0053" output="◈"/>
+			<when state="unnamed 0054" output="℠"/>
+			<when state="unnamed 0056" output="⸳"/>
+			<when state="unnamed 0057" output="."/>
+			<when state="unnamed 0058" output="Ꞩ"/>
+			<when state="unnamed 0059" output="Ϲ"/>
+			<when state="unnamed 005A" output="Ꟊ"/>
+			<when state="unnamed 02BC" output="Σ"/>
+			<when state="unnamed 03FE" next="unnamed 0053"/>
+			<when state="unnamed 0548" output="Ṥ"/>
+			<when state="unnamed 0549" output="Ṧ"/>
+			<when state="unnamed 054A" output="Ṩ"/>
+			<when state="unnamed 054C" output="Ⓢ"/>
+		</action>
+		<action id="T">
+			<when state="none" output="T"/>
+			<when state="CARON (HACEK)" output="Ť"/>
+			<when state="CEDILLA" output="Ţ"/>
+			<when state="COMMA BELOW" output="Ț"/>
+			<when state="CROSS ACCENT" output="Þ"/>
+			<when state="DOT ABOVE" output="Ṫ"/>
+			<when state="DOT BELOW" output="Ṭ"/>
+			<when state="MACRON BELOW" output="Ṯ"/>
+			<when state="MINUS ACCENT" output="Ŧ"/>
+			<when state="RING ABOVE" output="∟"/>
+			<when state="unnamed 0041" output="̩"/>
+			<when state="unnamed 0042" output="Ʈ"/>
+			<when state="unnamed 0045" output="Þ"/>
+			<when state="unnamed 0047" output="Τ"/>
+			<when state="unnamed 0048" output="Ƭ"/>
+			<when state="unnamed 004A" output="̩"/>
+			<when state="unnamed 004D" output="∇"/>
+			<when state="unnamed 004F" output="Ⓣ"/>
+			<when state="unnamed 0050" output="⟫"/>
+			<when state="unnamed 0051" output="ᴛ"/>
+			<when state="unnamed 0052" output="ᵀ"/>
+			<when state="unnamed 0053" output="☜"/>
+			<when state="unnamed 0054" output="™"/>
+			<when state="unnamed 0056" output="ˌ"/>
+			<when state="unnamed 0057" output="ˌ"/>
+			<when state="unnamed 0058" output="Ⱦ"/>
+			<when state="unnamed 0059" output="Ϟ"/>
+			<when state="unnamed 005A" output="Ŧ"/>
+			<when state="unnamed 02B0" output="ᵀ"/>
+			<when state="unnamed 02BC" output="Τ"/>
+			<when state="unnamed 03FE" next="unnamed 0054"/>
+			<when state="unnamed 054B" output="Ṱ"/>
+			<when state="unnamed 054C" output="Ⓣ"/>
+		</action>
+		<action id="U">
+			<when state="none" output="U"/>
+			<when state="ACUTE ACCENT" output="Ú"/>
+			<when state="BREVE" output="Ŭ"/>
+			<when state="CARON (HACEK)" output="Ǔ"/>
+			<when state="CIRCUMFLEX ACCENT" output="Û"/>
+			<when state="CROSS ACCENT" output="↑"/>
+			<when state="DOT BELOW" output="Ụ"/>
+			<when state="DOUBLE ACUTE ACCENT" output="Ű"/>
+			<when state="GRAVE ACCENT" output="Ù"/>
+			<when state="MACRON (LONGUM)" output="Ū"/>
+			<when state="MINUS ACCENT" output="Ʉ"/>
+			<when state="OGONEK" output="Ų"/>
+			<when state="RING ABOVE" output="Ů"/>
+			<when state="TILDE" output="Ũ"/>
+			<when state="TREMA" output="Ü"/>
+			<when state="unnamed 0041" output="᪷"/>
+			<when state="unnamed 0042" output="Ɯ"/>
+			<when state="unnamed 0045" output="Ȣ"/>
+			<when state="unnamed 0046" output="Ʊ"/>
+			<when state="unnamed 0047" output="Θ"/>
+			<when state="unnamed 004A" output="̟"/>
+			<when state="unnamed 004D" output="∩"/>
+			<when state="unnamed 004F" output="Ⓤ"/>
+			<when state="unnamed 0050" output="⹝"/>
+			<when state="unnamed 0051" output="ᴜ"/>
+			<when state="unnamed 0052" output="ᵁ"/>
+			<when state="unnamed 0053" output="⦀"/>
+			<when state="unnamed 0054" output="≙"/>
+			<when state="unnamed 0056" output="^"/>
+			<when state="unnamed 0057" output="˖"/>
+			<when state="unnamed 0058" output="Ꞹ"/>
+			<when state="unnamed 0059" output="ϴ"/>
+			<when state="unnamed 005A" output="Ʉ"/>
+			<when state="unnamed 01DA" output="Ǚ"/>
+			<when state="unnamed 01DC" output="Ǜ"/>
+			<when state="unnamed 01DF" output="Ṻ"/>
+			<when state="unnamed 02B0" output="ᵁ"/>
+			<when state="unnamed 02BC" output="Ư"/>
+			<when state="unnamed 02C0" output="Ủ"/>
+			<when state="unnamed 053E" output="Ǘ"/>
+			<when state="unnamed 0540" output="Ṹ"/>
+			<when state="unnamed 0543" output="Ứ"/>
+			<when state="unnamed 0544" output="Ừ"/>
+			<when state="unnamed 0545" output="Ử"/>
+			<when state="unnamed 0546" output="Ữ"/>
+			<when state="unnamed 0547" output="Ự"/>
+			<when state="unnamed 054B" output="Ṷ"/>
+			<when state="unnamed 054C" output="Ⓤ"/>
+		</action>
+		<action id="V">
+			<when state="none" output="V"/>
+			<when state="CROSS ACCENT" output="‘"/>
+			<when state="DOT BELOW" output="Ṿ"/>
+			<when state="RING ABOVE" output="∧"/>
+			<when state="TILDE" output="Ṽ"/>
+			<when state="unnamed 0041" output="̶"/>
+			<when state="unnamed 0043" output="ℛ"/>
+			<when state="unnamed 0045" output="Ɤ"/>
+			<when state="unnamed 0046" output="Ʌ"/>
+			<when state="unnamed 0047" output="Ω"/>
+			<when state="unnamed 0048" output="Ʋ"/>
+			<when state="unnamed 004A" output="̼"/>
+			<when state="unnamed 004D" output="∧"/>
+			<when state="unnamed 004F" output="Ⓥ"/>
+			<when state="unnamed 0050" output="⹀"/>
+			<when state="unnamed 0051" output="ᴠ"/>
+			<when state="unnamed 0052" output="ⱽ"/>
+			<when state="unnamed 0053" output="△"/>
+			<when state="unnamed 0054" output="�"/>
+			<when state="unnamed 0056" output="`"/>
+			<when state="unnamed 0058" output="Ꝟ"/>
+			<when state="unnamed 0059" output="Ϻ"/>
+			<when state="unnamed 02B0" output="ⱽ"/>
+			<when state="unnamed 02BC" output="Ω"/>
+			<when state="unnamed 03FE" next="unnamed 0056"/>
+			<when state="unnamed 0543" output="Ώ"/>
+			<when state="unnamed 054C" output="Ⓥ"/>
+		</action>
+		<action id="W">
+			<when state="none" output="W"/>
+			<when state="ACUTE ACCENT" output="Ẃ"/>
+			<when state="CIRCUMFLEX ACCENT" output="Ŵ"/>
+			<when state="COMMA BELOW" output="Ƿ"/>
+			<when state="CROSS ACCENT" output="♀"/>
+			<when state="DOT ABOVE" output="Ẇ"/>
+			<when state="DOT BELOW" output="Ẉ"/>
+			<when state="GRAVE ACCENT" output="Ẁ"/>
+			<when state="RING ABOVE" output="ʬ"/>
+			<when state="TREMA" output="Ẅ"/>
+			<when state="unnamed 0041" output="̨"/>
+			<when state="unnamed 0045" output="Ƿ"/>
+			<when state="unnamed 0046" output="Ꞷ"/>
+			<when state="unnamed 0047" output="̔"/>
+			<when state="unnamed 0048" output="Ⱳ"/>
+			<when state="unnamed 004A" output="̖"/>
+			<when state="unnamed 004D" output="≫"/>
+			<when state="unnamed 004F" output="Ⓦ"/>
+			<when state="unnamed 0050" output="‽"/>
+			<when state="unnamed 0051" output="ᴡ"/>
+			<when state="unnamed 0052" output="ᵂ"/>
+			<when state="unnamed 0053" output="◇"/>
+			<when state="unnamed 0054" output="⋅"/>
+			<when state="unnamed 0056" output="˛"/>
+			<when state="unnamed 0057" output="ˎ"/>
+			<when state="unnamed 0059" output="Ϝ"/>
+			<when state="unnamed 02B0" output="ᵂ"/>
+			<when state="unnamed 02BC" output="̔"/>
+			<when state="unnamed 03FE" next="unnamed 0057"/>
+			<when state="unnamed 054C" output="Ⓦ"/>
+		</action>
+		<action id="X">
+			<when state="none" output="X"/>
+			<when state="CROSS ACCENT" output="‚"/>
+			<when state="DOT ABOVE" output="Ẋ"/>
+			<when state="RING ABOVE" output="ℵ"/>
+			<when state="TREMA" output="Ẍ"/>
+			<when state="unnamed 0041" output="ͅ"/>
+			<when state="unnamed 0043" output="$"/>
+			<when state="unnamed 0045" output="Ꭓ"/>
+			<when state="unnamed 0047" output="Χ"/>
+			<when state="unnamed 0048" output="Ꜥ"/>
+			<when state="unnamed 004A" output="̡"/>
+			<when state="unnamed 004D" output="⋄"/>
+			<when state="unnamed 004F" output="Ⓧ"/>
+			<when state="unnamed 0050" output="⁒"/>
+			<when state="unnamed 0053" output="♡"/>
+			<when state="unnamed 0054" output="✕"/>
+			<when state="unnamed 0056" output="ͺ"/>
+			<when state="unnamed 0057" output="⸨"/>
+			<when state="unnamed 0059" output="Ϡ"/>
+			<when state="unnamed 02BC" output="Χ"/>
+			<when state="unnamed 03FE" next="unnamed 0058"/>
+			<when state="unnamed 054C" output="Ⓧ"/>
+		</action>
+		<action id="Y">
+			<when state="none" output="Y"/>
+			<when state="ACUTE ACCENT" output="Ý"/>
+			<when state="CIRCUMFLEX ACCENT" output="Ŷ"/>
+			<when state="COMMA BELOW" output="Ȝ"/>
+			<when state="CROSS ACCENT" output="⏑"/>
+			<when state="DOT ABOVE" output="Ẏ"/>
+			<when state="DOT BELOW" output="Ỵ"/>
+			<when state="GRAVE ACCENT" output="Ỳ"/>
+			<when state="MACRON (LONGUM)" output="Ȳ"/>
+			<when state="MINUS ACCENT" output="Ɏ"/>
+			<when state="RING ABOVE" output="∢"/>
+			<when state="TILDE" output="Ỹ"/>
+			<when state="TREMA" output="Ÿ"/>
+			<when state="unnamed 0041" output="̮"/>
+			<when state="unnamed 0043" output="⃁"/>
+			<when state="unnamed 0045" output="Ꟛ"/>
+			<when state="unnamed 0046" output="Ь"/>
+			<when state="unnamed 0047" output="Υ"/>
+			<when state="unnamed 0048" output="Ƴ"/>
+			<when state="unnamed 004A" output="̠"/>
+			<when state="unnamed 004D" output="≥"/>
+			<when state="unnamed 004F" output="Ⓨ"/>
+			<when state="unnamed 0050" output="⁞"/>
+			<when state="unnamed 0051" output="ʏ"/>
+			<when state="unnamed 0053" output="◌"/>
+			<when state="unnamed 0054" output="≡"/>
+			<when state="unnamed 0056" output="⏑"/>
+			<when state="unnamed 0057" output="˗"/>
+			<when state="unnamed 0059" output="ϒ"/>
+			<when state="unnamed 005A" output="Ɏ"/>
+			<when state="unnamed 02BC" output="Υ"/>
+			<when state="unnamed 02C0" output="Ỷ"/>
+			<when state="unnamed 03CA" output="Ϋ"/>
+			<when state="unnamed 03FE" next="unnamed 0059"/>
+			<when state="unnamed 0543" output="Ύ"/>
+			<when state="unnamed 054C" output="Ⓨ"/>
+		</action>
+		<action id="Z">
+			<when state="none" output="Z"/>
+			<when state="ACUTE ACCENT" output="Ź"/>
+			<when state="CARON (HACEK)" output="Ž"/>
+			<when state="CIRCUMFLEX ACCENT" output="Ẑ"/>
+			<when state="COMMA BELOW" output="Ȥ"/>
+			<when state="CROSS ACCENT" output="Ʒ"/>
+			<when state="DOT ABOVE" output="Ż"/>
+			<when state="DOT BELOW" output="Ẓ"/>
+			<when state="MACRON BELOW" output="Ẕ"/>
+			<when state="MINUS ACCENT" output="Ƶ"/>
+			<when state="RING ABOVE" output="ℤ"/>
+			<when state="unnamed 0041" output="͜"/>
+			<when state="unnamed 0042" output="Ȥ"/>
+			<when state="unnamed 0045" output="Ʒ"/>
+			<when state="unnamed 0046" output="Ƹ"/>
+			<when state="unnamed 0047" output="Ζ"/>
+			<when state="unnamed 004A" output="̻"/>
+			<when state="unnamed 004D" output="ℤ"/>
+			<when state="unnamed 004F" output="Ⓩ"/>
+			<when state="unnamed 0050" output="⁂"/>
+			<when state="unnamed 0051" output="ᴢ"/>
+			<when state="unnamed 0053" output="▫"/>
+			<when state="unnamed 0054" output="⚥"/>
+			<when state="unnamed 0056" output="‿"/>
+			<when state="unnamed 0057" output="‿"/>
+			<when state="unnamed 0059" output="Ͳ"/>
+			<when state="unnamed 005A" output="Ƶ"/>
+			<when state="unnamed 01EF" output="Ǯ"/>
+			<when state="unnamed 02BC" output="Ζ"/>
+			<when state="unnamed 03FE" next="unnamed 005A"/>
+			<when state="unnamed 054C" output="Ⓩ"/>
+		</action>
+		<action id="[">
+			<when state="none" output="["/>
+			<when state="COMMA BELOW" output="⸢"/>
+			<when state="MINUS ACCENT" output="⁅"/>
+			<when state="RING ABOVE" output="⟦"/>
+		</action>
+		<action id="]">
+			<when state="none" output="]"/>
+			<when state="COMMA BELOW" output="⸣"/>
+			<when state="MINUS ACCENT" output="⁆"/>
+			<when state="RING ABOVE" output="⟧"/>
+		</action>
+		<action id="^">
+			<when state="none" next="CIRCUMFLEX ACCENT"/>
+			<when state="ACUTE ACCENT" next="unnamed 0531"/>
+			<when state="BREVE" next="unnamed 02B0"/>
+			<when state="CARON (HACEK)" next="unnamed 054B"/>
+			<when state="CIRCUMFLEX ACCENT" output="̂"/>
+			<when state="COMMA BELOW" output="̭"/>
+			<when state="DOT BELOW" next="unnamed 0535"/>
+			<when state="GRAVE ACCENT" next="unnamed 0532"/>
+			<when state="MINUS ACCENT" output="ˆ"/>
+			<when state="TILDE" next="unnamed 0534"/>
+			<when state="unnamed 02C0" next="unnamed 0533"/>
+		</action>
+		<action id="_">
+			<when state="none" output="_"/>
+			<when state="CROSS ACCENT" output="◦"/>
+			<when state="MACRON BELOW" output="‗"/>
+		</action>
+		<action id="`">
+			<when state="none" next="GRAVE ACCENT"/>
+			<when state="BREVE" next="unnamed 0537"/>
+			<when state="CIRCUMFLEX ACCENT" next="unnamed 0532"/>
+			<when state="COMMA BELOW" output="̏"/>
+			<when state="CROSS ACCENT" output="¥"/>
+			<when state="GRAVE ACCENT" output="̀"/>
+			<when state="MACRON (LONGUM)" next="unnamed 0542"/>
+			<when state="TREMA" next="unnamed 01DC"/>
+			<when state="unnamed 02BC" next="unnamed 0544"/>
+		</action>
+		<action id="a">
+			<when state="none" output="a"/>
+			<when state="ACUTE ACCENT" output="á"/>
+			<when state="BREVE" output="ă"/>
+			<when state="CARON (HACEK)" output="ǎ"/>
+			<when state="CIRCUMFLEX ACCENT" output="â"/>
+			<when state="DOT ABOVE" output="ȧ"/>
+			<when state="DOT BELOW" output="ạ"/>
+			<when state="DOUBLE ACUTE ACCENT" next="unnamed 0061"/>
+			<when state="GRAVE ACCENT" output="à"/>
+			<when state="MACRON (LONGUM)" output="ā"/>
+			<when state="OGONEK" output="ą"/>
+			<when state="RING ABOVE" output="å"/>
+			<when state="TILDE" output="ã"/>
+			<when state="TREMA" output="ä"/>
+			<when state="unnamed 0031" output="̽"/>
+			<when state="unnamed 0032" output="̪"/>
+			<when state="unnamed 0034" output=","/>
+			<when state="unnamed 0041" output="̛"/>
+			<when state="unnamed 0043" output="₳"/>
+			<when state="unnamed 0045" output="æ"/>
+			<when state="unnamed 0046" output="ɑ"/>
+			<when state="unnamed 0047" output="α"/>
+			<when state="unnamed 004A" output="̽"/>
+			<when state="unnamed 004D" output="∀"/>
+			<when state="unnamed 004F" output="ⓐ"/>
+			<when state="unnamed 0050" output="°"/>
+			<when state="unnamed 0051" output="ₐ"/>
+			<when state="unnamed 0052" output="ᵃ"/>
+			<when state="unnamed 0053" output="∎"/>
+			<when state="unnamed 0054" output="ª"/>
+			<when state="unnamed 0056" output="´"/>
+			<when state="unnamed 0058" output="ⱥ"/>
+			<when state="unnamed 0059" output="ͼ"/>
+			<when state="unnamed 01DF" output="ǟ"/>
+			<when state="unnamed 01E1" output="ǡ"/>
+			<when state="unnamed 01FB" output="ǻ"/>
+			<when state="unnamed 02B0" output="ᵃ"/>
+			<when state="unnamed 02BC" output="α"/>
+			<when state="unnamed 02C0" output="ả"/>
+			<when state="unnamed 03FE" next="unnamed 0041"/>
+			<when state="unnamed 0531" output="ấ"/>
+			<when state="unnamed 0532" output="ầ"/>
+			<when state="unnamed 0533" output="ẩ"/>
+			<when state="unnamed 0534" output="ẫ"/>
+			<when state="unnamed 0535" output="ậ"/>
+			<when state="unnamed 0536" output="ắ"/>
+			<when state="unnamed 0537" output="ằ"/>
+			<when state="unnamed 0538" output="ẳ"/>
+			<when state="unnamed 0539" output="ẵ"/>
+			<when state="unnamed 053A" output="ặ"/>
+			<when state="unnamed 0543" output="ά"/>
+			<when state="unnamed 054C" output="ⓐ"/>
+			<when state="unnamed 054D" output="ₐ"/>
+		</action>
+		<action id="b">
+			<when state="none" output="b"/>
+			<when state="COMMA BELOW" output="ꜣ"/>
+			<when state="CROSS ACCENT" output="”"/>
+			<when state="DOT ABOVE" output="ḃ"/>
+			<when state="DOT BELOW" output="ḅ"/>
+			<when state="DOUBLE ACUTE ACCENT" next="unnamed 0062"/>
+			<when state="MACRON BELOW" output="ḇ"/>
+			<when state="MINUS ACCENT" output="ƀ"/>
+			<when state="RING ABOVE" output="⇔"/>
+			<when state="unnamed 0031" output="᷄"/>
+			<when state="unnamed 0032" output="̴"/>
+			<when state="unnamed 0033" output="/"/>
+			<when state="unnamed 0041" output="̎"/>
+			<when state="unnamed 0042" output="ꞗ"/>
+			<when state="unnamed 0043" output="฿"/>
+			<when state="unnamed 0045" output="ꞵ"/>
+			<when state="unnamed 0046" output="ƃ"/>
+			<when state="unnamed 0047" output="β"/>
+			<when state="unnamed 0048" output="ɓ"/>
+			<when state="unnamed 004A" output="᷄"/>
+			<when state="unnamed 004D" output="⇔"/>
+			<when state="unnamed 004F" output="ⓑ"/>
+			<when state="unnamed 0050" output="‒"/>
+			<when state="unnamed 0052" output="ᵇ"/>
+			<when state="unnamed 0053" output="▼"/>
+			<when state="unnamed 0054" output="♭"/>
+			<when state="unnamed 0056" output="ˮ"/>
+			<when state="unnamed 0057" output="/"/>
+			<when state="unnamed 0059" output="ϐ"/>
+			<when state="unnamed 005A" output="ƀ"/>
+			<when state="unnamed 02B0" output="ᵇ"/>
+			<when state="unnamed 02BC" output="β"/>
+			<when state="unnamed 03FE" next="unnamed 0042"/>
+			<when state="unnamed 054C" output="ⓑ"/>
+		</action>
+		<action id="c">
+			<when state="none" output="c"/>
+			<when state="ACUTE ACCENT" output="ć"/>
+			<when state="BREVE" output="ƈ"/>
+			<when state="CARON (HACEK)" output="č"/>
+			<when state="CEDILLA" output="ç"/>
+			<when state="CIRCUMFLEX ACCENT" output="ĉ"/>
+			<when state="COMMA BELOW" output="ꜥ"/>
+			<when state="CROSS ACCENT" output="¢"/>
+			<when state="DOT ABOVE" output="ċ"/>
+			<when state="DOUBLE ACUTE ACCENT" next="unnamed 0063"/>
+			<when state="MINUS ACCENT" output="ꞓ"/>
+			<when state="RING ABOVE" output="∛"/>
+			<when state="unnamed 0032" output="̢"/>
+			<when state="unnamed 0033" output=")"/>
+			<when state="unnamed 0034" output="⸩"/>
+			<when state="unnamed 0041" output="̐"/>
+			<when state="unnamed 0042" output="ꞔ"/>
+			<when state="unnamed 0043" output="¢"/>
+			<when state="unnamed 0045" output="ꞌ"/>
+			<when state="unnamed 0047" output="ψ"/>
+			<when state="unnamed 0048" output="ƈ"/>
+			<when state="unnamed 004D" output="∛"/>
+			<when state="unnamed 004F" output="ⓒ"/>
+			<when state="unnamed 0050" output="­"/>
+			<when state="unnamed 0052" output="ᶜ"/>
+			<when state="unnamed 0053" output="•"/>
+			<when state="unnamed 0054" output="℅"/>
+			<when state="unnamed 0056" output="⹁"/>
+			<when state="unnamed 0057" output=")"/>
+			<when state="unnamed 0058" output="ȼ"/>
+			<when state="unnamed 0059" output="ϛ"/>
+			<when state="unnamed 005A" output="ꞓ"/>
+			<when state="unnamed 02B0" output="ᶜ"/>
+			<when state="unnamed 02BC" output="ψ"/>
+			<when state="unnamed 03FE" next="unnamed 0043"/>
+			<when state="unnamed 053C" output="ḉ"/>
+			<when state="unnamed 054C" output="ⓒ"/>
+		</action>
+		<action id="d">
+			<when state="none" output="d"/>
+			<when state="CARON (HACEK)" output="ď"/>
+			<when state="CEDILLA" output="ḑ"/>
+			<when state="CROSS ACCENT" output="ð"/>
+			<when state="DOT ABOVE" output="ḋ"/>
+			<when state="DOT BELOW" output="ḍ"/>
+			<when state="DOUBLE ACUTE ACCENT" next="unnamed 0064"/>
+			<when state="MACRON BELOW" output="ḏ"/>
+			<when state="MINUS ACCENT" output="đ"/>
+			<when state="RING ABOVE" output="∂"/>
+			<when state="unnamed 0031" output="̄"/>
+			<when state="unnamed 0032" output="̬"/>
+			<when state="unnamed 0041" output="͘"/>
+			<when state="unnamed 0042" output="ɖ"/>
+			<when state="unnamed 0043" output="₫"/>
+			<when state="unnamed 0045" output="ð"/>
+			<when state="unnamed 0046" output="Ƌ"/>
+			<when state="unnamed 0047" output="δ"/>
+			<when state="unnamed 0048" output="ɗ"/>
+			<when state="unnamed 004A" output="̄"/>
+			<when state="unnamed 004D" output="∂"/>
+			<when state="unnamed 004F" output="ⓓ"/>
+			<when state="unnamed 0050" output="″"/>
+			<when state="unnamed 0052" output="ᵈ"/>
+			<when state="unnamed 0053" output="◎"/>
+			<when state="unnamed 0054" output="℔"/>
+			<when state="unnamed 0056" output="¯"/>
+			<when state="unnamed 0059" output="ͽ"/>
+			<when state="unnamed 005A" output="đ"/>
+			<when state="unnamed 02B0" output="ᵈ"/>
+			<when state="unnamed 02BC" output="δ"/>
+			<when state="unnamed 054B" output="ḓ"/>
+			<when state="unnamed 054C" output="ⓓ"/>
+		</action>
+		<action id="e">
+			<when state="none" output="e"/>
+			<when state="ACUTE ACCENT" output="é"/>
+			<when state="BREVE" output="ĕ"/>
+			<when state="CARON (HACEK)" output="ě"/>
+			<when state="CEDILLA" output="ȩ"/>
+			<when state="CIRCUMFLEX ACCENT" output="ê"/>
+			<when state="CROSS ACCENT" output="ə"/>
+			<when state="DOT ABOVE" output="ė"/>
+			<when state="DOT BELOW" output="ẹ"/>
+			<when state="DOUBLE ACUTE ACCENT" next="unnamed 0065"/>
+			<when state="GRAVE ACCENT" output="è"/>
+			<when state="MACRON (LONGUM)" output="ē"/>
+			<when state="MINUS ACCENT" output="ꬳ"/>
+			<when state="OGONEK" output="ę"/>
+			<when state="RING ABOVE" output="∃"/>
+			<when state="TILDE" output="ẽ"/>
+			<when state="TREMA" output="ë"/>
+			<when state="unnamed 0031" output="̈"/>
+			<when state="unnamed 0032" output="̤"/>
+			<when state="unnamed 0041" output="̈"/>
+			<when state="unnamed 0043" output="€"/>
+			<when state="unnamed 0045" output="ə"/>
+			<when state="unnamed 0046" output="ǝ"/>
+			<when state="unnamed 0047" output="ε"/>
+			<when state="unnamed 0048" output="ɛ"/>
+			<when state="unnamed 004A" output="̈"/>
+			<when state="unnamed 004D" output="∃"/>
+			<when state="unnamed 004F" output="ⓔ"/>
+			<when state="unnamed 0050" output="·"/>
+			<when state="unnamed 0051" output="ₑ"/>
+			<when state="unnamed 0052" output="ᵉ"/>
+			<when state="unnamed 0053" output="●"/>
+			<when state="unnamed 0054" output="℮"/>
+			<when state="unnamed 0056" output="¨"/>
+			<when state="unnamed 0058" output="ɇ"/>
+			<when state="unnamed 0059" output="ϵ"/>
+			<when state="unnamed 005A" output="ꬳ"/>
+			<when state="unnamed 02B0" output="ᵉ"/>
+			<when state="unnamed 02BC" output="ε"/>
+			<when state="unnamed 02C0" output="ẻ"/>
+			<when state="unnamed 03FE" next="unnamed 0045"/>
+			<when state="unnamed 0531" output="ế"/>
+			<when state="unnamed 0532" output="ề"/>
+			<when state="unnamed 0533" output="ể"/>
+			<when state="unnamed 0534" output="ễ"/>
+			<when state="unnamed 0535" output="ệ"/>
+			<when state="unnamed 053B" output="ḗ"/>
+			<when state="unnamed 053D" output="ḝ"/>
+			<when state="unnamed 0542" output="ḕ"/>
+			<when state="unnamed 0543" output="έ"/>
+			<when state="unnamed 054B" output="ḙ"/>
+			<when state="unnamed 054C" output="ⓔ"/>
+			<when state="unnamed 054D" output="ₑ"/>
+		</action>
+		<action id="f">
+			<when state="none" output="f"/>
+			<when state="COMMA BELOW" output="ƒ"/>
+			<when state="DOT ABOVE" output="ḟ"/>
+			<when state="DOUBLE ACUTE ACCENT" next="unnamed 0066"/>
+			<when state="MINUS ACCENT" output="ꞙ"/>
+			<when state="RING ABOVE" output="∵"/>
+			<when state="unnamed 0032" output="̜"/>
+			<when state="unnamed 0033" output="ʻ"/>
+			<when state="unnamed 0041" output="̒"/>
+			<when state="unnamed 0042" output="ƒ"/>
+			<when state="unnamed 0043" output="ƒ"/>
+			<when state="unnamed 0045" output="ſ"/>
+			<when state="unnamed 0047" output="φ"/>
+			<when state="unnamed 004D" output="∵"/>
+			<when state="unnamed 004F" output="ⓕ"/>
+			<when state="unnamed 0050" output="⌀"/>
+			<when state="unnamed 0052" output="ᶠ"/>
+			<when state="unnamed 0053" output="↑"/>
+			<when state="unnamed 0054" output="ﬁ"/>
+			<when state="unnamed 0056" output="ʻ"/>
+			<when state="unnamed 0057" output="ʻ"/>
+			<when state="unnamed 0059" output="ϕ"/>
+			<when state="unnamed 005A" output="ꞙ"/>
+			<when state="unnamed 02B0" output="ᶠ"/>
+			<when state="unnamed 02BC" output="φ"/>
+			<when state="unnamed 03FE" next="unnamed 0046"/>
+			<when state="unnamed 054C" output="ⓕ"/>
+		</action>
+		<action id="g">
+			<when state="none" output="g"/>
+			<when state="ACUTE ACCENT" output="ǵ"/>
+			<when state="BREVE" output="ğ"/>
+			<when state="CARON (HACEK)" output="ǧ"/>
+			<when state="CEDILLA" output="ģ"/>
+			<when state="CIRCUMFLEX ACCENT" output="ĝ"/>
+			<when state="COMMA BELOW" output="ģ"/>
+			<when state="CROSS ACCENT" output="ʿ"/>
+			<when state="DOT ABOVE" output="ġ"/>
+			<when state="DOUBLE ACUTE ACCENT" next="unnamed 0067"/>
+			<when state="MACRON (LONGUM)" output="ḡ"/>
+			<when state="MINUS ACCENT" output="ǥ"/>
+			<when state="RING ABOVE" output="⊂"/>
+			<when state="unnamed 0032" output="̹"/>
+			<when state="unnamed 0033" output="ʼ"/>
+			<when state="unnamed 0041" output="̓"/>
+			<when state="unnamed 0043" output="₲"/>
+			<when state="unnamed 0046" output="ɣ"/>
+			<when state="unnamed 0047" output="γ"/>
+			<when state="unnamed 0048" output="ɠ"/>
+			<when state="unnamed 004D" output="⊆"/>
+			<when state="unnamed 004F" output="ⓖ"/>
+			<when state="unnamed 0050" output="„"/>
+			<when state="unnamed 0052" output="ᵍ"/>
+			<when state="unnamed 0053" output="↓"/>
+			<when state="unnamed 0054" output="ﬂ"/>
+			<when state="unnamed 0056" output="ʼ"/>
+			<when state="unnamed 0057" output="ʼ"/>
+			<when state="unnamed 0058" output="ꞡ"/>
+			<when state="unnamed 0059" output="ͷ"/>
+			<when state="unnamed 005A" output="ǥ"/>
+			<when state="unnamed 02B0" output="ᵍ"/>
+			<when state="unnamed 02BC" output="γ"/>
+			<when state="unnamed 03FE" next="unnamed 0047"/>
+			<when state="unnamed 054C" output="ⓖ"/>
+		</action>
+		<action id="h">
+			<when state="none" output="h"/>
+			<when state="BREVE" output="ḫ"/>
+			<when state="CARON (HACEK)" output="ȟ"/>
+			<when state="CEDILLA" output="ḩ"/>
+			<when state="CIRCUMFLEX ACCENT" output="ĥ"/>
+			<when state="COMMA BELOW" output="ƕ"/>
+			<when state="CROSS ACCENT" output="ʾ"/>
+			<when state="DOT ABOVE" output="ḣ"/>
+			<when state="DOT BELOW" output="ḥ"/>
+			<when state="DOUBLE ACUTE ACCENT" next="unnamed 0068"/>
+			<when state="MACRON BELOW" output="ẖ"/>
+			<when state="MINUS ACCENT" output="ħ"/>
+			<when state="RING ABOVE" output="ℎ"/>
+			<when state="TREMA" output="ḧ"/>
+			<when state="unnamed 0032" output="̙"/>
+			<when state="unnamed 0033" output="["/>
+			<when state="unnamed 0034" output="{"/>
+			<when state="unnamed 0041" output="̔"/>
+			<when state="unnamed 0042" output="ꜧ"/>
+			<when state="unnamed 0043" output="₴"/>
+			<when state="unnamed 0045" output="ƕ"/>
+			<when state="unnamed 0046" output="ɥ"/>
+			<when state="unnamed 0047" output="η"/>
+			<when state="unnamed 0048" output="ɦ"/>
+			<when state="unnamed 004D" output="ℎ"/>
+			<when state="unnamed 004F" output="ⓗ"/>
+			<when state="unnamed 0050" output="“"/>
+			<when state="unnamed 0051" output="ₕ"/>
+			<when state="unnamed 0052" output="ʰ"/>
+			<when state="unnamed 0053" output="→"/>
+			<when state="unnamed 0054" output="﴾"/>
+			<when state="unnamed 0056" output="ʽ"/>
+			<when state="unnamed 0057" output="["/>
+			<when state="unnamed 0059" output="ͱ"/>
+			<when state="unnamed 005A" output="ħ"/>
+			<when state="unnamed 02B0" output="ʰ"/>
+			<when state="unnamed 02BC" output="η"/>
+			<when state="unnamed 03FE" next="unnamed 0048"/>
+			<when state="unnamed 0543" output="ή"/>
+			<when state="unnamed 054C" output="ⓗ"/>
+			<when state="unnamed 054D" output="ₕ"/>
+		</action>
+		<action id="i">
+			<when state="none" output="i"/>
+			<when state="ACUTE ACCENT" output="í"/>
+			<when state="BREVE" output="ĭ"/>
+			<when state="CARON (HACEK)" output="ǐ"/>
+			<when state="CIRCUMFLEX ACCENT" output="î"/>
+			<when state="COMMA BELOW" output="ꞽ"/>
+			<when state="CROSS ACCENT" output="ı"/>
+			<when state="DOT BELOW" output="ị"/>
+			<when state="DOUBLE ACUTE ACCENT" next="unnamed 0069"/>
+			<when state="GRAVE ACCENT" output="ì"/>
+			<when state="MACRON (LONGUM)" output="ī"/>
+			<when state="MINUS ACCENT" output="ɨ"/>
+			<when state="OGONEK" output="į"/>
+			<when state="RING ABOVE" output="∞"/>
+			<when state="TILDE" output="ĩ"/>
+			<when state="TREMA" output="ï"/>
+			<when state="unnamed 0031" output="̂"/>
+			<when state="unnamed 0032" output="̞"/>
+			<when state="unnamed 0033" output="˧"/>
+			<when state="unnamed 0034" output="˕"/>
+			<when state="unnamed 0041" output="̂"/>
+			<when state="unnamed 0042" output="ɩ"/>
+			<when state="unnamed 0045" output="ı"/>
+			<when state="unnamed 0046" output="ɪ"/>
+			<when state="unnamed 0047" output="ι"/>
+			<when state="unnamed 0048" output="ꞽ"/>
+			<when state="unnamed 004A" output="̂"/>
+			<when state="unnamed 004D" output="∞"/>
+			<when state="unnamed 004F" output="ⓘ"/>
+			<when state="unnamed 0050" output="⸣"/>
+			<when state="unnamed 0051" output="ᵢ"/>
+			<when state="unnamed 0052" output="ⁱ"/>
+			<when state="unnamed 0053" output="↕"/>
+			<when state="unnamed 0054" output="≈"/>
+			<when state="unnamed 0056" output="ˆ"/>
+			<when state="unnamed 0057" output="˧"/>
+			<when state="unnamed 0059" output="·"/>
+			<when state="unnamed 005A" output="ɨ"/>
+			<when state="unnamed 02B0" output="ⁱ"/>
+			<when state="unnamed 02BC" output="ι"/>
+			<when state="unnamed 02C0" output="ỉ"/>
+			<when state="unnamed 0390" output="ΐ"/>
+			<when state="unnamed 03CA" output="ϊ"/>
+			<when state="unnamed 053E" output="ḯ"/>
+			<when state="unnamed 0543" output="ί"/>
+			<when state="unnamed 054C" output="ⓘ"/>
+			<when state="unnamed 054D" output="ᵢ"/>
+		</action>
+		<action id="j">
+			<when state="none" output="j"/>
+			<when state="BREVE" output="ĳ"/>
+			<when state="CARON (HACEK)" output="ǰ"/>
+			<when state="CIRCUMFLEX ACCENT" output="ĵ"/>
+			<when state="CROSS ACCENT" output="ʹ"/>
+			<when state="DOUBLE ACUTE ACCENT" next="unnamed 006A"/>
+			<when state="MINUS ACCENT" output="ɉ"/>
+			<when state="RING ABOVE" output="⊃"/>
+			<when state="unnamed 0031" output="̏"/>
+			<when state="unnamed 0032" output="̘"/>
+			<when state="unnamed 0033" output="]"/>
+			<when state="unnamed 0034" output="}"/>
+			<when state="unnamed 0041" output="̏"/>
+			<when state="unnamed 0043" output="₨"/>
+			<when state="unnamed 0045" output="ȝ"/>
+			<when state="unnamed 0046" output="ʝ"/>
+			<when state="unnamed 0047" output="ξ"/>
+			<when state="unnamed 0048" output="ĳ"/>
+			<when state="unnamed 004A" output="̏"/>
+			<when state="unnamed 004D" output="⊂"/>
+			<when state="unnamed 004F" output="ⓙ"/>
+			<when state="unnamed 0050" output="”"/>
+			<when state="unnamed 0051" output="ⱼ"/>
+			<when state="unnamed 0052" output="ʲ"/>
+			<when state="unnamed 0053" output="←"/>
+			<when state="unnamed 0054" output="﴿"/>
+			<when state="unnamed 0056" output="⸚"/>
+			<when state="unnamed 0057" output="]"/>
+			<when state="unnamed 0059" output="ϳ"/>
+			<when state="unnamed 005A" output="ɉ"/>
+			<when state="unnamed 02B0" output="ʲ"/>
+			<when state="unnamed 02BC" output="ξ"/>
+			<when state="unnamed 03FE" next="unnamed 004A"/>
+			<when state="unnamed 054C" output="ⓙ"/>
+			<when state="unnamed 054D" output="ⱼ"/>
+		</action>
+		<action id="k">
+			<when state="none" output="k"/>
+			<when state="ACUTE ACCENT" output="ḱ"/>
+			<when state="BREVE" output="ĸ"/>
+			<when state="CARON (HACEK)" output="ǩ"/>
+			<when state="CEDILLA" output="ķ"/>
+			<when state="COMMA BELOW" output="ķ"/>
+			<when state="DOT BELOW" output="ḳ"/>
+			<when state="DOUBLE ACUTE ACCENT" next="unnamed 006B"/>
+			<when state="MACRON BELOW" output="ḵ"/>
+			<when state="MINUS ACCENT" output="ꝁ"/>
+			<when state="RING ABOVE" output="⊆"/>
+			<when state="unnamed 0031" output="̑"/>
+			<when state="unnamed 0032" output="̯"/>
+			<when state="unnamed 0033" output="ꜛ"/>
+			<when state="unnamed 0034" output="↗"/>
+			<when state="unnamed 0041" output="̑"/>
+			<when state="unnamed 0043" output="₭"/>
+			<when state="unnamed 0045" output="ĸ"/>
+			<when state="unnamed 0047" output="κ"/>
+			<when state="unnamed 0048" output="ƙ"/>
+			<when state="unnamed 004A" output="̑"/>
+			<when state="unnamed 004D" output="⊃"/>
+			<when state="unnamed 004F" output="ⓚ"/>
+			<when state="unnamed 0050" output="«"/>
+			<when state="unnamed 0051" output="ₖ"/>
+			<when state="unnamed 0052" output="ᵏ"/>
+			<when state="unnamed 0053" output="‡"/>
+			<when state="unnamed 0054" output="␣"/>
+			<when state="unnamed 0056" output="↥"/>
+			<when state="unnamed 0057" output="ꜛ"/>
+			<when state="unnamed 0058" output="ꞣ"/>
+			<when state="unnamed 0059" output="ϰ"/>
+			<when state="unnamed 005A" output="ꝁ"/>
+			<when state="unnamed 02B0" output="ᵏ"/>
+			<when state="unnamed 02BC" output="κ"/>
+			<when state="unnamed 054C" output="ⓚ"/>
+			<when state="unnamed 054D" output="ₖ"/>
+		</action>
+		<action id="l">
+			<when state="none" output="l"/>
+			<when state="ACUTE ACCENT" output="ĺ"/>
+			<when state="CARON (HACEK)" output="ľ"/>
+			<when state="CEDILLA" output="ļ"/>
+			<when state="COMMA BELOW" output="ļ"/>
+			<when state="CROSS ACCENT" output="ł"/>
+			<when state="DOT ABOVE" output="ŀ"/>
+			<when state="DOT BELOW" output="ḷ"/>
+			<when state="DOUBLE ACUTE ACCENT" next="unnamed 006C"/>
+			<when state="MACRON BELOW" output="ḻ"/>
+			<when state="MINUS ACCENT" output="ƚ"/>
+			<when state="RING ABOVE" output="∪"/>
+			<when state="unnamed 0032" output="̺"/>
+			<when state="unnamed 0033" output="ꜜ"/>
+			<when state="unnamed 0034" output="↘"/>
+			<when state="unnamed 0041" output="͠"/>
+			<when state="unnamed 0042" output="ɬ"/>
+			<when state="unnamed 0043" output="£"/>
+			<when state="unnamed 0045" output="ƛ"/>
+			<when state="unnamed 0046" output="ⱡ"/>
+			<when state="unnamed 0047" output="λ"/>
+			<when state="unnamed 0048" output="ŀ"/>
+			<when state="unnamed 004D" output="∋"/>
+			<when state="unnamed 004F" output="ⓛ"/>
+			<when state="unnamed 0050" output="»"/>
+			<when state="unnamed 0051" output="ₗ"/>
+			<when state="unnamed 0052" output="ˡ"/>
+			<when state="unnamed 0053" output="†"/>
+			<when state="unnamed 0054" output="ℓ"/>
+			<when state="unnamed 0056" output="⸛"/>
+			<when state="unnamed 0057" output="ꜜ"/>
+			<when state="unnamed 0058" output="ł"/>
+			<when state="unnamed 0059" output=";"/>
+			<when state="unnamed 005A" output="ƚ"/>
+			<when state="unnamed 02B0" output="ˡ"/>
+			<when state="unnamed 02BC" output="λ"/>
+			<when state="unnamed 053F" output="ḹ"/>
+			<when state="unnamed 054B" output="ḽ"/>
+			<when state="unnamed 054C" output="ⓛ"/>
+			<when state="unnamed 054D" output="ₗ"/>
+		</action>
+		<action id="m">
+			<when state="none" output="m"/>
+			<when state="ACUTE ACCENT" output="ḿ"/>
+			<when state="CROSS ACCENT" output="‌"/>
+			<when state="DOT ABOVE" output="ṁ"/>
+			<when state="DOT BELOW" output="ṃ"/>
+			<when state="DOUBLE ACUTE ACCENT" next="unnamed 006D"/>
+			<when state="RING ABOVE" output="⇒"/>
+			<when state="unnamed 0031" output="᷈"/>
+			<when state="unnamed 0032" output="̫"/>
+			<when state="unnamed 0033" output="‖"/>
+			<when state="unnamed 0041" output="̅"/>
+			<when state="unnamed 0042" output="ɱ"/>
+			<when state="unnamed 0043" output="₥"/>
+			<when state="unnamed 0045" output="ƞ"/>
+			<when state="unnamed 0047" output="μ"/>
+			<when state="unnamed 004A" output="᷈"/>
+			<when state="unnamed 004D" output="⇒"/>
+			<when state="unnamed 004F" output="ⓜ"/>
+			<when state="unnamed 0050" output="—"/>
+			<when state="unnamed 0051" output="ₘ"/>
+			<when state="unnamed 0052" output="ᵐ"/>
+			<when state="unnamed 0053" output="◄"/>
+			<when state="unnamed 0054" output="µ"/>
+			<when state="unnamed 0056" output="‾"/>
+			<when state="unnamed 0057" output="‖"/>
+			<when state="unnamed 0058" output="₥"/>
+			<when state="unnamed 0059" output="ϗ"/>
+			<when state="unnamed 02B0" output="ᵐ"/>
+			<when state="unnamed 02BC" output="μ"/>
+			<when state="unnamed 03FE" next="unnamed 004D"/>
+			<when state="unnamed 054C" output="ⓜ"/>
+			<when state="unnamed 054D" output="ₘ"/>
+		</action>
+		<action id="n">
+			<when state="none" output="n"/>
+			<when state="ACUTE ACCENT" output="ń"/>
+			<when state="BREVE" output="ŉ"/>
+			<when state="CARON (HACEK)" output="ň"/>
+			<when state="CEDILLA" output="ņ"/>
+			<when state="COMMA BELOW" output="ņ"/>
+			<when state="CROSS ACCENT" output="ŋ"/>
+			<when state="DOT ABOVE" output="ṅ"/>
+			<when state="DOT BELOW" output="ṇ"/>
+			<when state="DOUBLE ACUTE ACCENT" next="unnamed 006E"/>
+			<when state="GRAVE ACCENT" output="ǹ"/>
+			<when state="MACRON BELOW" output="ṉ"/>
+			<when state="RING ABOVE" output="⇐"/>
+			<when state="TILDE" output="ñ"/>
+			<when state="unnamed 0031" output="᷅"/>
+			<when state="unnamed 0033" output="|"/>
+			<when state="unnamed 0041" output="̄"/>
+			<when state="unnamed 0042" output="ɲ"/>
+			<when state="unnamed 0043" output="₦"/>
+			<when state="unnamed 0045" output="ŋ"/>
+			<when state="unnamed 0046" output="ꞑ"/>
+			<when state="unnamed 0047" output="ν"/>
+			<when state="unnamed 0048" output="ŉ"/>
+			<when state="unnamed 004A" output="᷅"/>
+			<when state="unnamed 004D" output="⇐"/>
+			<when state="unnamed 004F" output="ⓝ"/>
+			<when state="unnamed 0050" output="–"/>
+			<when state="unnamed 0051" output="ₙ"/>
+			<when state="unnamed 0052" output="ⁿ"/>
+			<when state="unnamed 0053" output="►"/>
+			<when state="unnamed 0054" output="♪"/>
+			<when state="unnamed 0056" output="ˉ"/>
+			<when state="unnamed 0057" output="|"/>
+			<when state="unnamed 0058" output="ꞥ"/>
+			<when state="unnamed 0059" output="ϸ"/>
+			<when state="unnamed 02B0" output="ⁿ"/>
+			<when state="unnamed 02BC" output="ν"/>
+			<when state="unnamed 054B" output="ṋ"/>
+			<when state="unnamed 054C" output="ⓝ"/>
+			<when state="unnamed 054D" output="ₙ"/>
+		</action>
+		<action id="o">
+			<when state="none" output="o"/>
+			<when state="ACUTE ACCENT" output="ó"/>
+			<when state="BREVE" output="ŏ"/>
+			<when state="CARON (HACEK)" output="ǒ"/>
+			<when state="CIRCUMFLEX ACCENT" output="ô"/>
+			<when state="CROSS ACCENT" output="ø"/>
+			<when state="DOT ABOVE" output="ȯ"/>
+			<when state="DOT BELOW" output="ọ"/>
+			<when state="DOUBLE ACUTE ACCENT" output="ő"/>
+			<when state="GRAVE ACCENT" output="ò"/>
+			<when state="MACRON (LONGUM)" output="ō"/>
+			<when state="MINUS ACCENT" output="ɵ"/>
+			<when state="OGONEK" output="ǫ"/>
+			<when state="RING ABOVE" output="∡"/>
+			<when state="TILDE" output="õ"/>
+			<when state="TREMA" output="ö"/>
+			<when state="unnamed 0041" output="̉"/>
+			<when state="unnamed 0043" output="¤"/>
+			<when state="unnamed 0045" output="œ"/>
+			<when state="unnamed 0046" output="ɔ"/>
+			<when state="unnamed 0047" output="ο"/>
+			<when state="unnamed 004A" output="̚"/>
+			<when state="unnamed 004D" output="∈"/>
+			<when state="unnamed 004F" output="ⓞ"/>
+			<when state="unnamed 0050" output="⸤"/>
+			<when state="unnamed 0051" output="ₒ"/>
+			<when state="unnamed 0052" output="ᵒ"/>
+			<when state="unnamed 0053" output="☺"/>
+			<when state="unnamed 0054" output="º"/>
+			<when state="unnamed 0056" output="‧"/>
+			<when state="unnamed 0057" output="˨"/>
+			<when state="unnamed 0058" output="ø"/>
+			<when state="unnamed 0059" output="ͻ"/>
+			<when state="unnamed 005A" output="ɵ"/>
+			<when state="unnamed 01DF" output="ȫ"/>
+			<when state="unnamed 01E1" output="ȱ"/>
+			<when state="unnamed 01ED" output="ǭ"/>
+			<when state="unnamed 01FF" output="ǿ"/>
+			<when state="unnamed 022D" output="ȭ"/>
+			<when state="unnamed 02B0" output="ᵒ"/>
+			<when state="unnamed 02BC" output="ơ"/>
+			<when state="unnamed 02C0" output="ỏ"/>
+			<when state="unnamed 03FE" next="unnamed 004F"/>
+			<when state="unnamed 0531" output="ố"/>
+			<when state="unnamed 0532" output="ồ"/>
+			<when state="unnamed 0533" output="ổ"/>
+			<when state="unnamed 0534" output="ỗ"/>
+			<when state="unnamed 0535" output="ộ"/>
+			<when state="unnamed 053B" output="ṓ"/>
+			<when state="unnamed 0540" output="ṍ"/>
+			<when state="unnamed 0541" output="ṏ"/>
+			<when state="unnamed 0542" output="ṑ"/>
+			<when state="unnamed 0543" output="ớ"/>
+			<when state="unnamed 0544" output="ờ"/>
+			<when state="unnamed 0545" output="ở"/>
+			<when state="unnamed 0546" output="ỡ"/>
+			<when state="unnamed 0547" output="ợ"/>
+			<when state="unnamed 054C" output="ⓞ"/>
+			<when state="unnamed 054D" output="ₒ"/>
+		</action>
+		<action id="p">
+			<when state="none" output="p"/>
+			<when state="ACUTE ACCENT" output="ṕ"/>
+			<when state="CROSS ACCENT" output="→"/>
+			<when state="DOT ABOVE" output="ṗ"/>
+			<when state="DOUBLE ACUTE ACCENT" next="unnamed 0070"/>
+			<when state="MINUS ACCENT" output="ᵽ"/>
+			<when state="RING ABOVE" output="∏"/>
+			<when state="unnamed 0031" output="̊"/>
+			<when state="unnamed 0032" output="̥"/>
+			<when state="unnamed 0033" output="˩"/>
+			<when state="unnamed 0041" output="̊"/>
+			<when state="unnamed 0043" output="₰"/>
+			<when state="unnamed 0045" output="ɂ"/>
+			<when state="unnamed 0047" output="π"/>
+			<when state="unnamed 0048" output="ƥ"/>
+			<when state="unnamed 004A" output="̊"/>
+			<when state="unnamed 004D" output="⇌"/>
+			<when state="unnamed 004F" output="ⓟ"/>
+			<when state="unnamed 0050" output="⸥"/>
+			<when state="unnamed 0051" output="ₚ"/>
+			<when state="unnamed 0052" output="ᵖ"/>
+			<when state="unnamed 0053" output="✓"/>
+			<when state="unnamed 0054" output="¶"/>
+			<when state="unnamed 0056" output="˚"/>
+			<when state="unnamed 0057" output="˩"/>
+			<when state="unnamed 0059" output="ϖ"/>
+			<when state="unnamed 005A" output="ᵽ"/>
+			<when state="unnamed 02B0" output="ᵖ"/>
+			<when state="unnamed 02BC" output="π"/>
+			<when state="unnamed 03FE" next="unnamed 0050"/>
+			<when state="unnamed 054C" output="ⓟ"/>
+			<when state="unnamed 054D" output="ₚ"/>
+		</action>
+		<action id="q">
+			<when state="none" output="q"/>
+			<when state="COMMA BELOW" output="ɂ"/>
+			<when state="CROSS ACCENT" output="º"/>
+			<when state="DOUBLE ACUTE ACCENT" next="unnamed 0071"/>
+			<when state="RING ABOVE" output="∀"/>
+			<when state="unnamed 0031" output="́"/>
+			<when state="unnamed 0032" output="̗"/>
+			<when state="unnamed 0033" output="ˑ"/>
+			<when state="unnamed 0034" output="ˏ"/>
+			<when state="unnamed 0041" output="́"/>
+			<when state="unnamed 0042" output="ɋ"/>
+			<when state="unnamed 0043" output="₡"/>
+			<when state="unnamed 0045" output="꟏"/>
+			<when state="unnamed 0046" output="ƣ"/>
+			<when state="unnamed 0047" output="ͅ"/>
+			<when state="unnamed 0048" output="ꜣ"/>
+			<when state="unnamed 004A" output="́"/>
+			<when state="unnamed 004D" output="≠"/>
+			<when state="unnamed 004F" output="ⓠ"/>
+			<when state="unnamed 0050" output="¿"/>
+			<when state="unnamed 0053" output="■"/>
+			<when state="unnamed 0054" output="‰"/>
+			<when state="unnamed 0056" output="ˊ"/>
+			<when state="unnamed 0057" output="ˑ"/>
+			<when state="unnamed 0059" output="ϙ"/>
+			<when state="unnamed 02BC" output="ͅ"/>
+			<when state="unnamed 03FE" next="unnamed 0051"/>
+			<when state="unnamed 054C" output="ⓠ"/>
+		</action>
+		<action id="r">
+			<when state="none" output="r"/>
+			<when state="ACUTE ACCENT" output="ŕ"/>
+			<when state="BREVE" output="ȓ"/>
+			<when state="CARON (HACEK)" output="ř"/>
+			<when state="CEDILLA" output="ŗ"/>
+			<when state="COMMA BELOW" output="ɼ"/>
+			<when state="CROSS ACCENT" output="™"/>
+			<when state="DOT ABOVE" output="ṙ"/>
+			<when state="DOT BELOW" output="ṛ"/>
+			<when state="DOUBLE ACUTE ACCENT" next="unnamed 0072"/>
+			<when state="MACRON BELOW" output="ṟ"/>
+			<when state="MINUS ACCENT" output="ɍ"/>
+			<when state="RING ABOVE" output="√"/>
+			<when state="unnamed 0031" output="̃"/>
+			<when state="unnamed 0032" output="̰"/>
+			<when state="unnamed 0033" output="˞"/>
+			<when state="unnamed 0041" output="̃"/>
+			<when state="unnamed 0042" output="ɽ"/>
+			<when state="unnamed 0043" output="₹"/>
+			<when state="unnamed 0045" output="ɼ"/>
+			<when state="unnamed 0046" output="ꝛ"/>
+			<when state="unnamed 0047" output="ρ"/>
+			<when state="unnamed 0048" output="ʀ"/>
+			<when state="unnamed 004A" output="̃"/>
+			<when state="unnamed 004D" output="√"/>
+			<when state="unnamed 004F" output="ⓡ"/>
+			<when state="unnamed 0050" output="⟨"/>
+			<when state="unnamed 0051" output="ᵣ"/>
+			<when state="unnamed 0052" output="ʳ"/>
+			<when state="unnamed 0053" output="☛"/>
+			<when state="unnamed 0054" output="℞"/>
+			<when state="unnamed 0056" output="˜"/>
+			<when state="unnamed 0057" output="˞"/>
+			<when state="unnamed 0058" output="ꞧ"/>
+			<when state="unnamed 0059" output="ϱ"/>
+			<when state="unnamed 005A" output="ɍ"/>
+			<when state="unnamed 02B0" output="ʳ"/>
+			<when state="unnamed 02BC" output="ρ"/>
+			<when state="unnamed 03FE" next="unnamed 0052"/>
+			<when state="unnamed 053F" output="ṝ"/>
+			<when state="unnamed 054C" output="ⓡ"/>
+			<when state="unnamed 054D" output="ᵣ"/>
+		</action>
+		<action id="s">
+			<when state="none" output="s"/>
+			<when state="ACUTE ACCENT" output="ś"/>
+			<when state="CARON (HACEK)" output="š"/>
+			<when state="CEDILLA" output="ş"/>
+			<when state="CIRCUMFLEX ACCENT" output="ŝ"/>
+			<when state="COMMA BELOW" output="ș"/>
+			<when state="CROSS ACCENT" output="ſ"/>
+			<when state="DOT ABOVE" output="ṡ"/>
+			<when state="DOT BELOW" output="ṣ"/>
+			<when state="DOUBLE ACUTE ACCENT" next="unnamed 0073"/>
+			<when state="MINUS ACCENT" output="ꟊ"/>
+			<when state="RING ABOVE" output="↔"/>
+			<when state="unnamed 0031" output="̇"/>
+			<when state="unnamed 0032" output="̣"/>
+			<when state="unnamed 0034" output="."/>
+			<when state="unnamed 0041" output="̇"/>
+			<when state="unnamed 0043" output="₪"/>
+			<when state="unnamed 0045" output="ß"/>
+			<when state="unnamed 0046" output="ʃ"/>
+			<when state="unnamed 0047" output="σ"/>
+			<when state="unnamed 004A" output="̇"/>
+			<when state="unnamed 004D" output="∫"/>
+			<when state="unnamed 004F" output="ⓢ"/>
+			<when state="unnamed 0050" output="′"/>
+			<when state="unnamed 0051" output="ₛ"/>
+			<when state="unnamed 0052" output="ˢ"/>
+			<when state="unnamed 0053" output="◊"/>
+			<when state="unnamed 0054" output="§"/>
+			<when state="unnamed 0056" output="˙"/>
+			<when state="unnamed 0058" output="ꞩ"/>
+			<when state="unnamed 0059" output="ϲ"/>
+			<when state="unnamed 005A" output="ꟊ"/>
+			<when state="unnamed 02B0" output="ˢ"/>
+			<when state="unnamed 02BC" output="σ"/>
+			<when state="unnamed 03FE" next="unnamed 0053"/>
+			<when state="unnamed 0548" output="ṥ"/>
+			<when state="unnamed 0549" output="ṧ"/>
+			<when state="unnamed 054A" output="ṩ"/>
+			<when state="unnamed 054C" output="ⓢ"/>
+			<when state="unnamed 054D" output="ₛ"/>
+		</action>
+		<action id="t">
+			<when state="none" output="t"/>
+			<when state="CARON (HACEK)" output="ť"/>
+			<when state="CEDILLA" output="ţ"/>
+			<when state="COMMA BELOW" output="ț"/>
+			<when state="CROSS ACCENT" output="þ"/>
+			<when state="DOT ABOVE" output="ṫ"/>
+			<when state="DOT BELOW" output="ṭ"/>
+			<when state="DOUBLE ACUTE ACCENT" next="unnamed 0074"/>
+			<when state="MACRON BELOW" output="ṯ"/>
+			<when state="MINUS ACCENT" output="ŧ"/>
+			<when state="RING ABOVE" output="⊥"/>
+			<when state="TREMA" output="ẗ"/>
+			<when state="unnamed 0031" output="̋"/>
+			<when state="unnamed 0032" output="̩"/>
+			<when state="unnamed 0033" output="˹"/>
+			<when state="unnamed 0034" output="ˌ"/>
+			<when state="unnamed 0041" output="̋"/>
+			<when state="unnamed 0042" output="ʈ"/>
+			<when state="unnamed 0043" output="₮"/>
+			<when state="unnamed 0045" output="þ"/>
+			<when state="unnamed 0047" output="τ"/>
+			<when state="unnamed 0048" output="ƭ"/>
+			<when state="unnamed 004A" output="̋"/>
+			<when state="unnamed 004D" output="⟂"/>
+			<when state="unnamed 004F" output="ⓣ"/>
+			<when state="unnamed 0050" output="⟩"/>
+			<when state="unnamed 0051" output="ₜ"/>
+			<when state="unnamed 0052" output="ᵗ"/>
+			<when state="unnamed 0053" output="☚"/>
+			<when state="unnamed 0054" output="※"/>
+			<when state="unnamed 0056" output="˝"/>
+			<when state="unnamed 0057" output="˹"/>
+			<when state="unnamed 0058" output="ⱦ"/>
+			<when state="unnamed 0059" output="ϟ"/>
+			<when state="unnamed 005A" output="ŧ"/>
+			<when state="unnamed 02B0" output="ᵗ"/>
+			<when state="unnamed 02BC" output="τ"/>
+			<when state="unnamed 03FE" next="unnamed 0054"/>
+			<when state="unnamed 054B" output="ṱ"/>
+			<when state="unnamed 054C" output="ⓣ"/>
+			<when state="unnamed 054D" output="ₜ"/>
+		</action>
+		<action id="u">
+			<when state="none" output="u"/>
+			<when state="ACUTE ACCENT" output="ú"/>
+			<when state="BREVE" output="ŭ"/>
+			<when state="CARON (HACEK)" output="ǔ"/>
+			<when state="CIRCUMFLEX ACCENT" output="û"/>
+			<when state="CROSS ACCENT" output="↓"/>
+			<when state="DOT BELOW" output="ụ"/>
+			<when state="DOUBLE ACUTE ACCENT" output="ű"/>
+			<when state="GRAVE ACCENT" output="ù"/>
+			<when state="MACRON (LONGUM)" output="ū"/>
+			<when state="MINUS ACCENT" output="ʉ"/>
+			<when state="OGONEK" output="ų"/>
+			<when state="RING ABOVE" output="ů"/>
+			<when state="TILDE" output="ũ"/>
+			<when state="TREMA" output="ü"/>
+			<when state="unnamed 0041" output="̌"/>
+			<when state="unnamed 0042" output="ɯ"/>
+			<when state="unnamed 0045" output="ȣ"/>
+			<when state="unnamed 0046" output="ʊ"/>
+			<when state="unnamed 0047" output="θ"/>
+			<when state="unnamed 004A" output="̌"/>
+			<when state="unnamed 004D" output="∪"/>
+			<when state="unnamed 004F" output="ⓤ"/>
+			<when state="unnamed 0050" output="⸢"/>
+			<when state="unnamed 0051" output="ᵤ"/>
+			<when state="unnamed 0052" output="ᵘ"/>
+			<when state="unnamed 0053" output="‖"/>
+			<when state="unnamed 0054" output="≅"/>
+			<when state="unnamed 0056" output="ˇ"/>
+			<when state="unnamed 0057" output="˦"/>
+			<when state="unnamed 0058" output="ꞹ"/>
+			<when state="unnamed 0059" output="ϑ"/>
+			<when state="unnamed 005A" output="ʉ"/>
+			<when state="unnamed 01DA" output="ǚ"/>
+			<when state="unnamed 01DC" output="ǜ"/>
+			<when state="unnamed 01DF" output="ṻ"/>
+			<when state="unnamed 02B0" output="ᵘ"/>
+			<when state="unnamed 02BC" output="ư"/>
+			<when state="unnamed 02C0" output="ủ"/>
+			<when state="unnamed 053E" output="ǘ"/>
+			<when state="unnamed 0540" output="ṹ"/>
+			<when state="unnamed 0543" output="ứ"/>
+			<when state="unnamed 0544" output="ừ"/>
+			<when state="unnamed 0545" output="ử"/>
+			<when state="unnamed 0546" output="ữ"/>
+			<when state="unnamed 0547" output="ự"/>
+			<when state="unnamed 054B" output="ṷ"/>
+			<when state="unnamed 054C" output="ⓤ"/>
+			<when state="unnamed 054D" output="ᵤ"/>
+		</action>
+		<action id="v">
+			<when state="none" output="v"/>
+			<when state="CROSS ACCENT" output="“"/>
+			<when state="DOT BELOW" output="ṿ"/>
+			<when state="DOUBLE ACUTE ACCENT" next="unnamed 0076"/>
+			<when state="RING ABOVE" output="∨"/>
+			<when state="TILDE" output="ṽ"/>
+			<when state="unnamed 0032" output="̼"/>
+			<when state="unnamed 0033" output="ˈ"/>
+			<when state="unnamed 0041" output="̍"/>
+			<when state="unnamed 0043" output="ℳ"/>
+			<when state="unnamed 0045" output="ɤ"/>
+			<when state="unnamed 0046" output="ʌ"/>
+			<when state="unnamed 0047" output="ω"/>
+			<when state="unnamed 0048" output="ʋ"/>
+			<when state="unnamed 004D" output="∨"/>
+			<when state="unnamed 004F" output="ⓥ"/>
+			<when state="unnamed 0050" output="‑"/>
+			<when state="unnamed 0051" output="ᵥ"/>
+			<when state="unnamed 0052" output="ᵛ"/>
+			<when state="unnamed 0053" output="▲"/>
+			<when state="unnamed 0054" output="♫"/>
+			<when state="unnamed 0056" output="ˈ"/>
+			<when state="unnamed 0057" output="ˈ"/>
+			<when state="unnamed 0058" output="ꝟ"/>
+			<when state="unnamed 0059" output="ϻ"/>
+			<when state="unnamed 02B0" output="ᵛ"/>
+			<when state="unnamed 02BC" output="ω"/>
+			<when state="unnamed 03FE" next="unnamed 0056"/>
+			<when state="unnamed 0543" output="ώ"/>
+			<when state="unnamed 054C" output="ⓥ"/>
+			<when state="unnamed 054D" output="ᵥ"/>
+		</action>
+		<action id="w">
+			<when state="none" output="w"/>
+			<when state="ACUTE ACCENT" output="ẃ"/>
+			<when state="CIRCUMFLEX ACCENT" output="ŵ"/>
+			<when state="COMMA BELOW" output="ƿ"/>
+			<when state="CROSS ACCENT" output="ª"/>
+			<when state="DOT ABOVE" output="ẇ"/>
+			<when state="DOT BELOW" output="ẉ"/>
+			<when state="DOUBLE ACUTE ACCENT" next="unnamed 0077"/>
+			<when state="GRAVE ACCENT" output="ẁ"/>
+			<when state="RING ABOVE" output="ẘ"/>
+			<when state="TREMA" output="ẅ"/>
+			<when state="unnamed 0031" output="̀"/>
+			<when state="unnamed 0032" output="̖"/>
+			<when state="unnamed 0033" output="ː"/>
+			<when state="unnamed 0034" output="ˎ"/>
+			<when state="unnamed 0041" output="̀"/>
+			<when state="unnamed 0043" output="₩"/>
+			<when state="unnamed 0045" output="ƿ"/>
+			<when state="unnamed 0046" output="ꞷ"/>
+			<when state="unnamed 0047" output="ς"/>
+			<when state="unnamed 0048" output="ⱳ"/>
+			<when state="unnamed 004A" output="̀"/>
+			<when state="unnamed 004D" output="≪"/>
+			<when state="unnamed 004F" output="ⓦ"/>
+			<when state="unnamed 0050" output="¡"/>
+			<when state="unnamed 0051" output="₝"/>
+			<when state="unnamed 0052" output="ʷ"/>
+			<when state="unnamed 0053" output="◆"/>
+			<when state="unnamed 0054" output="⌘"/>
+			<when state="unnamed 0056" output="ˋ"/>
+			<when state="unnamed 0057" output="ː"/>
+			<when state="unnamed 0059" output="ϝ"/>
+			<when state="unnamed 02B0" output="ʷ"/>
+			<when state="unnamed 02BC" output="ς"/>
+			<when state="unnamed 03FE" next="unnamed 0057"/>
+			<when state="unnamed 054C" output="ⓦ"/>
+			<when state="unnamed 054D" output="₝"/>
+		</action>
+		<action id="x">
+			<when state="none" output="x"/>
+			<when state="CROSS ACCENT" output="„"/>
+			<when state="DOT ABOVE" output="ẋ"/>
+			<when state="DOUBLE ACUTE ACCENT" next="unnamed 0078"/>
+			<when state="RING ABOVE" output="✕"/>
+			<when state="TREMA" output="ẍ"/>
+			<when state="unnamed 0032" output="̡"/>
+			<when state="unnamed 0033" output="("/>
+			<when state="unnamed 0034" output="⸨"/>
+			<when state="unnamed 0041" output="͂"/>
+			<when state="unnamed 0043" output="₢"/>
+			<when state="unnamed 0045" output="ꭓ"/>
+			<when state="unnamed 0047" output="χ"/>
+			<when state="unnamed 0048" output="ꜥ"/>
+			<when state="unnamed 004D" output="¬"/>
+			<when state="unnamed 004F" output="ⓧ"/>
+			<when state="unnamed 0050" output="−"/>
+			<when state="unnamed 0051" output="ₓ"/>
+			<when state="unnamed 0052" output="ˣ"/>
+			<when state="unnamed 0053" output="♥"/>
+			<when state="unnamed 0054" output="×"/>
+			<when state="unnamed 0056" output="῀"/>
+			<when state="unnamed 0057" output="("/>
+			<when state="unnamed 0059" output="ϡ"/>
+			<when state="unnamed 02B0" output="ˣ"/>
+			<when state="unnamed 02BC" output="χ"/>
+			<when state="unnamed 03FE" next="unnamed 0058"/>
+			<when state="unnamed 054C" output="ⓧ"/>
+			<when state="unnamed 054D" output="ₓ"/>
+		</action>
+		<action id="y">
+			<when state="none" output="y"/>
+			<when state="ACUTE ACCENT" output="ý"/>
+			<when state="CIRCUMFLEX ACCENT" output="ŷ"/>
+			<when state="COMMA BELOW" output="ȝ"/>
+			<when state="CROSS ACCENT" output="␣"/>
+			<when state="DOT ABOVE" output="ẏ"/>
+			<when state="DOT BELOW" output="ỵ"/>
+			<when state="DOUBLE ACUTE ACCENT" next="unnamed 0079"/>
+			<when state="GRAVE ACCENT" output="ỳ"/>
+			<when state="MACRON (LONGUM)" output="ȳ"/>
+			<when state="MINUS ACCENT" output="ɏ"/>
+			<when state="RING ABOVE" output="ẙ"/>
+			<when state="TILDE" output="ỹ"/>
+			<when state="TREMA" output="ÿ"/>
+			<when state="unnamed 0031" output="̆"/>
+			<when state="unnamed 0032" output="̠"/>
+			<when state="unnamed 0033" output="˥"/>
+			<when state="unnamed 0034" output="˗"/>
+			<when state="unnamed 0041" output="̆"/>
+			<when state="unnamed 0043" output="¥"/>
+			<when state="unnamed 0045" output="ꟛ"/>
+			<when state="unnamed 0046" output="ь"/>
+			<when state="unnamed 0047" output="υ"/>
+			<when state="unnamed 0048" output="ƴ"/>
+			<when state="unnamed 004A" output="̆"/>
+			<when state="unnamed 004D" output="≤"/>
+			<when state="unnamed 004F" output="ⓨ"/>
+			<when state="unnamed 0050" output="…"/>
+			<when state="unnamed 0051" output="₞"/>
+			<when state="unnamed 0052" output="ʸ"/>
+			<when state="unnamed 0053" output="¦"/>
+			<when state="unnamed 0054" output="÷"/>
+			<when state="unnamed 0056" output="˘"/>
+			<when state="unnamed 0057" output="˥"/>
+			<when state="unnamed 0059" output="϶"/>
+			<when state="unnamed 005A" output="ɏ"/>
+			<when state="unnamed 02B0" output="ʸ"/>
+			<when state="unnamed 02BC" output="υ"/>
+			<when state="unnamed 02C0" output="ỷ"/>
+			<when state="unnamed 0390" output="ΰ"/>
+			<when state="unnamed 03CA" output="ϋ"/>
+			<when state="unnamed 03FE" next="unnamed 0059"/>
+			<when state="unnamed 0543" output="ύ"/>
+			<when state="unnamed 054C" output="ⓨ"/>
+			<when state="unnamed 054D" output="₞"/>
+		</action>
+		<action id="z">
+			<when state="none" output="z"/>
+			<when state="ACUTE ACCENT" output="ź"/>
+			<when state="CARON (HACEK)" output="ž"/>
+			<when state="CIRCUMFLEX ACCENT" output="ẑ"/>
+			<when state="COMMA BELOW" output="ȥ"/>
+			<when state="CROSS ACCENT" output="ʒ"/>
+			<when state="DOT ABOVE" output="ż"/>
+			<when state="DOT BELOW" output="ẓ"/>
+			<when state="DOUBLE ACUTE ACCENT" next="unnamed 007A"/>
+			<when state="MACRON BELOW" output="ẕ"/>
+			<when state="MINUS ACCENT" output="ƶ"/>
+			<when state="RING ABOVE" output="⚡"/>
+			<when state="unnamed 0031" output="͡"/>
+			<when state="unnamed 0032" output="̻"/>
+			<when state="unnamed 0034" output="‿"/>
+			<when state="unnamed 0041" output="͡"/>
+			<when state="unnamed 0042" output="ȥ"/>
+			<when state="unnamed 0045" output="ʒ"/>
+			<when state="unnamed 0046" output="ƹ"/>
+			<when state="unnamed 0047" output="ζ"/>
+			<when state="unnamed 004A" output="͡"/>
+			<when state="unnamed 004D" output="↔"/>
+			<when state="unnamed 004F" output="ⓩ"/>
+			<when state="unnamed 0050" output="⁓"/>
+			<when state="unnamed 0051" output="₟"/>
+			<when state="unnamed 0052" output="ᶻ"/>
+			<when state="unnamed 0053" output="▪"/>
+			<when state="unnamed 0054" output="±"/>
+			<when state="unnamed 0056" output="⁀"/>
+			<when state="unnamed 0059" output="ͳ"/>
+			<when state="unnamed 005A" output="ƶ"/>
+			<when state="unnamed 01EF" output="ǯ"/>
+			<when state="unnamed 02B0" output="ᶻ"/>
+			<when state="unnamed 02BC" output="ζ"/>
+			<when state="unnamed 03FE" next="unnamed 005A"/>
+			<when state="unnamed 054C" output="ⓩ"/>
+			<when state="unnamed 054D" output="₟"/>
+		</action>
+		<action id="|">
+			<when state="none" output="|"/>
+			<when state="COMMA BELOW" output="⦀"/>
+			<when state="MINUS ACCENT" output="✝"/>
+		</action>
+		<action id="~">
+			<when state="none" output="~"/>
+			<when state="DOT ABOVE" output="⸞"/>
+			<when state="DOT BELOW" output="⸟"/>
+			<when state="MINUS ACCENT" output="⁓"/>
+			<when state="RING ABOVE" output="⸛"/>
+			<when state="TILDE" output="≈"/>
+		</action>
+		<action id="§">
+			<when state="none" output="§"/>
+			<when state="CROSS ACCENT" output="¶"/>
+		</action>
+		<action id="¨">
+			<when state="none" next="TREMA"/>
+			<when state="ACUTE ACCENT" next="unnamed 053E"/>
+			<when state="CARON (HACEK)" next="unnamed 01DA"/>
+			<when state="GRAVE ACCENT" next="unnamed 01DC"/>
+			<when state="MACRON (LONGUM)" next="unnamed 01DF"/>
+			<when state="TILDE" next="unnamed 0541"/>
+			<when state="TREMA" output="̈"/>
+			<when state="unnamed 02BC" next="unnamed 03CA"/>
+		</action>
+		<action id="¯">
+			<when state="none" next="MACRON (LONGUM)"/>
+			<when state="ACUTE ACCENT" next="unnamed 053B"/>
+			<when state="CARON (HACEK)" output="͟"/>
+			<when state="COMMA BELOW" output="̅"/>
+			<when state="DOT ABOVE" next="unnamed 01E1"/>
+			<when state="DOT BELOW" next="unnamed 053F"/>
+			<when state="GRAVE ACCENT" next="unnamed 0542"/>
+			<when state="MACRON (LONGUM)" output="̄"/>
+			<when state="OGONEK" next="unnamed 01ED"/>
+			<when state="TILDE" next="unnamed 022D"/>
+			<when state="TREMA" next="unnamed 01DF"/>
+		</action>
+		<action id="°">
+			<when state="none" output="°"/>
+			<when state="MINUS ACCENT" output="◌"/>
+		</action>
+		<action id="´">
+			<when state="none" next="ACUTE ACCENT"/>
+			<when state="ACUTE ACCENT" output="́"/>
+			<when state="BREVE" next="unnamed 0536"/>
+			<when state="CEDILLA" next="unnamed 053C"/>
+			<when state="CIRCUMFLEX ACCENT" next="unnamed 0531"/>
+			<when state="COMMA BELOW" output="̍"/>
+			<when state="CROSS ACCENT" output="£"/>
+			<when state="DOT ABOVE" next="unnamed 0548"/>
+			<when state="MACRON (LONGUM)" next="unnamed 053B"/>
+			<when state="RING ABOVE" next="unnamed 01FB"/>
+			<when state="TILDE" next="unnamed 0540"/>
+			<when state="TREMA" next="unnamed 053E"/>
+			<when state="unnamed 02BC" next="unnamed 0543"/>
+		</action>
+		<action id="·">
+			<when state="none" output="·"/>
+			<when state="MINUS ACCENT" output="◉"/>
+			<when state="RING ABOVE" output="∙"/>
+		</action>
+		<action id="¸">
+			<when state="none" next="CEDILLA"/>
+			<when state="ACUTE ACCENT" next="unnamed 053C"/>
+			<when state="BREVE" next="unnamed 053D"/>
+			<when state="CEDILLA" output="̧"/>
+		</action>
+		<action id="Ä">
+			<when state="none" output="Ä"/>
+			<when state="CROSS ACCENT" output="Æ"/>
+			<when state="MACRON (LONGUM)" output="Ǟ"/>
+			<when state="RING ABOVE" output="∌"/>
+			<when state="unnamed 01E3" output="Ǣ"/>
+			<when state="unnamed 01FF" output="Ǽ"/>
+			<when state="unnamed 02BC" output="Α"/>
+		</action>
+		<action id="Ö">
+			<when state="none" output="Ö"/>
+			<when state="CROSS ACCENT" output="Œ"/>
+			<when state="MACRON (LONGUM)" output="Ȫ"/>
+			<when state="MINUS ACCENT" output="‍"/>
+			<when state="RING ABOVE" output="∉"/>
+			<when state="unnamed 02BC" output="Ο"/>
+			<when state="unnamed 0543" output="Ό"/>
+		</action>
+		<action id="×">
+			<when state="none" output="×"/>
+			<when state="RING ABOVE" output="⊗"/>
+		</action>
+		<action id="Ü">
+			<when state="none" output="Ü"/>
+			<when state="ACUTE ACCENT" output="Ǘ"/>
+			<when state="CARON (HACEK)" output="Ǚ"/>
+			<when state="CROSS ACCENT" output="↗"/>
+			<when state="GRAVE ACCENT" output="Ǜ"/>
+			<when state="MACRON (LONGUM)" output="Ǖ"/>
+			<when state="MINUS ACCENT" output=" "/>
+			<when state="RING ABOVE" output="∦"/>
+			<when state="unnamed 02BC" output="Θ"/>
+		</action>
+		<action id="ß">
+			<when state="none" output="ß"/>
+			<when state="CROSS ACCENT" output="≠"/>
+			<when state="MINUS ACCENT" output=" "/>
+			<when state="RING ABOVE" output="∫"/>
+			<when state="unnamed 02BC" output="̓"/>
+		</action>
+		<action id="ä">
+			<when state="none" output="ä"/>
+			<when state="CROSS ACCENT" output="æ"/>
+			<when state="DOUBLE ACUTE ACCENT" next="unnamed 0061"/>
+			<when state="MACRON (LONGUM)" output="ǟ"/>
+			<when state="RING ABOVE" output="∋"/>
+			<when state="unnamed 0031" output="̽"/>
+			<when state="unnamed 0032" output="̪"/>
+			<when state="unnamed 0034" output=","/>
+			<when state="unnamed 01E3" output="ǣ"/>
+			<when state="unnamed 01FF" output="ǽ"/>
+			<when state="unnamed 02BC" output="α"/>
+		</action>
+		<action id="ö">
+			<when state="none" output="ö"/>
+			<when state="CROSS ACCENT" output="œ"/>
+			<when state="DOUBLE ACUTE ACCENT" next="unnamed 006F"/>
+			<when state="MACRON (LONGUM)" output="ȫ"/>
+			<when state="MINUS ACCENT" output="​"/>
+			<when state="RING ABOVE" output="∈"/>
+			<when state="unnamed 0031" output="̚"/>
+			<when state="unnamed 0032" output="̝"/>
+			<when state="unnamed 0033" output="˨"/>
+			<when state="unnamed 0034" output="˔"/>
+			<when state="unnamed 02BC" output="ο"/>
+			<when state="unnamed 0543" output="ό"/>
+		</action>
+		<action id="ü">
+			<when state="none" output="ü"/>
+			<when state="ACUTE ACCENT" output="ǘ"/>
+			<when state="CARON (HACEK)" output="ǚ"/>
+			<when state="CROSS ACCENT" output="↘"/>
+			<when state="DOUBLE ACUTE ACCENT" next="unnamed 0075"/>
+			<when state="GRAVE ACCENT" output="ǜ"/>
+			<when state="MACRON (LONGUM)" output="ǖ"/>
+			<when state="MINUS ACCENT" output=" "/>
+			<when state="RING ABOVE" output="∥"/>
+			<when state="unnamed 0031" output="̌"/>
+			<when state="unnamed 0032" output="̟"/>
+			<when state="unnamed 0033" output="˦"/>
+			<when state="unnamed 0034" output="˖"/>
+			<when state="unnamed 02BC" output="θ"/>
+		</action>
+		<action id="ʼ">
+			<when state="none" next="unnamed 02BC"/>
+			<when state="ACUTE ACCENT" next="unnamed 0543"/>
+			<when state="BREVE" next="unnamed 0390"/>
+			<when state="COMMA BELOW" output="̕"/>
+			<when state="DOT BELOW" next="unnamed 0547"/>
+			<when state="GRAVE ACCENT" next="unnamed 0544"/>
+			<when state="TILDE" next="unnamed 0546"/>
+			<when state="TREMA" next="unnamed 03CA"/>
+			<when state="unnamed 02BC" output="̛"/>
+			<when state="unnamed 02C0" next="unnamed 0545"/>
+		</action>
+		<action id="ˀ">
+			<when state="none" next="unnamed 02C0"/>
+			<when state="BREVE" next="unnamed 0538"/>
+			<when state="CIRCUMFLEX ACCENT" next="unnamed 0533"/>
+			<when state="COMMA BELOW" output="̒"/>
+			<when state="unnamed 02BC" next="unnamed 0545"/>
+			<when state="unnamed 02C0" output="̉"/>
+		</action>
+		<action id="ˇ">
+			<when state="none" next="CARON (HACEK)"/>
+			<when state="BREVE" next="unnamed 054D"/>
+			<when state="CARON (HACEK)" output="̌"/>
+			<when state="CIRCUMFLEX ACCENT" next="unnamed 054B"/>
+			<when state="DOT ABOVE" next="unnamed 0549"/>
+			<when state="TREMA" next="unnamed 01DA"/>
+		</action>
+		<action id="ˌ">
+			<when state="none" next="DOT BELOW"/>
+			<when state="BREVE" next="unnamed 053A"/>
+			<when state="CIRCUMFLEX ACCENT" next="unnamed 0535"/>
+			<when state="DOT ABOVE" next="unnamed 054A"/>
+			<when state="DOT BELOW" output="̣"/>
+			<when state="MACRON (LONGUM)" next="unnamed 053F"/>
+			<when state="unnamed 02BC" next="unnamed 0547"/>
+		</action>
+		<action id="ˍ">
+			<when state="none" next="MACRON BELOW"/>
+			<when state="CARON (HACEK)" output="͟"/>
+			<when state="COMMA BELOW" output="̲"/>
+			<when state="MACRON BELOW" output="̱"/>
+		</action>
+		<action id="ˏ">
+			<when state="none" next="COMMA BELOW"/>
+			<when state="COMMA BELOW" output="̦"/>
+		</action>
+		<action id="˗">
+			<when state="none" next="MINUS ACCENT"/>
+			<when state="MINUS ACCENT" output="̵"/>
+		</action>
+		<action id="˘">
+			<when state="none" next="BREVE"/>
+			<when state="ACUTE ACCENT" next="unnamed 0536"/>
+			<when state="BREVE" output="̆"/>
+			<when state="CARON (HACEK)" output="͜"/>
+			<when state="CEDILLA" next="unnamed 053D"/>
+			<when state="COMMA BELOW" output="̯"/>
+			<when state="DOT ABOVE" output="̐"/>
+			<when state="DOT BELOW" next="unnamed 053A"/>
+			<when state="GRAVE ACCENT" next="unnamed 0537"/>
+			<when state="TILDE" next="unnamed 0539"/>
+			<when state="unnamed 02BC" next="unnamed 0390"/>
+			<when state="unnamed 02C0" next="unnamed 0538"/>
+		</action>
+		<action id="˙">
+			<when state="none" next="DOT ABOVE"/>
+			<when state="ACUTE ACCENT" next="unnamed 0548"/>
+			<when state="CARON (HACEK)" next="unnamed 0549"/>
+			<when state="COMMA BELOW" output="͘"/>
+			<when state="DOT ABOVE" output="̇"/>
+			<when state="DOT BELOW" next="unnamed 054A"/>
+			<when state="MACRON (LONGUM)" next="unnamed 01E1"/>
+		</action>
+		<action id="˚">
+			<when state="none" next="RING ABOVE"/>
+			<when state="ACUTE ACCENT" next="unnamed 01FB"/>
+			<when state="BREVE" next="unnamed 054C"/>
+			<when state="CARON (HACEK)" output="̥"/>
+			<when state="RING ABOVE" output="̊"/>
+		</action>
+		<action id="˛">
+			<when state="none" next="OGONEK"/>
+			<when state="COMMA BELOW" output="᪷"/>
+			<when state="MACRON (LONGUM)" next="unnamed 01ED"/>
+			<when state="OGONEK" output="̨"/>
+		</action>
+		<action id="˜">
+			<when state="none" next="TILDE"/>
+			<when state="ACUTE ACCENT" next="unnamed 0540"/>
+			<when state="BREVE" next="unnamed 0539"/>
+			<when state="CARON (HACEK)" output="̰"/>
+			<when state="CIRCUMFLEX ACCENT" next="unnamed 0534"/>
+			<when state="MACRON (LONGUM)" next="unnamed 022D"/>
+			<when state="TILDE" output="̃"/>
+			<when state="TREMA" next="unnamed 0541"/>
+			<when state="unnamed 02BC" next="unnamed 0546"/>
+		</action>
+		<action id="˝">
+			<when state="none" next="DOUBLE ACUTE ACCENT"/>
+			<when state="DOUBLE ACUTE ACCENT" output="̋"/>
+		</action>
+		<action id="˟">
+			<when state="none" next="CROSS ACCENT"/>
+			<when state="ACUTE ACCENT" next="unnamed 01FF"/>
+			<when state="BREVE" next="unnamed 01EF"/>
+			<when state="MACRON (LONGUM)" next="unnamed 01E3"/>
+		</action>
+		<action id="Ͼ">
+			<when state="none" next="unnamed 03FE"/>
+			<when state="unnamed 03FE" output="Ͼ"/>
+		</action>
+		<action id=" ">
+			<when state="none" output=" "/>
+			<when state="CROSS ACCENT" output="̽"/>
+		</action>
+		<action id="′">
+			<when state="none" output="′"/>
+			<when state="COMMA BELOW" output="‵"/>
+		</action>
+		<action id="″">
+			<when state="none" output="″"/>
+			<when state="COMMA BELOW" output="‶"/>
+		</action>
+	</actions>
+	<terminators>
+		<when state="ACUTE ACCENT" output="´"/>
+		<when state="BREVE" output="˘"/>
+		<when state="CARON (HACEK)" output="ˇ"/>
+		<when state="CEDILLA" output="¸"/>
+		<when state="CIRCUMFLEX ACCENT" output="^"/>
+		<when state="COMMA BELOW" output="ˏ"/>
+		<when state="CROSS ACCENT" output="˟"/>
+		<when state="DOT ABOVE" output="˙"/>
+		<when state="DOT BELOW" output="ˌ"/>
+		<when state="DOUBLE ACUTE ACCENT" output="˝"/>
+		<when state="GRAVE ACCENT" output="`"/>
+		<when state="MACRON (LONGUM)" output="¯"/>
+		<when state="MACRON BELOW" output="ˍ"/>
+		<when state="MINUS ACCENT" output="˗"/>
+		<when state="OGONEK" output="˛"/>
+		<when state="RING ABOVE" output="˚"/>
+		<when state="TILDE" output="˜"/>
+		<when state="TREMA" output="¨"/>
+		<when state="unnamed 0031" output="1"/>
+		<when state="unnamed 0032" output="2"/>
+		<when state="unnamed 0033" output="3"/>
+		<when state="unnamed 0034" output="4"/>
+		<when state="unnamed 0041" output="A"/>
+		<when state="unnamed 0042" output="B"/>
+		<when state="unnamed 0043" output="C"/>
+		<when state="unnamed 0045" output="E"/>
+		<when state="unnamed 0046" output="F"/>
+		<when state="unnamed 0047" output="G"/>
+		<when state="unnamed 0048" output="H"/>
+		<when state="unnamed 004A" output="J"/>
+		<when state="unnamed 004D" output="M"/>
+		<when state="unnamed 004F" output="O"/>
+		<when state="unnamed 0050" output="P"/>
+		<when state="unnamed 0051" output="Q"/>
+		<when state="unnamed 0052" output="R"/>
+		<when state="unnamed 0053" output="S"/>
+		<when state="unnamed 0054" output="T"/>
+		<when state="unnamed 0056" output="V"/>
+		<when state="unnamed 0057" output="W"/>
+		<when state="unnamed 0058" output="X"/>
+		<when state="unnamed 0059" output="Y"/>
+		<when state="unnamed 005A" output="Z"/>
+		<when state="unnamed 0061" output="a"/>
+		<when state="unnamed 0062" output="b"/>
+		<when state="unnamed 0063" output="c"/>
+		<when state="unnamed 0064" output="d"/>
+		<when state="unnamed 0065" output="e"/>
+		<when state="unnamed 0066" output="f"/>
+		<when state="unnamed 0067" output="g"/>
+		<when state="unnamed 0068" output="h"/>
+		<when state="unnamed 0069" output="i"/>
+		<when state="unnamed 006A" output="j"/>
+		<when state="unnamed 006B" output="k"/>
+		<when state="unnamed 006C" output="l"/>
+		<when state="unnamed 006D" output="m"/>
+		<when state="unnamed 006E" output="n"/>
+		<when state="unnamed 006F" output="o"/>
+		<when state="unnamed 0070" output="p"/>
+		<when state="unnamed 0071" output="q"/>
+		<when state="unnamed 0072" output="r"/>
+		<when state="unnamed 0073" output="s"/>
+		<when state="unnamed 0074" output="t"/>
+		<when state="unnamed 0075" output="u"/>
+		<when state="unnamed 0076" output="v"/>
+		<when state="unnamed 0077" output="w"/>
+		<when state="unnamed 0078" output="x"/>
+		<when state="unnamed 0079" output="y"/>
+		<when state="unnamed 007A" output="z"/>
+		<when state="unnamed 01DA" output=""/>
+		<when state="unnamed 01DC" output=""/>
+		<when state="unnamed 01DF" output=""/>
+		<when state="unnamed 01E1" output=""/>
+		<when state="unnamed 01E3" output=""/>
+		<when state="unnamed 01ED" output=""/>
+		<when state="unnamed 01EF" output=""/>
+		<when state="unnamed 01FB" output=""/>
+		<when state="unnamed 01FF" output=""/>
+		<when state="unnamed 022D" output=""/>
+		<when state="unnamed 02B0" output=""/>
+		<when state="unnamed 02BC" output="ʼ"/>
+		<when state="unnamed 02C0" output="ˀ"/>
+		<when state="unnamed 0390" output=""/>
+		<when state="unnamed 03CA" output=""/>
+		<when state="unnamed 03FE" output="Ͼ"/>
+		<when state="unnamed 0531" output=""/>
+		<when state="unnamed 0532" output=""/>
+		<when state="unnamed 0533" output=""/>
+		<when state="unnamed 0534" output=""/>
+		<when state="unnamed 0535" output=""/>
+		<when state="unnamed 0536" output=""/>
+		<when state="unnamed 0537" output=""/>
+		<when state="unnamed 0538" output=""/>
+		<when state="unnamed 0539" output=""/>
+		<when state="unnamed 053A" output=""/>
+		<when state="unnamed 053B" output=""/>
+		<when state="unnamed 053C" output=""/>
+		<when state="unnamed 053D" output=""/>
+		<when state="unnamed 053E" output=""/>
+		<when state="unnamed 053F" output=""/>
+		<when state="unnamed 0540" output=""/>
+		<when state="unnamed 0541" output=""/>
+		<when state="unnamed 0542" output=""/>
+		<when state="unnamed 0543" output=""/>
+		<when state="unnamed 0544" output=""/>
+		<when state="unnamed 0545" output=""/>
+		<when state="unnamed 0546" output=""/>
+		<when state="unnamed 0547" output=""/>
+		<when state="unnamed 0548" output=""/>
+		<when state="unnamed 0549" output=""/>
+		<when state="unnamed 054A" output=""/>
+		<when state="unnamed 054B" output=""/>
+		<when state="unnamed 054C" output=""/>
+		<when state="unnamed 054D" output=""/>
+	</terminators>
+</keyboard>
+
